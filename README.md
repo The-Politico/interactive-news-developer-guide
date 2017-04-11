@@ -1,4 +1,4 @@
-# Politico newsroom developer guide
+# Politico interactive news developer guide
 
 This is a working document for interactive developers in the newsroom.
 

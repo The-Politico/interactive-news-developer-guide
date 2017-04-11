@@ -2,8 +2,6 @@
 
 Important contacts.
 
-* [CMS](#heading-2)
-
 ---
 
 ### CMS

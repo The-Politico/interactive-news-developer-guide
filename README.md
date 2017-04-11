@@ -1,3 +1,12 @@
-# My Awesome Book
+# Politico newsroom developer guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a working document for interactive developers in the newsroom.
+
+
+
+### Contents
+
+* **Whois** - Contacts in the newsroom and what to reach out to them for.
+
+
+

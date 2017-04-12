@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [BUDGET](budget.md)
 * [WHOIS](whois.md)
-* [Photos](photos.md)
-* [Fonts](fonts.md)
+* [PHOTOS](photos.md)
+* [FONTS](fonts.md)
 

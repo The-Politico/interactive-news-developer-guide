@@ -6,7 +6,9 @@ Where we host them and what we use where.
 
 ### Typekit \(web fonts\)
 
-[**Website**](https://typekit.com/) \| webdesign@politico.com \|  P0litic0!!
+[**Website**](https://typekit.com/) 
+
+Out kit: POLITICO Interactive 
 
 ### For Print
 
@@ -20,11 +22,6 @@ Download the fonts you need [here](https://drive.google.com/drive/folders/0B1Cu3
 * ReceiverCond
 * Tungsten
 * ZocaloTextOne
-
-  
-
-
-
 
 ##### 
 

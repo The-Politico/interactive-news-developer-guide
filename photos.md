@@ -6,11 +6,9 @@ Where to access photos
 
 ### AP
 
-[Website](http://www.apimages.com/) \| eralph@politico.com **\| **P0lmag2013
+[Website](http://www.apimages.com/) 
 
 ### Getty
 
-[Website](http://www.gettyimages.com/) \| JanetMichaud \| POLMag2014
-
-
+[Website](http://www.gettyimages.com/)
 

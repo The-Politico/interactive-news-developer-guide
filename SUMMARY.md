@@ -5,4 +5,5 @@
 * [WHOIS](whois.md)
 * [PHOTOS](photos.md)
 * [FONTS](fonts.md)
+* [AWS](aws.md)
 

@@ -13,14 +13,12 @@ Using ads
 * These ads work in conjunction with our [telium tags](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit#/edit/master/telium-tags-work-with-ads.md?_k=n4s8q3). Thos tags map the correct ads to content.
 
 **Example ad code**
-
-`<div style="text-align: center;" class="content-group ad">`
-
-`<div style="text-align: center;" class="ad-slot flex vertical " id="pol-02" >`
-
-`</div>`
-
-`</div>`
+```html
+<div style="text-align: center;" class="content-group ad">
+<div style="text-align: center;" class="ad-slot flex vertical " id="YOUR AD ID HERE" >
+</div>
+</div>
+```
 
 ### Banner ads
 

@@ -7,5 +7,5 @@
 * [FONTS](fonts.md)
 * [AWS](aws.md)
 * [ADS](ads.md)
-* TELIUM TAGS \(work with ADS\)
+* [TELIUM TAGS \(work with ADS\)](telium-tags-work-with-ads.md)
 

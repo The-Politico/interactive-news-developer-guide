@@ -7,15 +7,20 @@ You need em, we got em.
 Using ads
 
 * Each ad on a page must have a **unique ID**. Please select from the **approved** ad options below
+
 * **Slot the appropriate ID** in the id field below.
 
-  `<div style="text-align: center;" class="content-group ad">`
+* These ads work in conjunction with our telium tads
 
-  `<div style="text-align: center;" class="ad-slot flex vertical " id="pol-02" >`
 
-  `</div>`
 
-  `</div>`
+`<div style="text-align: center;" class="content-group ad">`
+
+`<div style="text-align: center;" class="ad-slot flex vertical " id="pol-02" >`
+
+`</div>`
+
+`</div>`
 
 ### Banner ads
 

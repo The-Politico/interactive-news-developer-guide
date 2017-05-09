@@ -10,7 +10,7 @@ Using ads
 
 * **Slot the appropriate ID** in the id field below.
 
-* These ads work in conjunction with our [telium tags](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit#/edit/master/telium-tags-work-with-ads.md?_k=n4s8q3). Thos tags map the correct ads to content. 
+* These ads work in conjunction with our [telium tags](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit#/edit/master/telium-tags-work-with-ads.md?_k=n4s8q3). Thos tags map the correct ads to content.
 
 
 

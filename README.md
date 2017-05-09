@@ -9,5 +9,7 @@ This is a working document for interactive developers in the newsroom.
 * [**PHOTOS**](photos.md) - Where to get photos for publication online.
 * [**FONTS**](fonts.md) - A list of our web and print fonts and where to find them. 
 * [**AWS**](aws.md) - Guide and best practices for using our AWS infrastructure.
+* [**ADS**](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit#/edit/master/ads.md?_k=yqbvx7) - Approved ad code and responsive ad script
+
 
 

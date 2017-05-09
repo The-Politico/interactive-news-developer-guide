@@ -1,6 +1,6 @@
 # ADS
 
-Ads, we need em. We got em.
+You need em, we got em.
 
 ---
 
@@ -11,7 +11,7 @@ Using ads
 
   `<div style="text-align: center;" class="content-group ad">`
 
-  `<div style="text-align: center;" class="ad-slot flex vertical " id="`**`pol-02`**`" >`
+  `<div style="text-align: center;" class="ad-slot flex vertical " id="pol-02" >`
 
   `</div>`
 

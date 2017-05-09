@@ -1,6 +1,34 @@
 # ADS
 
-Ads, we need em
+Ads, we need em. We got em.
+
+---
+
+Using ads
+
+* Each ad on a page must have a **unique ID**. Please select from the **approved** ad options below
+* **Slot the appropriate ID** in the id field below.
+
+  `<div style="text-align: center;" class="content-group ad">`
+
+  `<div style="text-align: center;" class="ad-slot flex vertical " id="`**`pol-02`**`" >`
+
+  `</div>`
+
+  `</div>`
+
+### Banner ads
+
+* pol-01
+* pol-08
+
+### Cube ads
+
+* pol-05 \(300x225\)
+* pol-04 \(300x225\)
+* pol-02 \(this may also render as a supercube 300x600\)
+
+##### 
 
 ### Responsive ad code
 
@@ -162,36 +190,7 @@ Ads, we need em
 
 `</script>`
 
-  
-
-
-### Using ads
-
-* Each ad on a page must have a unique ID. Please select from the approved ad options below
-* Slot the appropriate ID in the id field below.
-
-  `<div style="text-align: center;" class="content-group ad">`
-
-  `      <div style="text-align: center;" class="ad-slot flex vertical " id="`**`pol-02`**`" >`
-
-  `      </div>`
-
-  `</div>`
-
-### Banner ads 
-
-* pol-01
-* pol-08
-
-### Cube ads 
-
-* pol-05 \(300x225\)
-* pol-04 \(300x225\)
-* pol-02 \(this may also render as a supercube 300x600\)
-
-
-
-##### 
+### 
 
 
 

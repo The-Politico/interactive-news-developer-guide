@@ -1,6 +1,6 @@
 ### Text alignment
 
-```html
+```css
 
 .center-text{
   text-align: center;

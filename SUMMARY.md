@@ -8,4 +8,5 @@
 * [AWS](aws.md)
 * [ADS](ads.md)
 * [TELIUM TAGS \(work with ADS\)](telium-tags-work-with-ads.md)
+* [TEXT](text.md)
 

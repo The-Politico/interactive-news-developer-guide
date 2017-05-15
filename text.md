@@ -2,7 +2,7 @@
 
 ```css
 
-.center-text{
+.center-align-text{
   text-align: center;
 }
 

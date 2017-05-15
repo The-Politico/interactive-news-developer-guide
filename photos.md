@@ -19,7 +19,7 @@ Where to access photos: AP [Website](http://www.apimages.com/)  \|   Getty [Webs
 <article class="container">
 ```
 
-### Full span on phone only
+### No gutters on the phone
 ```html
 <figure class="no-gutters-phone">
     <img src="http://www.trbimg.com/img-54e3c81a/turbine/la-sci-sn-penguins-taste-20150216-001/600/4x3" />

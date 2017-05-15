@@ -4,6 +4,31 @@ Where to access photos: AP [Website](http://www.apimages.com/)  \|   Getty [Webs
 
 ---
 
+### Full span image at all breakpoints
+
+```html
+</article>
+<!-- You must close the article to go full span, and then reopen it. -->
+<figure>
+    <img src="http://www.trbimg.com/img-54e3c81a/turbine/la-sci-sn-penguins-taste-20150216-001/600/4x3" />
+    <figcaption class="figcaption">
+        Penguins 1.
+    </figcaption>
+</figure>
+
+<article class="container">
+```
+
+### Full span on phone only
+```html
+<figure class="no-gutters-phone">
+    <img src="http://www.trbimg.com/img-54e3c81a/turbine/la-sci-sn-penguins-taste-20150216-001/600/4x3" />
+    <figcaption class="figcaption">
+        Penguins 1.
+    </figcaption>
+</figure>
+```
+
 ### Diptych
 
 ```html

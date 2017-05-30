@@ -15,6 +15,7 @@
 ```
 
 ### Aligning content to the main well
+
 ```css
 .content-fit{
   max-width: 600px;
@@ -34,9 +35,6 @@
   margin-right: auto;
 }
 ```
-
-
-
 
 
 

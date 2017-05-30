@@ -19,20 +19,17 @@
 ```css
 .content-fit{
   max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  @include margin-auto;
 }
 
 .large{
   max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+  @include margin-auto;
 }
 
 .full-width{
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  @include margin-auto;
 }
 ```
 

@@ -19,10 +19,10 @@
 * [ ] Make sure the homepage knows to alert the story upon publishing
 * [ ] Sync with the comms team early to game plan how they might release the project early and to whom.
   * [ ] they'll need the
-    * [ ] Run date and time
-    * [ ] Preview link
-    * [ ] Working headline
-    * [ ] Summary
+  * [ ] Run date and time
+  * [ ] Preview link
+  * [ ] Working headline
+  * [ ] Summary
 
 
 

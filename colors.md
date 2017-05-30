@@ -27,7 +27,5 @@ $highlighter-yellow: #fffAb7;
 $highlighter-orange: #f9d289;
 ```
 
-
-
-![](/assets/import.png)
+![](/assets/colors.png)
 

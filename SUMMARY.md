@@ -9,4 +9,5 @@
 * [ADS](ads.md)
 * [TELIUM TAGS \(work with ADS\)](telium-tags-work-with-ads.md)
 * [TEXT](text.md)
+* [When you start a project first do this](publishing-to-do-list.md)
 

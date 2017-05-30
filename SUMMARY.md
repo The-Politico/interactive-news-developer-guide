@@ -1,13 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [BUDGET](budget.md)
-* [WHOIS](whois.md)
-* [PHOTOS](photos.md)
-* [FONTS](fonts.md)
-* [AWS](aws.md)
-* [ADS](ads.md)
-* [TELIUM TAGS \(work with ADS\)](telium-tags-work-with-ads.md)
-* [TEXT](text.md)
+* [Budget](budget.md)
 * [When you start a project first do this](publishing-to-do-list.md)
+* [WHOIS](whois.md)
+* [Fonts](fonts.md)
+* [AWS](aws.md)
+* [Ads](ads.md)
+* [Photo css ](photos.md)
+* [Handy css tricks](text.md)
+* [Telium tags \(work with ADS\)](telium-tags-work-with-ads.md)
 

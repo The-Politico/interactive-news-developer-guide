@@ -1,12 +1,9 @@
-## **When to start a project**
+## **Starting a project to-do list**
 
 **Contact **
 
-* [ ] H**omepage** - communicate whether it's an embed or if it will need a story shell
-  * [ ] ask about what they plan to do for Homepage art
-    * [ ] offer suggestions if you have any - this could be a gif or static image
-* [ ] **social** with any social elements, gifs, art etc
-
+* [ ] **Homepage** - communicate whether it's an embed or if it will need a story shell
+  * [ ] If you know what you'd like to do for lede art, tell them now, they may also be available to give suggestions
 
 
 **In the case of a large database or story**

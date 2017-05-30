@@ -10,5 +10,5 @@
 * [Photo groups](photos.md)
 * [Handy css tricks](text.md)
 * [Telium tags \(work with ADS\)](telium-tags-work-with-ads.md)
-* Publishing a project
+* [Publishing a project](publishing-a-project.md)
 

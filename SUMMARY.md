@@ -10,4 +10,5 @@
 * [Photo groups](photos.md)
 * [Telium tags \(work with ADS\)](telium-tags-work-with-ads.md)
 * [Ads](ads.md)
+* [Colors](colors.md)
 

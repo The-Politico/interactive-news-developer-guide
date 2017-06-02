@@ -1,6 +1,6 @@
-# BUDGE
+# BUDGET
 
-Everything goes in the budget. The budget helps us clearly communicate to the newsroom what we are working on. 
+Everything goes in the budget. The budget helps us clearly communicate to the newsroom what we are working on.
 
 ---
 

@@ -10,7 +10,7 @@ Good ideas can come from anywhere. Our workflow process has two simple goals:
 
 Talk to our reporters. Read the news. Read books. Watch films. Go to bars. Bring good ideas wherever you find them.
 
-### Project tiers
+### Project time tiers
 
 We're a small team in the newsroom with the rare privilege of being able to pick our projects. We protect that freedom by being wholly transparent about our priorities.
 
@@ -34,16 +34,8 @@ We trust you to identify smart **dailies** and **short-turn** projects. With tha
 
 **Medium-turn** projects require a dedicated discussion with Lily and Jon before beginning. We want to know what skills you'll need to learn to complete the project, what data you have in-hand and what you're waiting on, what bottlenecks you foresee, what's your UX aesthetic, shareholders, audience, etc.
 
-**Long-turn** projects will require sign-off from Lily, Jon and Paul. Often, you will be asked to write up the goals of these projects and a prospective timeline so we can can track progress.
+**Long-turn** projects require sign-off from Lily, Jon and Paul. Often, you will be asked to write up the goals of these projects and a prospective timeline so we can can track progress.
 
----
-
-
-### Code and Design reviews
-
-* [ ] Code reviews will be done as needed - especially for LongTerm projects
-* [ ] Projects will receive a design review at the outset to talk about goals/structure and throughout the project as needed for fine tuning
-* [ ] Jon and Lily will sign off on all projects before they are published
 
 ---
 

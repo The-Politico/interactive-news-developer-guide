@@ -10,7 +10,7 @@
   * [Publishing a project](workflow/publishing-a-project.md)
 * [Meetings](meetings.md)
 * [Time Off Policy and Comp Days](time-off-policy-and-comp-days.md)
-* [Publishing a project](publishing-a-project.md)
 * [Handy css tricks](text.md)
+  * [Photo Groups](text/photo-groups.md)
 * [Photo groups](photos.md)
 

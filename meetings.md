@@ -22,7 +22,11 @@ Unlike stand-ups, sit-downs should not be extemporaneous. One or more of us will
 
 #### Look-ahead
 
-Each sit-down or stand-up meeting should have finish with a 5 minute look-ahead outlining what news headlines we should be paying attention to. Everyone should contribute ideas to this portion of the meeting.
+Each sit-down or stand-up meeting should finish with a 5 minute look-ahead outlining what news headlines we should be paying attention to. Everyone should contribute to this portion of the meeting.
+
+### Project meetings
+
+Organize dedicated project meetings. For dailies and short-turn projects.
 
 
 

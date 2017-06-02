@@ -1,6 +1,6 @@
 # Meeting
 
-Meetings are important. They're also fragile and susceptible to abuse.
+Meetings are important. They're also susceptible to abuse.
 
 By design, we will have few regular meetings and instead emphasize continuous conversations within the team. That is a starting position, from which we will introduce more formal meetings as needed.
 
@@ -26,7 +26,7 @@ Each sit-down or stand-up meeting should finish with a 5 minute look-ahead outli
 
 ### Project meetings
 
-Organize dedicated project meetings. For dailies and short-turn projects.
+Organize dedicated project meetings. For dailies and short-turn projects, these should be.
 
 
 

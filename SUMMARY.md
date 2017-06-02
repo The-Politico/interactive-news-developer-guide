@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
-* Meetings
+* [Meetings](meetings.md)
 * [WHOIS](whois.md)
 * [Budget](budget.md)
 * [Fonts](fonts.md)

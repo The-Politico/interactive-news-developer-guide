@@ -5,6 +5,7 @@
 * [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
 * [Workflow](workflow.md)
   * [Initiating a project](workflow/test.md)
+  * [Budget](workflow/budget.md)
 * [Initiating a project](publishing-to-do-list.md)
 * [Budget](budget.md)
 * [Meetings](meetings.md)

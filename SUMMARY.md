@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
+* Meetings
 * [WHOIS](whois.md)
 * [Budget](budget.md)
 * [Fonts](fonts.md)
@@ -10,6 +11,4 @@
 * [Handy css tricks](text.md)
 * [Photo groups](photos.md)
 * [Telium tags \(work with ADS\)](telium-tags-work-with-ads.md)
-* [Ads](ads.md)
-* THINGS TO ADD THIS THIS 
 

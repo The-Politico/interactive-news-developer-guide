@@ -2,7 +2,7 @@
 
 Meetings are important. They're also susceptible to abuse.
 
-By design, we will have few regular meetings and instead emphasize continuous conversations within the team. That is a starting position, from which we will introduce more formal meetings as needed.
+By design, we will have few regular meetings and instead emphasize continuous conversations within the team.
 
 ### Sit-down/stand-up
 

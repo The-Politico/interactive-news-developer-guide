@@ -1,4 +1,4 @@
-## **Starting a project to-do list**
+## Initiating a** project**
 
 ### **Contact **
 

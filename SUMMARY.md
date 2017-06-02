@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
 * [WHOIS](whois.md)
 * [Budget](budget.md)
 * [Fonts](fonts.md)
@@ -10,5 +11,5 @@
 * [Photo groups](photos.md)
 * [Telium tags \(work with ADS\)](telium-tags-work-with-ads.md)
 * [Ads](ads.md)
-* [Colors](colors.md)
+* THINGS TO ADD THIS THIS 
 

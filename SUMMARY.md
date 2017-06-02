@@ -12,5 +12,4 @@
 * [Time Off Policy and Comp Days](time-off-policy-and-comp-days.md)
 * [Handy css tricks](text.md)
   * [Photo Groups](text/photo-groups.md)
-* [Photo groups](photos.md)
 

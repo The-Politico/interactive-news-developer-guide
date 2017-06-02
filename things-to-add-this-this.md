@@ -1,7 +1,6 @@
 \*Time off Policy
 
-* Both time off and comp time must be agreed to before hand
-
+* 
 \*Code Rules
 
 * Where we will clamp down on development

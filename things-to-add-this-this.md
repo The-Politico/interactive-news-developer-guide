@@ -8,7 +8,7 @@ Code Rules
   * not dailies
   * The DataLab
 
-Buget
+Budget
 
 * Everything goes in the budget
   * The budget communicates to the rest of the newsroom 
@@ -17,8 +17,6 @@ Buget
     * what is publishing soon
     * what is live 
       * the projected development time of each project
-
-
 
 
 

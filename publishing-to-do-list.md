@@ -1,6 +1,6 @@
 ## Initiating a** project**
 
-### **Contact **
+### Once a run date is decided, c**ontact **
 
 * [ ] **Homepage** - email `tp-webeditor@politico` with as much notice as you can
   * [ ] whether it's an embed or interactive page \(interactive pages will need a story shell\)

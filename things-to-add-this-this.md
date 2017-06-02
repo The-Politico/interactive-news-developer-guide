@@ -1,14 +1,14 @@
-Time off Policy
+\*Time off Policy
 
 * Both time off and comp time must be agreed to before hand
 
-Code Rules
+\*Code Rules
 
 * Where we will clamp down on development
   * not dailies
   * The DataLab
 
-Budget
+\*Budget
 
 * Everything goes in the budget
   * The budget communicates to the rest of the newsroom 
@@ -20,7 +20,11 @@ Budget
 
 
 
-Add to Initiating a project
+\*Add to Initiating a project
+
+\*Add to publishing a  project
+
+
 
 
 

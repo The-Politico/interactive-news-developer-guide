@@ -1,5 +1,29 @@
 ## Initiating a** project**
 
+Team members should work to build relationships with the newsroom as well as pitch their own ideas. 
+
+### Project Tiers
+
+Projects will be tiered by time commitment 
+
+* **Dailies **... 1 Day 
+* **ShortTerm **... +2 Days 
+* **MediumTerm **... week
+* **LongTerm** ... Multiweek
+
+### Approval to work on a project
+
+* [ ]  Let Jon and Lily know what you'd like to work on a project, the expected time and the goal.
+* [ ] Get working
+
+### Code and Design reviews
+
+* [ ]  Code reviews will be done as needed - especially for LongTerm projects
+* [ ]  Projects will receive a design review at the outset to talk about goals/structure and throughout the project as needed for fine tuning
+* [ ]  Jon and Lily will sign off on all projects before they are published
+
+---
+
 ### Once a run date is decided, c**ontact **
 
 * [ ] **Homepage** - email `tp-webeditor@politico` with as much notice as you can

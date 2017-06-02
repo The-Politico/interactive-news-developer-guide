@@ -6,8 +6,8 @@
 * [Workflow](workflow.md)
   * [Initiating a project](workflow/test.md)
   * [Budget](workflow/budget.md)
-* [Initiating a project](publishing-to-do-list.md)
-* [Budget](budget.md)
+  * Project
+  * [Publishing a project](workflow/publishing-a-project.md)
 * [Meetings](meetings.md)
 * [Time Off Policy and Comp Days](time-off-policy-and-comp-days.md)
 * [Publishing a project](publishing-a-project.md)

@@ -6,7 +6,7 @@
   * [Keeping a budget](workflow/keeping-a-budget.md)
   * [Meeting](meetings.md)
   * [Publishing a project](workflow/publishing-a-project.md)
-  * Reviewing a project
+  * [Reviewing a project](workflow/reviewing-a-project.md)
 * [WHOIS](whois.md)
 * [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
 * [Time Off Policy and Comp Days](time-off-policy-and-comp-days.md)

@@ -4,7 +4,7 @@
 
 ##### Code and design reviews
 
-- Code reviews are required for medium and long-turn projects and for any project touching durable infrastructure like datalab. These will be conducted in github.
+- Code reviews are required for medium and long-turn projects and for any project touching durable infrastructure like datalab.
 
 - Projects will receive a design review at the outset to talk about goals/structure and throughout the project as needed for fine tuning
 - Jon and Lily will sign off on all projects before they are published.

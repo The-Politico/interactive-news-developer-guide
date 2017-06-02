@@ -18,24 +18,12 @@ If we are simply updating each other on our progress on current projects and out
 
 #### Sit-downs
 
-Unlike stand-ups, sit-downs should not be extemporaneous. One or more of us will prepare a discussion or presentation beforehand. Sit-downs should emphasize skills over projects and larger strategy over discrete tasks. These are small meetings to encourage us to think larger and grow. They should last no more than 30 minutes.
+Unlike stand-ups, sit-downs should not be extemporaneous. One or more of us will prepare a discussion or presentation beforehand. Sit-downs should emphasize skills over projects and larger strategy over discrete tasks. These are tightly organized meetings to encourage us to think larger and grow. They should last no more than 30 minutes.
 
 #### Look-ahead
 
-Each sit-down or stand-up meeting should have 
+Each sit-down or stand-up meeting should have finish with a 5 minute look-ahead outlining what news headlines we should be paying attention to. Everyone should contribute ideas to this portion of the meeting.
 
-
-shouldn't be oriented around specific projects, which should have their meetings. Instead, sit downs should cover new skills we learned, hashing out longer term project ideas.
-
-
-
-Both meetings will have a look-ahead component.
-
-* This meeting will be a quick stand-up, unless we have something larger to tackle.
-
-* * What we're working on
-  * Ideas for the week ahead 
-    * Are there big news events coming next week that we can prepare for?
 
 
 

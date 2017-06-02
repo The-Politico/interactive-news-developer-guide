@@ -4,7 +4,7 @@
 * [WHOIS](whois.md)
 * [THINGS TO ADD THIS THIS ](things-to-add-this-this.md)
 * [Workflow](workflow.md)
-* Workflow
+* [Workflow](workflow.md)
 * [Meetings](meetings.md)
 * [Budget](budget.md)
 * [Time Off Policy and Comp Days](time-off-policy-and-comp-days.md)

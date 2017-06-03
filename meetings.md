@@ -14,7 +14,7 @@ Each meeting is **either** a sit down or a stand up.
 
 #### Stand-ups
 
-If we are simply updating each other on our progress on current projects and outlining our workweek, the meeting will consist of a stand up. Stand-ups last no more than 10 minutes.
+If we are simply updating each other on our progress on current projects and outlining our work week, the meeting will consist of a stand up. Stand-ups last no more than 10 minutes.
 
 #### Sit-downs
 

@@ -16,7 +16,6 @@
   * [Design guides](tipsheets/design-guides.md)
     * [Colors](tipsheets/design-guides/colors.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
-  * [Guide to adding embeds into the CMS](tipsheets/guide-to-adding-embeds-into-the-cms.md)
-  * [Handy Politico links](tipsheets/politico-links.md)
+  * [CMS embeds](tipsheets/cms-embeds.md)
 * [CHANGELOG](CHANGELOG.md)
 

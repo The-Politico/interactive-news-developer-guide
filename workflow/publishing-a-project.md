@@ -22,6 +22,10 @@ Code reviews are required for medium and long-turn projects and for any project 
 
 Make sure you've done all these things on your project before you publish.
 
+### Copy editing
+
+- [ ] Ensure that your project has been copy-edited.
+
 ### Meta tags
 
 * [ ] Double check that your `meta.json` file is completely filled out.

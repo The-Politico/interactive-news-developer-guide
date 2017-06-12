@@ -61,7 +61,7 @@ Reach the entire team at tp-copyeditors@politico.com
 
 ### Front-end tech and design
 
-* Chris Buddie, Manager of front-end and design team
+* Chris Buddie, Director of User Experience
   * Any styles, fonts or other design elements borrowed from the core site
 
 ### Helpdesk

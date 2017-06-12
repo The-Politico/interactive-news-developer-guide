@@ -2,6 +2,15 @@
 
 Important contacts.
 
+| Dev | Email |
+|-----|-------|
+| Jeremy C.F. Lin    | jlin@politico.com      |
+| Tyler Fisher    | tfisher@politico.com       |
+|Sarah Frostenson     | sfrostenson@politico.com      |
+| Jon McClure    | jmcclure@politico.com      |
+| Lily Mihalik | lmihalik@politico.com      |
+
+
 ---
 
 ### Interactive News team editors

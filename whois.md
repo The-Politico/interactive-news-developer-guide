@@ -29,6 +29,7 @@ Reach the entire team at tp-webteam@politico.com \| Producers only:  tp-webprodu
 
 * David Cohen, Web Editor
 * Dianna Dabruzzo, Web Editor
+* David Kihara, Web Editor
 
 ### Copy editors
 

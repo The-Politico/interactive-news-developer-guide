@@ -21,4 +21,4 @@ It is hosted by gitbook [here](https://politico.gitbooks.io/politico-newsroom-de
 
 ### Developing these docs
 
-Make what changes you want, update the version number and update the [CHANGELOG](/changelog.md).
+Make what changes you want, update the version number and the [CHANGELOG](/changelog.md).

@@ -22,7 +22,7 @@ All time off, including comp time, must be approved ahead of time. Requesting ti
 
 ### Code of conduct
 
-Team members are subject to all our corporate policies regarding conduct and interpersonal behavior, and should report abuses as specified in company guidelines.
+Team members are subject to all our corporate policies regarding conduct and interpersonal behavior and should report abuses as specified in company guidelines.
 
 In addition, we'd like to add a few extra guidelines specific to this team's work:
 

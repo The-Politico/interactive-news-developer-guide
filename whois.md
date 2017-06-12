@@ -45,7 +45,7 @@ Reach the entire team at tp-copyeditors@politico.com
 ### AWS
 
 * Jason Shervinski, Manager of DevOps and Security
-* Permissions and service provisioning
+  * Permissions and service provisioning
 * Michael Roberts, Chief Architect
 
 

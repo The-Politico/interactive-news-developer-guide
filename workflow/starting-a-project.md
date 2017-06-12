@@ -8,7 +8,7 @@ Good ideas can come from anywhere. Our workflow process has two simple goals:
 
 ### Sources
 
-Talk to our reporters. Read the news. Read books. Watch films. Go to bars. Bring good ideas wherever you find them.
+Talk to our reporters. Read the news. Read books. Watch films. Go to bars. Good ideas come from wherever you find them.
 
 ### Project time tiers
 

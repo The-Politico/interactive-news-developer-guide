@@ -10,6 +10,7 @@ It is hosted by gitbook [here](https://politico.gitbooks.io/politico-newsroom-de
 
 * [**Policies**](/policies.md) - What you need to know
 * [**Workflow**](/workflow.md) - General guidelines for how we work
+* [**Infrastructure**](/infrastructure.md) - Where we build
 * [**WHOIS**](whois.md) - Critical contacts for working in the newsroom
 * [**Tipsheets**](/tipsheets.md) - Useful things
 

@@ -18,37 +18,48 @@ Code reviews are required for medium and long-turn projects and for any project 
 
 ---
 
-### Publishing checklist
+## Publishing checklist
 
 Make sure you've done all these things on your project before you publish.
 
-#### Meta tags
+### Meta tags
 
 * [ ] Double check that your `meta.json` file is completely filled out.
-* [ ] Create a social share image at 600 x 300px, named share.jpg in `dist/images` directory on interactive pages.
-* [ ] Update the timestamp on the article every time you publish. Our format is to say `Updated
+* [ ] Triple check that you have the `publishPath` and `url` correctly configured in your publish path.
+* [ ] Create a social share image at 600 x 300px, named share.jpg in the `dist/images` directory on interactive pages.
+* [ ] Update the timestamp on the article every time you publish. Our style is to add an udpated timestamp with the original.
 
-#### Contact
+### Documentation
+* [ ] Update the README in your project
+* [ ] If you're deploying an app or tool, make sure to add a `Developing` docs section with full instructions for anyone on the team to spin up your project locally.
 
-* [ ] **Homepage** - `tp-webeditor@politico`  re-communicate whether it's an embed or if it will need a story shell
-  * [ ] Let them know when the story will be live
-  * [ ] Supply a preview url
-  * [ ] Supply what the live url will be
-  * [ ] offer suggestions if you have any - this could be a gif or static image
-  * [ ] They may have ideas, based on earlier conversations, for what they'd like to use
-* [ ] **Social** - supply them with any social elements, your share.jpg image, gifs, or otherwise.
-  * [ ] Let them know when the story will be live
-  * [ ] Supply a preview url
-  * [ ] Supply what the live url will be
+### Github
 
-#### In the case of a large database or story
+* [ ] Create a private repo for your project and push your latest code.
+* [ ] Prefix interactive and embed repo names with `interactive_` or `embed_`, respectively.
+* [ ] Talk with your editor about whether we will make this repo public after publishing.
+* [ ] If you're working on an existing project, push your code to a branch which will be merged into master after a code review with your editor.
 
-* [ ] Make sure the homepage knows to `alert` the story upon publishing
-* [ ] Sync with the comms and biz. analytics team `rschindler@politico.com` `kpudwill@politico.com` early to game plan how they might release the project early and to whom. They'll need to know the following:
-  * Run date and time
-  * Preview link
-  * Working headline
-  * Summary
+### Notify
+
+- [ ] Communicate the live URL address, a preview URL and the time story will be available to promote with any or all of the following teams:
+
+
+##### Homepage
+`tp-webeditor@politico`
+* [ ] Provide an embed code for embeddables or request a story shell for interactives.
+* [ ] Send the live URL address and time story will be available to promote.
+* [ ] Suggest homepage art, which can be a gif or a static image.
+* [ ] Remind them to send an alert for the story at publish time.
+
+##### Social
+
+* [ ] Supply them with any social elements, your share.jpg image, gifs, suggested share text, etc.
+
+
+##### **Comms and business analytics** 
+`rschindler@politico.com` & `kpudwill@politico.com`
+* [ ] Send a working headline and short summary of the project
 
 
 

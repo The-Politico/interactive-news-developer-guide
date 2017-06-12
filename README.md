@@ -4,7 +4,7 @@
 
 This is a guide for developers on the Interactive News team. It is a living document. All things herein are subject to change.
 
-Is is hosted by gitbook [here](https://politico.gitbooks.io/politico-newsroom-developer-guide/content/).
+It is hosted by gitbook [here](https://politico.gitbooks.io/politico-newsroom-developer-guide/content/).
 
 ### Contents
 

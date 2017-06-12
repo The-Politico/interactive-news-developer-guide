@@ -4,7 +4,7 @@ These are the essential, enumerated policies of our team.
 
 ### Working hours
 
-The goal of this team is to be an integral part of the newsroom. A principal part of that is simply being here when our coworkers need us, so our working hours must overlap with the rest of the newsroom. Team members should be in by **10 a.m.** as a course of habit. We will be flexible as projects need us to be, but the mean we revert to should be a regular morning start time.
+The goal of this team is to be an integral part of the newsroom. A principal component of that is simply being here when our coworkers need us, so our working hours must overlap with the rest of the newsroom. Team members should be in by **10 a.m.** as a course of habit. We will be flexible as projects need us to be, but the mean we revert to should be a regular morning start time.
 
 ### Comp time
 
@@ -22,14 +22,22 @@ All time off, including comp time, must be approved ahead of time. Requesting ti
 
 ### Code of conduct
 
-Team members are subject to all our corporate policies and guidelines regarding conduct and interpersonal behavior.
+Team members are subject to all our corporate policies regarding conduct and interpersonal behavior, and should report abuses as specified in company guidelines.
 
-In addition, we'd like to add a few extra goals specific to this team:
+In addition, we'd like to add a few extra guidelines specific to this team's work:
 
-1. All ideas are welcome that are offered in good faith.
-2. Healthy and rigorous debate makes us better. Orient project reviews, priority debates and other discussions around improving our team's output and POLITICO's journalistic standing and depersonalize your work.
-3. Work on a team, act as a member of community.
-2. There is an editing chain.
+- All ideas are welcome and must be respected that are offered in good faith.
+
+- Orient project reviews, priority debates and other discussions around improving our team's output and POLITICO's journalistic standing.
+
+- No one's work on any one project is more important than the cohesion of the team. Conduct yourself accordingly.
+
+- Any discussion that strays into personal criticism should be ended immediately and not begun again until a superior editor is present.
+
+- Be willing to criticize your code dispassionately, but passionately defend the goals of your project.
+
+- Critically evaluate the process as much as the product. Anything we do once, we'll do again.
+
 
 
 

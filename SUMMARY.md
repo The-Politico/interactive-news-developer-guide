@@ -16,5 +16,6 @@
   * [Design guides](tipsheets/design-guides.md)
     * [Colors](tipsheets/design-guides/colors.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
+* [Guide to adding embeds into the CMS](tipsheets/guide-to-adding-embeds-into-the-cms.md)
 * [CHANGELOG](CHANGELOG.md)
 

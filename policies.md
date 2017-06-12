@@ -1,18 +1,23 @@
 # Policies
 
-### In Time
+These are the essential, enumerated policies of our team.
 
-This team is part of the newsroom and should be in the office with at least a 6 hours overlap to regular newsroom hours. 
+### Working hours
 
-* Team members are expected to be at 10am 
+The goal of this team is to be an integral part of the newsroom. A principal part of that is simply being here when our coworkers need us, so our working hours must overlap with the rest of the newsroom. Team members should be in by **10 a.m.** as a course of habit. We will be flexible as projects need us to be, but the mean we revert to should be a regular morning start time.
 
+### Comp time
 
+Often projects will cause us to work a longer day to meet a deadline. If you work overtime on deadline, you are entitled to claim that time back once you're off deadline.
 
-### Time Off and comp time
+Some general principles to guide your use of comp time:
+- Comp time should **only** be accrued on deadline. You can't simply front-load your work hours. See goals above.
+- Comp time is assessed based on a loose accounting between you and the Interactive News team editors. "Loose" because a strict tally would require more scrutiny over exactly how you spent that time than either you or your editors want.
+- Accruing and spending comp time in bulk are both bad for our team. The former risks burnout and will affect the quality of your work. The latter will strain your relationship with the newsroom and may cause other newsroom editors to doubt your reliability.
 
-All time off must be approved ahead of time
+### Time off approval
 
-* We'll keep loose track of comp days based on working long hours or the weekend. This is an honor system where we expect team members to responsibly keep a work-life balance
+All time off, including comp time, must be approved ahead of time. Requesting time off same-day should only happen in exceptional circumstances, medical or otherwise.
 
 
 

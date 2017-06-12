@@ -2,7 +2,7 @@
 
 # POLITICO Interactive News developer guide
 
-This is a guide for developers on the Interactive News team. It is a living document. All things herein are subject to change.
+This is a guide for developers on the Interactive News team. It is a living document. All things herein are subject to change and are superseded by POLITICO company policies.
 
 It is hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-developer-guide/content/).
 

@@ -4,7 +4,7 @@ Some simple guidelines for what to do before you hit the big red button.
 
 ### Editing process
 
-An Interactive News editor signs off on all projects before they are published or deployed to master. See the publishing checklist for details.
+An Interactive News editor signs off on all projects before they are published or deployed to master. See the publishing checklist below for details.
 
 ##### Design reviews
 
@@ -31,10 +31,10 @@ Make sure you've done all these things on your project before you publish.
 * [ ] Double check that your `meta.json` file is completely filled out.
 * [ ] Triple check that you have the `publishPath` and `url` correctly configured in your publish path.
 * [ ] Create a social share image at 600 x 300px, named share.jpg in the `dist/images` directory on interactive pages.
-* [ ] Update the timestamp on the article every time you publish. Our style is to add an udpated timestamp with the original.
+* [ ] Update the timestamp on the article every time you publish. Our style is to add an udpated timestamp alongside the original when publishing additional content.
 
 ### Documentation
-* [ ] Update the README in your project
+* [ ] Update the README in your project.
 * [ ] If you're deploying an app or tool, make sure to add a `Developing` docs section with full instructions for anyone on the team to spin up your project locally.
 
 ### Github
@@ -46,7 +46,7 @@ Make sure you've done all these things on your project before you publish.
 
 ### Notify
 
-- [ ] Communicate the live URL address, a preview URL and the time story will be available to promote with any or all of the following teams:
+- [ ] Communicate the live URL address, a preview URL and the time the story will be available to promote with any or all of the following teams:
 
 
 ##### Homepage

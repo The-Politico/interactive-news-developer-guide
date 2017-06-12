@@ -38,3 +38,6 @@ We trust you to identify smart **dailies** and **short-turn** projects. With tha
 
 
 
+### Build system
+
+For interactive pages or embeddables, use the latest version of our [interactives generator app](https://github.com/The-Politico/generator-politico-interactives). It is designed to be flexible enough for you to use whatever libraries you need while strictly enforcing the business rules we must have for publishing content.

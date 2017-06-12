@@ -1,6 +1,6 @@
 # Meeting
 
-Meetings are important. They're also susceptible to abuse.
+Meetings are important. They're also susceptible to abuse or becoming stale.
 
 By design, we will have few regular meetings and instead emphasize continuous conversations within the team.
 
@@ -10,7 +10,7 @@ Every Monday at 11 a.m., we'll start the week with a "sit-down/stand-up."
 
 This is our only regular formal meeting designed to be inherently flexible and aggressively to-the-point.
 
-Each meeting is **either** a sit down or a stand up.
+Each meeting is **either** a sit-down or a stand-up.
 
 ##### Stand-ups
 

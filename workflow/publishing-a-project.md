@@ -61,9 +61,12 @@ Make sure you've done all these things on your project before you publish.
 * [ ] Supply them with any social elements, your share.jpg image, gifs, suggested share text, etc.
 
 
-##### **Comms and business analytics** 
+
+##### **Comms, business analytics, advertising** 
 `tp-projects@politico.com`
-* [ ] Send a working headline and short summary of the project
+* [ ] Send a working headline and short summary of the project 
+* [ ] On bigger projects, check if a special ad map has been created for the project.
+
 
 
 

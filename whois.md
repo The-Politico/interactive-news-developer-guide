@@ -49,9 +49,9 @@ Reach the entire team at tp-copyeditors@politico.com
 * Michael Roberts, Chief Architect
 
 
-### Front-end and design
+### Front-end tech and design
 
-* Chris Buddie, director of front-end and design team
+* Chris Buddie, Manager of front-end and design team
   * Any styles, fonts or other design elements borrowed from the core site
 
 ### Helpdesk

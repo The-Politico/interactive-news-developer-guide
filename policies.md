@@ -13,11 +13,23 @@ Often projects will cause us to work a longer day to meet a deadline. If you wor
 Some general principles to guide your use of comp time:
 - Comp time should **only** be accrued on deadline. You can't simply front-load your work hours. See goals above.
 - Comp time is assessed based on a loose accounting between you and the Interactive News team editors. "Loose" because a strict tally would require more scrutiny over exactly how you spent that time than either you or your editors want.
-- Accruing and spending comp time in bulk are both bad for our team. The former risks burnout and will affect the quality of your work. The latter will strain your relationship with the newsroom and may cause other newsroom editors to doubt your reliability.
+- Accruing and spending comp time in bulk are both bad for our team. The former risks burnout and will affect the quality of your work. The latter will strain your relationship with the newsroom.
 
 ### Time off approval
 
-All time off, including comp time, must be approved ahead of time. Requesting time off same-day should only happen in exceptional circumstances, medical or otherwise.
+All time off, including comp time, must be approved ahead of time. Requesting time off same-day should only happen in exceptional circumstances, medical or otherwise. Please use the company time-off app to request time.
+
+
+### Code of conduct
+
+Team members are subject to all our corporate policies and guidelines regarding conduct and interpersonal behavior.
+
+In addition, we'd like to add a few extra goals specific to this team:
+
+1. All ideas are welcome that are offered in good faith.
+2. Healthy and rigorous debate makes us better. Orient project reviews, priority debates and other discussions around improving our team's output and POLITICO's journalistic standing and depersonalize your work.
+3. Work on a team, act as a member of community.
+2. There is an editing chain.
 
 
 

@@ -11,3 +11,10 @@ This is a guide for developers on the Interactive News team. It is a living docu
 
 
 
+### Version
+
+1.0.0
+
+### Developing
+
+Change the version number and update the CHANGELOG.

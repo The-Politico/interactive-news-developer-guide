@@ -62,7 +62,7 @@ Make sure you've done all these things on your project before you publish.
 
 
 ##### **Comms and business analytics** 
-`rschindler@politico.com` & `kpudwill@politico.com`
+`tp-projects@politico.com`
 * [ ] Send a working headline and short summary of the project
 
 

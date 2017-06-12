@@ -8,6 +8,7 @@
   * [Meeting](workflow/meeting.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
+* [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)
 * [Tipsheets](tipsheets.md)
   * [Handy CSS tricks](tipsheets/handy-css-tricks.md)

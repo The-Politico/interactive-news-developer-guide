@@ -39,7 +39,7 @@ Make sure you've done all these things on your project before you publish.
 
 ### Github
 
-* [ ] Create a private repo for your project and push your latest code.
+* [ ] Create a private repo for your project and push your latest code (which you should do daily, tbh).
 * [ ] Prefix interactive and embed repo names with `interactive_` or `embed_`, respectively.
 * [ ] Talk with your editor about whether we will make this repo public after publishing.
 * [ ] If you're working on an existing project, push your code to a branch which will be merged into master after a code review with your editor.

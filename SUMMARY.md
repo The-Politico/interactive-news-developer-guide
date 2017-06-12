@@ -12,5 +12,8 @@
 * [Tipsheets](tipsheets.md)
   * [Handy CSS tricks](tipsheets/handy-css-tricks.md)
     * [Photo Groups](tipsheets/handy-css-tricks/photo-groups.md)
-* [CHANGELOG](changelog.md)
+  * [Design guides](tipsheets/design-guides.md)
+    * [Colors](tipsheets/design-guides/colors.md)
+    * [Fonts](tipsheets/design-guides/fonts.md)
+* [CHANGELOG](CHANGELOG.md)
 

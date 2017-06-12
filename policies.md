@@ -17,7 +17,7 @@ Some general principles to guide your use of comp time:
 
 ### Working off-site
 
-Sometimes you need to work from home, and that's OK. Remote work is inevitable but it also trades against our goal of being responsive to the newsroom, so use it rarely.
+Sometimes you need to work outside the office, and that's OK. Remote work is inevitable but it also trades against our goal of being responsive to the newsroom, so use it rarely.
 
 If you need to work from home due to a personal errand, like overseeing apartment maintenance or collecting a package, you can. You'll be expected to be available by Slack and, it goes without saying, actually working. Please limit your time away to a partial day like a morning or an afternoon. You must clear off-site time with an editor before the day you intend to take it.
 

@@ -16,10 +16,17 @@ Important contacts.
 
 ### Web Editors, Core
 
-Reach the entire team: tp-webteam \| Producers only:  tp-webproducer
+Reach the entire team at tp-webteam@politico.com \| Producers only:  tp-webproducer@politico.com
 
-* David Cohen, Web Editor @dcohen
-* Dianna Dabruzzo, Web Editor @ddabruzzo
+* David Cohen, Web Editor
+* Dianna Dabruzzo, Web Editor
+
+### Copy editors
+
+Reach the entire team at tp-copyeditors@politico.com
+
+* Sushant Sagar, Copy editor
+* Andy Goodwin, Copy editor
 
 ## SEO and Analytics
 
@@ -38,8 +45,14 @@ Reach the entire team: tp-webteam \| Producers only:  tp-webproducer
 ### AWS
 
 * Jason Shervinski, Manager of DevOps and Security
-  * Permissions and service provisioning
+* Permissions and service provisioning
 * Michael Roberts, Chief Architect
+
+
+### Front-end and design
+
+* Chris Buddie, director of front-end and design team
+  * Any styles, fonts or other design elements borrowed from the core site
 
 ### Helpdesk
 

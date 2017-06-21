@@ -60,16 +60,36 @@ Our corrections policy has these three goals in this order of priority:
 
 When you notice an error in a published piece, do these things **in this order**:
 
-1. Immediately notify your editors and any production staff promoting the story, e.g., social teams, homepage and our business partners.
+- **Immediately notify** your editors and any production staff promoting the story, e.g., social teams, homepage and our business partners.
   - Use both email and Slack if you can't speak to someone directly.
   - Txt your editors if they don't immediately respond.
-2. If the error is egregious, take down the page or component of the page.
-3. On twitter, reply to any tweet you've made promoting the piece with a pending correction, then delete the original tweet.
-4. If the error can't be fixed quickly, replace the page with one that includes the headline and byline of the original content but with large text explaining the page was removed pending a correction. Replace a component with a text block.
-5. Correct the error and add a correction to the page.
+  
+  
+- If the error is egregious, **take down** the page or component of the page.
+
+- On twitter, reply to any tweet you've made promoting the piece with a pending correction, then **delete the original tweet**.
+
+- If the error can't be fixed quickly, **replace the page** with one that includes the headline and byline of the original content but with large text explaining the page was removed pending a correction. Replace a component with a text block.
+
+
+- **Correct the error** and add a correction to the page.
   - If the error is egregious put the correction at the top of the page, section or component. Otherwise, our style is to correct at the bottom of the page.
   - You must describe what was wrong in detail, but not _how_ we were wrong. Use discretion before airing details about workflow or technical details.
-6. Search social media for users who have shared misinformation and reply to them with a correction and link to the corrected piece. We can't get them all, but making an honest effort is a big part of our responsibility.
+
+
+- Notify your editors that you've published the correction and **send them the text**.
+
+
+- Search social media for users who have shared misinformation and **reply to them with a correction** and link to the corrected piece.
+  - We can't get them all, but making an honest effort is part of our responsibility and signals that we care about getting it right to our readers.
+
+
+- Once the correction is in place and you've done everything you can to stop the spread, **file a [correction memo](https://github.com/The-Politico/corrections)**. Share this with your editor.
+
+- Every correction will prompt a sit-down meeting with the team. The focus of that meeting is never to associate blame but to find out how best to stop similar errors from happening again.
+
+
+
 
 
 

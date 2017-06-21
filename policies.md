@@ -67,7 +67,7 @@ When you notice an error in a published piece, do these things **in this order**
   
 - If the error is egregious, **take down** the page or component of the page.
 
-- On twitter, reply to any tweet you've made promoting the piece with a pending correction, then **delete the original tweet**.
+- On twitter, reply to any tweet you've made promoting the piece with a pending correction and screenshot of the tweet, then **delete the original tweet**.
 
 - If the error can't be fixed quickly, **replace the page** with one that includes the headline and byline of the original content but with large text explaining the page was removed pending a correction. Replace a component with a text block.
 

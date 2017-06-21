@@ -77,7 +77,7 @@ When you notice an error in a published piece, do these things **in this order**
   - You must describe what was wrong in detail, but not _how_ we were wrong. Use discretion before airing details about workflow or technical details.
 
 
-- Notify your editors that you've published the correction and **send them the text**.
+- Notify your editors that you've published the correction and **send them the text**. they may want to approve the text before publishing.
 
 
 - Search social media for users who have shared misinformation and **reply to them with a correction** and link to the corrected piece.

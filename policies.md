@@ -76,6 +76,12 @@ When you notice an error in a published piece, do these things **in this order**
   - If the error is egregious put the correction at the top of the page, section or component. Otherwise, our style is to correct at the bottom of the page.
   - You must describe what was wrong in detail, but not _how_ we were wrong. Use discretion before airing details about workflow or technical details.
 
+```html
+<p class="correction">
+  An earlier version of this story TK in detail.
+</p>
+```
+
 
 - Notify your editors that you've published the correction and **send them the text**. They may want to approve the text before publishing.
 

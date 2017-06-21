@@ -14,23 +14,6 @@
 }
 ```
 
-### Sections
-Adding a section class will give sections the proper padding in the story well. 
-Simply wrap the section of the story in `<section></section>` tags and watch it work.
-
-Currently sections are locked to 600px, we'll be updating this shortly to follow the alignment rules below.
-
-```css
-section{
-  margin: 0 auto;
-  max-width: 600px;
-  padding: 1.5em 0;
-}
-
-
-```
-
-
 
 ### Aligning content to the main well
 
@@ -50,6 +33,27 @@ section{
   @include margin-auto;
 }
 ```
+
+
+### Sections
+Encasing chunks of a story in [section](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) tags will give them the proper padding in the story well. Simply wrap the section of the story in `<section></section>` tags and watch it work.
+
+If you want your section to fit the story well, ad the class `.content-fit`
+
+```html
+<section>
+<h2>Section header</h2>
+<p>I'll have the correct padding now.</p>
+</section>
+
+<section>
+<h2>Another section header</h2>
+<p>Me too!</p>
+</section>
+
+
+```
+
 
 
 

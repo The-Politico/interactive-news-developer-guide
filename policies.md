@@ -80,7 +80,7 @@ When you notice an error in a published piece, do these things **in this order**
 - Notify your editors that you've published the correction and **send them the text**. they may want to approve the text before publishing.
 
 
-- Search social media for users who have shared misinformation and **reply to them with a correction** and link to the corrected piece.
+- Search social media for users who have shared our misinformation and **reply to them with a correction** and link to the corrected piece.
   - We can't get them all, but making an honest effort is part of our responsibility and signals that we care about getting it right to our readers.
 
 

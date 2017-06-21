@@ -48,6 +48,28 @@ In addition, we'd like to add a few extra guidelines specific to this team's wor
 
 - Critically evaluate the process as much as the product. Anything we do once, we'll do again.
 
+### Corrections
+
+It happens. When it does, we want to act fast and surely. Haphazardly correcting mistakes may lead to more and hampers our ability to learn from them.
+
+Our corrections policy has these three goals in this order of priority:
+
+1. Stop the spread of misinformation.
+2. Correct the error transparently.
+3. Leave an audit trail.
+
+When you notice an error in a published piece, do these things **in this order**:
+
+1. Immediately notify your editors and any production staff promoting the story, e.g., social teams, homepage and our business partners.
+  - Use both email and Slack if you can't speak to someone directly.
+  - Txt your editors if they don't immediately respond.
+2. If the error is egregious, take down the page or component of the page.
+3. On twitter, reply to any tweet you've made promoting the piece with a pending correction, then delete the original tweet.
+4. If the error can't be fixed quickly, replace the page with one that includes the headline and byline of the original content but with large text explaining the page was removed pending a correction. Replace a component with a text block.
+5. Correct the error and add a correction to the page.
+  - If the error is egregious put the correction at the top of the page, section or component. Otherwise, our style is to correct at the bottom of the page.
+  - You must describe what was wrong in detail, but not _how_ we were wrong. Use discretion before airing details about workflow or technical details.
+6. Search social media for users who have shared misinformation and reply to them with a correction and link to the corrected piece. We can't get them all, but making an honest effort is a big part of our responsibility.
 
 
 

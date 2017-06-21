@@ -84,7 +84,7 @@ When you notice an error in a published piece, do these things **in this order**
   - We can't get them all, but making an honest effort is part of our responsibility and signals that we care about getting it right to our readers.
 
 
-- Once the correction is in place and you've done everything you can to stop the spread, **file a [correction memo](https://github.com/The-Politico/corrections)**. Share this with your editor.
+- Once the correction is in place and you've done everything you can to stop the spread of our misinformation, **file a [correction memo](https://github.com/The-Politico/corrections)**. Share this with your editor.
 
 - Every correction will prompt a sit-down meeting with the team. The focus of that meeting is never to associate blame but to find out how best to stop similar errors from happening again.
 

@@ -16,7 +16,7 @@
 
 ### Sections
 Adding a section class will give sections the proper padding in the story well. 
-Simply wrap the section of the story in <section></section> tags and watch it work.
+Simply wrap the section of the story in `<section></section>` tags and watch it work.
 
 Currently sections are locked to 600px, we'll be updating this shortly to follow the alignment rules below.
 

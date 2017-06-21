@@ -51,8 +51,18 @@ If you want your section to fit the story well, ad the class `content-fit`, othe
 <p>Me too!</p>
 </section>
 
-
 ```
+
+### Corrections
+So you need to make a correction. Easy, add a class of `correction` to your `<p>` tag
+```html
+<p class="correction">
+  An earlier version of this story mispelled TK.
+</p>
+```
+
+
+
 
 
 

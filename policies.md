@@ -56,7 +56,7 @@ Our corrections policy has these three goals in this order of priority:
 
 1. Stop the spread of misinformation.
 2. Correct the error transparently.
-3. Leave an audit trail.
+3. Leave an audit trail to learn.
 
 When you notice an error in a published piece, do these things **in this order**:
 

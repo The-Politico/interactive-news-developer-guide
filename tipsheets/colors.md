@@ -36,4 +36,48 @@
 | $GOPRed7      | ![#f5d6cc](https://placehold.it/15/f5d6cc/000000?text=+) `#f5d6cc` | rgb(245,214,204) |
 
 
+---
+
+###Diverging
+
+| Dem Ramp | Hex | RGB |
+| ------------- | ------------- | ------------- |
+| $Goldenrod | ![#ffa602](https://placehold.it/15/ffa602/000000?text=+) `#ffa602` | rgb(255,166,2) |
+| $DarkMagenta | ![#810082](https://placehold.it/15/810082/000000?text=+) `#810082` | rgb(129,0,130) |
+
+
+
+```html
+#ffa602 #f3962c #e6863e #d9764c #cc6657 #bf5561 #b1446a #a23472 #92207a #810082
+
+```
+
+```html
+'#ffa602','#f3962c','#e6863e','#d9764c','#cc6657','#bf5561','#b1446a','#a23472','#92207a','#810082'
+```
+
+```html
+d3.scale.threshold()
+    .range(['#ffa602','#f3962c','#e6863e','#d9764c','#cc6657','#bf5561','#b1446a','#a23472','#92207a','#810082']);
+```
+
+```
+function palette(min, max) {
+    var d = (max-min)/10;
+    return d3.scale.threshold()
+        .range(['#ffa602','#f3962c','#e6863e','#d9764c','#cc6657','#bf5561','#b1446a','#a23472','#92207a','#810082'])
+        .domain([min+1*d,min+2*d,min+3*d,min+4*d,min+5*d,min+6*d,min+7*d,min+8*d,min+9*d,min+10*d]);
+}
+```
+
+
+
+
+
+
+
+
+
+
+
 

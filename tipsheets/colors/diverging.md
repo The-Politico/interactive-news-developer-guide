@@ -1,4 +1,4 @@
-### Diverging Orange Purple
+### Diverging Goldenrod-Magenta
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
@@ -22,3 +22,31 @@
 d3.scale.threshold()
 .range(['#ffa602','#f3962c','#e6863e','#d9764c','#cc6657','#bf5561','#b1446a','#a23472','#92207a','#810082']);
 ```
+
+---
+
+### Diverging Forest-Magenta
+
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
+| $Forest | ![\#6A6C39](https://placehold.it/15/6A6C39/000000?text=+) `#6A6C39` | rgb(106,108,57) |
+| $ForestLight | ![\#878754](https://placehold.it/15/878754/000000?text=+) `#878754` | rgb(135,135,84) |
+| $Moss | ![\#a6a470](https://placehold.it/15/a6a470/000000?text=+) `#a6a470` | rgb(166,164,112) |
+| $MossLight | ![\#c5c18e](https://placehold.it/15/c5c18e/000000?text=+) `#c5c18e` | rgb(197,193,142) |
+| $Sand | ![\#e6e0ac](https://placehold.it/15/e6e0ac/000000?text=+) `#e6e0ac` | rgb(230,224,172) |
+| $WarmTaupe | ![\#ebd7b6](https://placehold.it/15/ebd7b6/000000?text=+) `#ebd7b6` | rgb(235,215,182) |
+| $Lilac | ![\#D3A8AA](https://placehold.it/15/D3A8AA/000000?text=+) `#D3A8AA` | rgb(211,168,170) |
+| $DarkLilac | ![\#b9799e](https://placehold.it/15/b9799e/000000?text=+) `#b9799e` | rgb(185,121,158) |
+| $Orchid | ![\#9e4990](https://placehold.it/15/9e4990/000000?text=+) `#9e4990` | rgb(158,73,144) |
+| $DarkMagenta | ![\#810082](https://placehold.it/15/810082/000000?text=+) `#810082` | rgb(146,32,122) |
+
+```
+'#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082'
+```
+
+```
+d3.scale.threshold()
+    .range(['#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082']);
+```
+

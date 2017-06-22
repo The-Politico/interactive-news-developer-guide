@@ -17,7 +17,7 @@
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
       * [Diverging](tipsheets/colors/diverging.md)
-      * Elections
+      * [Elections](tipsheets/colors/elections.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
 * [CHANGELOG](CHANGELOG.md)
 

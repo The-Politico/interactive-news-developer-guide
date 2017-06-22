@@ -8,7 +8,7 @@ Where we host them and what we use where.
 
 [**Website**](https://typekit.com/) 
 
-Out kit: POLITICO Interactive 
+Our kit: POLITICO Interactive 
 
 ### For Print
 

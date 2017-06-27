@@ -2,13 +2,13 @@
 
 * [Introduction](README.md)
 * [Policies](policies.md)
+* [Infrastructure](infrastructure.md)
 * [Workflow](workflow.md)
   * [Starting a project](workflow/starting-a-project.md)
   * [Keeping a budget](workflow/keeping-a-budget.md)
   * [Meeting](workflow/meeting.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
-* [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)
 * [Tipsheets](tipsheets.md)
   * [Handy CSS tricks](tipsheets/handy-css-tricks.md)
@@ -18,6 +18,8 @@
     * [Colors](tipsheets/colors.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
+      * [Sequential](tipsheets/colors/sequential.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
 * [CHANGELOG](CHANGELOG.md)
+* Sequential
 

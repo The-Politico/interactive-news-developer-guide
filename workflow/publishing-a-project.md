@@ -30,10 +30,11 @@ Make sure you've done all these things on your project before you publish.
 
 * [ ] Double check that your `meta.json` file is completely filled out.
 * [ ] Triple check that you have the `publishPath` and `url` correctly configured in your publish path.
-* [ ] Create a social share image at 600 x 300px, named share.jpg in the `dist/images` directory on interactive pages.
-* [ ] Update the timestamp on the article every time you publish. Our style is to add an udpated timestamp alongside the original when publishing additional content.
+* [ ] Create a social share image at 600 x 325px, named share.jpg in the `dist/images` directory on interactive pages.
+* [ ] Update the timestamp on the article every time you publish. Our style is to add an updated timestamp alongside the original when publishing additional content.
 
 ### Documentation
+
 * [ ] Update the README in your project.
 * [ ] If you're deploying an app or tool, make sure to add a `Developing` docs section with full instructions for anyone on the team to spin up your project locally.
 
@@ -50,16 +51,19 @@ Make sure you've done all these things on your project before you publish.
 
 
 ##### Homepage
+
 `tp-webeditor@politico`
 * [ ] Provide an embed code for embeddables or request a story shell for interactives.
 * [ ] Send the live URL address and time story will be available to promote.
 * [ ] Suggest homepage art, which can be a gif or a static image.
+    * [ ] If time allows, offer a thumbnail to be used at smaller display sizes. This option should be more graphical.
+    ie: ![](/assets/new_share.jpg)
 * [ ] Remind them to send an alert for the story at publish time.
 
+
 ##### Social
-
+`tp-webproducer@politico` `teischen@politico.com` 
 * [ ] Supply them with any social elements, your share.jpg image, gifs, suggested share text, etc.
-
 
 
 ##### **Comms, business analytics, advertising** 

@@ -72,5 +72,9 @@ Make sure you've done all these things on your project before you publish.
 * [ ] On bigger projects, check if a special ad map has been created for the project.
 
 
+#### Slack
+* [ ] Retire your project slack channel.
+
+
 
 

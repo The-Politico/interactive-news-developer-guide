@@ -10,7 +10,7 @@ An Interactive News editor signs off on all projects before they are published o
 
 An editor will conduct a dedicated UX and design review with you, but editing interactive components should be an iterative process. Show your work early and often to an editor and the final edit will go much more smoothly.
 
-##### Code reviews
+https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit###### Code reviews
 
 Code reviews are required for medium and long-turn projects and for any project touching durable infrastructure like datalab. The format these will take is fluid based on the project.
 

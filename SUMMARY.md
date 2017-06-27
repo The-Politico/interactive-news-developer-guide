@@ -7,6 +7,7 @@
   * [Starting a project](workflow/starting-a-project.md)
   * [Keeping a budget](workflow/keeping-a-budget.md)
   * [Meeting](workflow/meeting.md)
+  * [Pre-Publish](sequential.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
 * [WHOIS](whois.md)
@@ -21,5 +22,4 @@
       * [Sequential](tipsheets/colors/sequential.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
 * [CHANGELOG](CHANGELOG.md)
-* Sequential
 

@@ -2,6 +2,8 @@
 
 We'll use slack to help us manage the project up to publish. The nice thing about channels is people can come and go as they please.
 
+![](/assets/Screen Shot 2017-06-27 at 9.39.02 AM.png)
+
 * [ ] Invite reporters, editors
 - [ ] Invite and social media guru `teischen@politico.com`
 * [ ] For projects with high search potential - basically anything with a strong news peg add `mschuler@politico.com`. He'll be able to give you url and headline suggestions. 

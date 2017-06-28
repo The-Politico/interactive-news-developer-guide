@@ -20,6 +20,9 @@
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
       * [Sequential](tipsheets/colors/sequential.md)
+  * [ArchieML](tipsheets/archieml.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
+    * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)
+    * [Adding your embed](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
 * [CHANGELOG](CHANGELOG.md)
 

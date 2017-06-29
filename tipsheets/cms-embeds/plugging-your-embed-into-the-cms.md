@@ -1,13 +1,13 @@
-### Quick Summary
+# Quick Summary
 
-① Navigate to the part of the story where you'd like to place your embed.   
+① Navigate to the part of the story where you'd like to place your embed.  
 ② Place your cursor where you'd like to add it and click **Enhancement** in the wysiwyg  
 ③ Select **Main Size: Fixed** from the drop down. Then **New**.  
 ④ Once inside, the Module pane, select **Module: Generic Embed**  
 ⑤ Fill out the Label \(so you can find it again\). Leave the Headline blank.  
 ⑥ Click into the HTML well and place your `iframe`  
-⑦ Hit save on the upper right hand side.   
-⑧ At the top of your screen you'll see **blue text** that says **"Back to Select Enhancement for Body - \[ Title of your story\].**   
+⑦ Hit save on the upper right hand side.  
+⑧ At the top of your screen you'll see **blue text** that says **"Back to Select Enhancement for Body - \[ Title of your story\].**  
 ⑨ At the **top of the create asset pane, select your embed**, this places the embed into the enhancement.  
 ⑪ Save your work  
 ⑫ Preview by hitting the **Share** button on the preview screen

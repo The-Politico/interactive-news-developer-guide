@@ -23,6 +23,7 @@
   * [ArchieML](tipsheets/archieml.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)
-    * [Adding your embed](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
+    * [Ask a web producer](tipsheets/cms-embeds/ask-a-web-producer.md)
+    * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
 * [CHANGELOG](CHANGELOG.md)
 

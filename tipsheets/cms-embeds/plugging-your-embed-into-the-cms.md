@@ -7,7 +7,10 @@
 ⑥ Click into the HTML well and place your `iframe`
 ⑦ Hit save on the right hand side. 
 ⑧ At the top of your screen you'll see *blue text* that says "Back to Select Enhancement for Body - [ Title of your story]. 
-
+⑨ At the top of the create asset pane, select your embed
+⑩ This places the embed into the enhancement
+⑪ Save your work
+⑫ Preview
 
 ---
 

@@ -1,4 +1,9 @@
+
 ## Election
+
+![](/assets/Screen Shot 2017-07-05 at 4.05.23 PM.png)
+
+
 
 | Name | Hex | RGB |
 | --- | --- | --- |
@@ -7,6 +12,8 @@
 | $Teal or $Teal1 |  ![\#2fb1a9](https://placehold.it/15/2fb1a9/000000?text=+) `#2fb1a9` | rgb(47,177,169) |
 | $OtherGray or $OtherGray1 |  ![\#939292](https://placehold.it/15/939292/000000?text=+) `#939292` | rgb(147,146,146)|
 | $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
+| $GrayNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
+
 | $GrayNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
 
 

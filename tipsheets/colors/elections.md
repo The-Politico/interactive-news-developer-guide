@@ -57,21 +57,22 @@ d3.scale.threshold()
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $OtherTeal | ![](https://placehold.it/15/3aaf84/000000?text=+) `#3aaf84` | rgb\(58,175,132\) |
-| $OtherTeal2 | ![](https://placehold.it/15/5dbb94/000000?text=+) `#`5dbb94 | rgb\(162,161,161\) |
-| $OtherTeal3 | ![](https://placehold.it/15/7cc6a6/000000?text=+) `#`7cc6a6 | rgb\(176,176,176\) |
-| $OtherTeal4 | ![](https://placehold.it/15/96d2b7/000000?text=+) `#`96d2b7 | rgb\(192,192,192\) |
-| $OtherTeal5 | ![](https://placehold.it/15/b2ddc9/000000?text=+) `#`b2ddc9 | rgb\(207,207,207\) |
-| $OtherTeal6 | ![](https://placehold.it/15/cbe9da/000000?text=+) `#`cbe9da | rgb\(223,222,222\) |
-| $OtherTeal7 | ![](https://placehold.it/15/e5f4ec/000000?text=+) `#`e5f4ec | rgb\(236,236,236\) |
+| $OtherTeal | ![](https://placehold.it/15/2fb1a9/000000?text=+) `#2fb1a9` | rgb(47,177,169) |
+| $OtherTeal2 | ![](https://placehold.it/15/5abdb5/000000?text=+) `#`5abdb5 | rgb(90,189,181) |
+| $OtherTeal3 | ![](https://placehold.it/15/79c8c1/000000?text=+) `#`79c8c1 | rgb(121,200,193) |
+| $OtherTeal4 | ![](https://placehold.it/15/96d2cd/000000?text=+) `#`96d2cd | rgb(150,210,205) |
+| $OtherTeal5 | ![](https://placehold.it/15/b1ded9/000000?text=+) `#`b1ded9 | rgb(177,222,217) |
+| $OtherTeal6 | ![](https://placehold.it/15/cce9e6/000000?text=+) `#`cce9e6 | rgb(204,233,230) |
+| $OtherTeal7 | ![](https://placehold.it/15/e5f4f2/000000?text=+) `#`e5f4f2 | rgb(229,244,242) |
 
 ```html
-'#3aaf84','#5dbb94','#7cc6a6','#96d2b7','#b2ddc9','#cbe9da','#cbe9da'
+'#2fb1a9','#5abdb5','#79c8c1','#96d2cd','#b1ded9','#cce9e6','#e5f4f2'
 ```  
 
 ```html
-d3.scale.threshold()  
-.range(['#3aaf84','#5dbb94','#7cc6a6','#96d2b7','#b2ddc9','#cbe9da','#e5f4ec']);
+d3.scale.threshold()
+.range(['#2fb1a9','#5abdb5','#79c8c1','#96d2cd','#b1ded9','#cce9e6','#e5f4f2','#ffffff']);
+
 ```
 
 ---

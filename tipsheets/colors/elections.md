@@ -54,6 +54,7 @@ d3.scale.threshold()
 ---
 
 ### Other / Teal
+[This teal is == Agenda 2020 teal ]
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |

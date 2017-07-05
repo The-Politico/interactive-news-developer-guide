@@ -6,22 +6,22 @@
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Sangria | ![\#9b0001](https://placehold.it/15/9b0001/000000?text=+) `#9b0001` | rgb(155,0,1) |
-| $Tabasco | ![\#a72516](https://placehold.it/15/a72516/000000?text=+) `#a72516` | rgb(167,37,22) |
-| $Poppy | ![\#b33c2a](https://placehold.it/15/b33c2a/000000?text=+) `#b33c2a` | rgb(179,60,42) |
-| $Rust | ![\#bf523e](https://placehold.it/15/bf523e/000000?text=+) `#bf523e` | rgb(191,82,62) |
-| $Salmon | ![\#cc6657](https://placehold.it/15/cc6657/000000?text=+) `#cc6657` | rgb(204,102,87) |
-| $Coral | ![\#d77e6b](https://placehold.it/15/d77e6b/000000?text=+) `#d77e6b` | rgb(215,126,107) |
-| $DustySalmon | ![\#e29684](https://placehold.it/15/e29684/000000?text=+) `#e29684` | rgb(187,168,143) |
-| $DustyPink | ![\#edaf9e](https://placehold.it/15/edaf9e/000000?text=+) `#edaf9e` | rgb(226,150,132) |
+| $Tabasco | ![\#af2311](https://placehold.it/15/af2311/000000?text=+) `#af2311` | rgb(175,35,17) |
+| $Poppy | ![\#c33b22](https://placehold.it/15/c33b22/000000?text=+) `#c33b22` | rgb(195,59,34) |
+| $Rust | ![\#d35234](https://placehold.it/15/d35234/000000?text=+) `#d35234` | rgb(211,82,52)|
+| $Sockeye | ![\#d35234](https://placehold.it/15/d35234/000000?text=+) `#d35234` | rgb(211,82,52) |
+| $Coral | ![\#e36849](https://placehold.it/15/e36849/000000?text=+) `#e36849` | rgb(227,104,73) |
+| $DustySalmon | ![\#f08060](https://placehold.it/15/f08060/000000?text=+) `#f08060` | rgb(250,152,123) |
+| $DustyPink | ![\#fa987b](https://placehold.it/15/fa987b/000000?text=+) `#fa987b` | rgb(250,152,123) |
 | $SpringPeach | ![\#f6c9ba](https://placehold.it/15/f6c9ba/000000?text=+) `#f6c9ba` | rgb(246,201,186) |
 | $Peach | ![\#ffe5d8](https://placehold.it/15/ffe5d8/000000?text=+) `#ffe5d8` | rgb(255,229,216) |
 
 ```
-'#9b0001','#a72516','#b33c2a','#bf523e','#cc6657','#d77e6b','#e29684','#edaf9e','#f6c9ba','#ffe5d8'
+'#9b0001','#af2311','#c33b22','#d35234','#e36849','#f08060','#fa987b','#ffb297','#ffcbb7','#ffe5d8'
 ```
 
 ```d3.scale.threshold()
-.range(['#9b0001','#a72516','#b33c2a','#bf523e','#cc6657','#d77e6b','#e29684','#edaf9e','#f6c9ba','#ffe5d8']);
+.range(['#9b0001','#af2311','#c33b22','#d35234','#e36849','#f08060','#fa987b','#ffb297','#ffcbb7','#ffe5d8']);
 ```
 
 ---

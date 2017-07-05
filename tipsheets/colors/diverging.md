@@ -66,6 +66,18 @@ d3.scale.threshold()
 | $Clay | ![\#9E7A4C](https://placehold.it/15/9E7A4C/000000?text=+) `#9E7A4C` | rgb(158,122,76) |
 | $Coffee | ![\#784C11](https://placehold.it/15/784C11/000000?text=+) `#784C11` | rgb(120,76,17) |
 | $Dirt | ![\#5D3B0F](https://placehold.it/15/5D3B0F/000000?text=+) `#5D3B0F` | rgb(93,59,15) |
+
+```
+'#196B66','#218C86','#26B1AA','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE'
+```
+
+```
+d3.scale.threshold()
+    .range(['#196B66','#218C86','#26B1AA','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE']);
+```
+
+
+
 ---
 
 

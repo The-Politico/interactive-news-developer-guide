@@ -35,6 +35,51 @@
 
 ---
 
+### Other / Teal
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
+| $OtherTeal | ![](https://placehold.it/15/3aaf84/000000?text=+) `#3aaf84` | rgb(58,175,132) |
+| $OtherTeal2 | ![](https://placehold.it/15/5dbb94/000000?text=+) `#`5dbb94 | rgb(162,161,161) |
+| $OtherTeal3 | ![](https://placehold.it/15/7cc6a6/000000?text=+) `#`7cc6a6 | rgb(176,176,176) |
+| $OtherTeal4 | ![](https://placehold.it/15/96d2b7/000000?text=+) `#`96d2b7 | rgb(192,192,192) |
+| $OtherTeal5 | ![](https://placehold.it/15/b2ddc9/000000?text=+) `#`b2ddc9 | rgb(207,207,207) |
+| $OtherTeal6 | ![](https://placehold.it/15/cbe9da/000000?text=+) `#`cbe9da | rgb(223,222,222) |
+| $OtherTeal7| ![](https://placehold.it/15/e5f4ec/000000?text=+) `#`e5f4ec | rgb(236,236,236) |
+
+`'#3aaf84','#5dbb94','#7cc6a6','#96d2b7','#b2ddc9','#cbe9da','#cbe9da'`
+`d3.scale.threshold()
+.range(['#3aaf84','#5dbb94','#7cc6a6','#96d2b7','#b2ddc9','#cbe9da','#e5f4ec']);`
+
+---
+
+### Other / Gray
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
+| $OtherGray | ![](https://placehold.it/15/939292/000000?text=+) `#939292` | rgb\(147,146,146\) |
+| $OtherGray2 | ![](https://placehold.it/15/a2a1a1/000000?text=+) `#`a2a1a1 | rgb(162,161,161) |
+| $OtherGray3 | ![](https://placehold.it/15/b0b0b0/000000?text=+) `#`b0b0b0 | rgb(176,176,176) |
+| $OtherGray4 | ![](https://placehold.it/15/c0c0c0/000000?text=+) `#`c0c0c0 | rgb(192,192,192) |
+| $OtherGray5 | ![](https://placehold.it/15/cfcfcf/000000?text=+) `#`cfcfcf | rgb(207,207,207) |
+| $OtherGray6 | ![](https://placehold.it/15/dfdede/000000?text=+) `#`dfdede | rgb(223,222,222) |
+| $OtherGray7 | ![](https://placehold.it/15/efeeee/000000?text=+) `#`efeeee | rgb(236,236,236) |
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

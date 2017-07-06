@@ -119,7 +119,7 @@ This gray is a nice option for bar charts, when the strong Dem and GOP colors ca
 | $OtherGray7 | ![](https://placehold.it/15/b4b8b7/000000?text=+) `#b4b8b7` | rgb(180,184,183) |
 | $OtherGray8 | ![](https://placehold.it/15/cccfcf/000000?text=+) `#cccfcf` | rgb(204,207,207) |
 | $OtherGray9 | ![](https://placehold.it/15/e5e7e7/000000?text=+) `#e5e7e7` | rgb(229,231,231) |
-| $GrayNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
+| $WhiteNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
 
 
 ```html

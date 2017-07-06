@@ -37,24 +37,26 @@ d3.scale.threshold()
 | $ForestMagenta-L3 | $Moss |![\#a6a470](https://placehold.it/15/a6a470/000000?text=+) `#a6a470` | rgb(166,164,112) |
 | $ForestMagenta-L4  |$Moss2 | ![\#c5c18e](https://placehold.it/15/c5c18e/000000?text=+) `#c5c18e` | rgb(197,193,142) |
 | $ForestMagenta-L5  | $Sand |![\#e6e0ac](https://placehold.it/15/e6e0ac/000000?text=+) `#e6e0ac` | rgb(230,224,172) |
+| $ForestMagenta-Middle  | $CornFlower |![\#F6F0B9](https://placehold.it/15/F6F0B9/000000?text=+) `#F6F0B9` | rgb(246,240,185)) |
 | $ForestMagenta-R5 | $WarmTaupe |![\#ebd7b6](https://placehold.it/15/ebd7b6/000000?text=+) `#ebd7b6` | rgb(235,215,182) |
 | $ForestMagenta-R4 | $Lilac2 |![\#D3A8AA](https://placehold.it/15/D3A8AA/000000?text=+) `#D3A8AA` | rgb(211,168,170) |
 | $ForestMagenta-R3 | $Lilac |![\#b9799e](https://placehold.it/15/b9799e/000000?text=+) `#b9799e` | rgb(185,121,158) |
 | $ForestMagenta-R2 | $Orchid |![\#9e4990](https://placehold.it/15/9e4990/000000?text=+) `#9e4990` | rgb(158,73,144) |
 | $ForestMagenta-R1 | $Magenta | ![\#810082](https://placehold.it/15/810082/000000?text=+) `#810082` | rgb(146,32,122) |
 
-```
-'#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082'
+```html
+'#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac',, '#F6F0B9','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082'
 ```
 
-```
+```html
 d3.scale.threshold()
-    .range(['#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082']);
+    .range(['#6a6c39','#878754','#a6a470','#c5c18e','#e6e0ac',, '#F6F0B9','#ebd7b6','#d3a8aa','#b9799e','#9e4990','#810082']);
 ```
 
 ---
 
-### Diverging Lichen-Sapphire . NOT DONE YET
+
+### Diverging Lichen-Sapphire
 
 | Ramp | Alias | Hex | RGB |
 | --- | --- | --- |
@@ -63,13 +65,17 @@ d3.scale.threshold()
 | $Moss-Sapphire-L3 | $Olive2 |![\#bcb968](https://placehold.it/15/bcb968/000000?text=+) `#bcb968` | rgb(188,185,104) |
 | $Moss-Sapphire-L4 | $Willow |![\#cfcb83](https://placehold.it/15/cfcb83/000000?text=+) `#cfcb83` | rgb(207,203,131) |
 | $Moss-Sapphire-L5 | $Willow2 |![\#e3dd9e](https://placehold.it/15/e3dd9e/000000?text=+) `#e3dd9e` | rgb(227,221,158) |
-| $Moss-Sapphire-R5 | $Willow2 |![\#f6f0b9](https://placehold.it/15/f6f0b9/000000?text=+) `#f6f0b9` | rgb(210,211,196) |
-| $Moss-Sapphire-R4 | $Clay2 |![\#f6f0b9](https://placehold.it/15/f6f0b9/000000?text=+) `#f6f0b9` | rgb(246,240,185) |
-| $Moss-Sapphire-R3 | $Clay |![\#9E7A4C](https://placehold.it/15/9E7A4C/000000?text=+) `#9E7A4C` | rgb(158,122,76) |
-| $Moss-Sapphire-R2 | $Coffee |![\#784C11](https://placehold.it/15/784C11/000000?text=+) `#784C11` | rgb(120,76,17) |
+| $Moss-Sapphire-Middle | $CornFlower |![\#f6f0b9](https://placehold.it/15/f6f0b9/000000?text=+) `#f6f0b9` | rgb(210,211,196) |
+| $Moss-Sapphire-R5 | $Slate |![\#d6d2bd](https://placehold.it/15/d6d2bd/000000?text=+) `#d6d2bd` | rgb(214,210,189) |
+| $Moss-Sapphire-R4 | $BlueGray |![\#b4b5c0](https://placehold.it/15/b4b5c0/000000?text=+) `#b4b5c0` | rgb(180,181,192)|
+| $Moss-Sapphire-R3 | $Periwinkle |![\#909ac2](https://placehold.it/15/909ac2/000000?text=+) `#909ac2` | rgb(144,154,194) |
+| $Moss-Sapphire-R2 | $Saphire2 |![\#667fc3](https://placehold.it/15/667fc3/000000?text=+) `#667fc3` | rgb(102,127,195) |
 | $Moss-Sapphire-R1 | $Sapphire |![\#2166c3](https://placehold.it/15/2166c3/000000?text=+) `#2166c3` | rgb(33,102,195) |
 
-```
+
+
+
+```html
 '#959632','#a8a74e','#bcb968','#cfcb83','#e3dd9e','#f6f0b9','#d6d2bd','#b4b5c0','#909ac2','#667fc3','#2166c3'
 
 ```

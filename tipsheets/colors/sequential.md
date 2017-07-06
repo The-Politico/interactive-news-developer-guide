@@ -51,3 +51,30 @@ d3.scale.threshold()    .range(['#46825a','#578e69','#699c79','#79a887','#8bb597
 ```
 
 ---
+
+### Sequential Yellow-Red
+
+| Ramp | Alias | Hex | RGB |
+| --- | --- | --- | --- |
+| $YellowRed-L1 | $Yellow | ![\#ffe37e](https://placehold.it/15/ffe37e/000000?text=+) `#ffe37e` | rgb(255,227,126) |
+| $YellowRed-L2 | $Gold | ![\#ffd272](https://placehold.it/15/ffd272/000000?text=+) `#ffd272` | rgb(255,210,114) |
+| $YellowRed-L3 | $OrangeGold | ![\#fec166](https://placehold.it/15/fec166/000000?text=+) `#fec166` | rgb(254,193,102) |
+| $YellowRed-L4 | $Orange3 | ![\#fcaf5a](https://placehold.it/15/fcaf5a/000000?text=+) `#fcaf5a` | rgb(252,175,90) |
+| $YellowRed-L5 | $Orange2 | ![\#f99e4e](https://placehold.it/15/f99e4e/000000?text=+) `#f99e4e` | rgb(249,158,78) |
+| $YellowRed-R5 | $Orange | ![\#f68c43](https://placehold.it/15/f68c43/000000?text=+) `#f68c43` | rgb(246,140,67)) |
+| $YellowRed-R4 | $Apricot3 | ![\#f37937](https://placehold.it/15/f37937/000000?text=+) `#f37937` | rgb(243,121,55) |
+| $YellowRed-R3 | $Apricot2| ![\#EF662C](https://placehold.it/15/EF662C/000000?text=+) `#EF662C` | rgb(239,102,44) |
+| $YellowRed-R2 | $Apricot | ![\#ea5021](https://placehold.it/15/ea5021/000000?text=+) `#ea5021` | rgb(234,80,33) |
+| $YellowRed-R1 | $GOP | ![\#e53516](https://placehold.it/15/e53516/000000?text=+) `#e53516` | rgb(229,53,22) |
+
+```
+'#ffe37e','#ffd272','#fec166','#fcaf5a','#f99e4e','#f68c43','#f37937','#ef662c','#ea5021','#e53516'
+
+```
+
+```
+d3.scale.threshold()
+    .range(['#ffe37e','#ffd272','#fec166','#fcaf5a','#f99e4e','#f68c43','#f37937','#ef662c','#ea5021','#e53516']);
+```
+
+---

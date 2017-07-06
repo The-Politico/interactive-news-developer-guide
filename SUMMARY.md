@@ -17,9 +17,23 @@
   * [Design guides](tipsheets/design-guides.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
+      * Categorical
+      * [Sequential](tipsheets/colors/sequential.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
-      * [Sequential](tipsheets/colors/sequential.md)
+    * [Dataviz](tipsheets/design-guides/dataviz.md)
+      * Annotations
+      * Axes
+      * Chatter
+      * Font styles
+      * Legends and keys
+      * Tooltips
+      * [Chart types](tipsheets/design-guides/dataviz/chart-types.md)
+        * [Data tables](tipsheets/design-guides/dataviz/data-tables.md)
+        * Maps
+        * Line charts
+        * Bar and column charts
+        * Unit chart
   * [ArchieML](tipsheets/archieml.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)

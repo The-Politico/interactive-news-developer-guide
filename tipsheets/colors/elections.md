@@ -88,9 +88,6 @@ d3.scale.threshold()
 | $Teal7 | ![](https://placehold.it/15/d1f0e8/000000?text=+) `#d1f0e8` | rgb(209,240,232) |
 | $Teal8 | ![](https://placehold.it/15/e1f5f0/000000?text=+) `#e1f5f0` | rgb(225,245,240) |
 | $Teal9 | ![](https://placehold.it/15/f0faf8/000000?text=+) `#f0faf8` | rgb(240,250,248) |
-
-
-
 | $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
 
 

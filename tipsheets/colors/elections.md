@@ -1,17 +1,17 @@
 
 ## Election
 
-![](/assets/test.png)
+
 
 
 | Name | Hex | RGB |
 | --- | --- | --- |
-| $Dem or $Dem1 | ![\#114ca1](https://placehold.it/15/114ca1/000000?text=+) `#114ca1` | rgb\(17,76,161\) |
-| $GOP or $GOP1 | ![\#dc2700](https://placehold.it/15/dc2700/000000?text=+) `#dc2700` | rgb\(220,39,0\) |
-| $Teal or $Teal1 |  ![\#2fb1a9](https://placehold.it/15/2fb1a9/000000?text=+) `#2fb1a9` | rgb(47,177,169) |
-| $OtherGray or $OtherGray1 |  ![\#939292](https://placehold.it/15/939292/000000?text=+) `#939292` | rgb(147,146,146)|
-| $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
-| $GrayNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
+| $Dem or $Dem1 | ![\#2B6ABD](https://placehold.it/15/2B6ABD/000000?text=+) `#2B6ABD` | rgb(43,106,189) |
+| $GOP or $GOP1 | ![\#E53516](https://placehold.it/15/E53516/000000?text=+) `#E53516` | rgb(229,53,22) |
+| $Teal or $Teal1 |  ![\#6BD1BB](https://placehold.it/15/6BD1BB/000000?text=+) `#6BD1BB` | rgb(107,209,187) |
+| $OtherGray or $OtherGray1 |  ![\#2f3b38](https://placehold.it/15/2f3b38/000000?text=+) `#2f3b38` | rgb(47,59,56)|
+| $NA |  ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb(226,226,226)|
+| $GrayNA _ - for use with dark theme_|  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
 
 
 
@@ -23,23 +23,25 @@
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $Dem1 | ![\#114ca1](https://placehold.it/15/114ca1/000000?text=+) `#114ca1` | rgb\(17,76,161\) |
-| $Dem2 | ![\#4561ac](https://placehold.it/15/4561ac/000000?text=+) `#4561ac` | rgb\(69,97,172\) |
-| $Dem3 | ![\#6676b8](https://placehold.it/15/6676b8/000000?text=+) `#6676b8` | rgb\(102,118,184\) |
-| $Dem4 | ![\#838dc3](https://placehold.it/15/838dc3/000000?text=+) `#838dc3` | rgb\(131,141,195\) |
-| $Dem5 | ![\#9ea5ce](https://placehold.it/15/9ea5ce/000000?text=+) `#9ea5ce` | rgb\(158,165,206\) |
-| $Dem6 | ![\#b9bdd9](https://placehold.it/15/b9bdd9/000000?text=+) `#b9bdd9` | rgb\(185,189,217\) |
-| $Dem7 | ![\#d4d6e4](https://placehold.it/15/d4d6e4/000000?text=+) `#d4d6e4` | rgb\(212,214,228\) |
+| $Dem1 | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb(43,106,189) |
+| $Dem2 | ![\#4e79c4](https://placehold.it/15/4e79c4/000000?text=+) `#4e79c4` | rgb(78,121,196) |
+| $Dem3 | ![\#6988CC](https://placehold.it/15/6988CC/000000?text=+) `#6988CC` | rgb(105,136,204) |
+| $Dem4 | ![\#8198d4](https://placehold.it/15/8198d4/000000?text=+) `#8198d4` | rgb(129,152,212) |
+| $Dem5 | ![\#96a8db](https://placehold.it/15/96a8db/000000?text=+) `#96a8db` | rgb(150,168,219) |
+| $Dem6 | ![\#acbae2](https://placehold.it/15/acbae2/000000?text=+) `#acbae2` | rgb(172,186,226) |
+| $Dem7 | ![\#c1caea](https://placehold.it/15/c1caea/000000?text=+) `#c1caea` | rgb(193,202,234) |
+| $Dem8 | ![\#d6dbf1](https://placehold.it/15/d6dbf1/000000?text=+) `#d6dbf1` | rgb(214,219,241) |
+| $Dem9 | ![\#ebedf8](https://placehold.it/15/ebedf8/000000?text=+) `#ebedf8` | rgb(235,237,248) |
 | $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
 
 
 ```html
-'#114ca1','#4763af','#6a7bbc','#8993ca','#a7aed7','#c4c8e4','#e1e3f2'
+'#2b6abd','#4e79c4','#6988cc','#8198d4','#96a8db','#acbae2','#c1caea','#d6dbf1','#ebedf8','#ffffff'
 ```
 
 ```html
 d3.scale.threshold()
-    .range(['#114ca1','#4763af','#6a7bbc','#8993ca','#a7aed7','#c4c8e4','#e1e3f2']);
+.range(['#2b6abd','#4e79c4','#6988cc','#8198d4','#96a8db','#acbae2','#c1caea','#d6dbf1','#ebedf8','#ffffff']);
 ```
 
 ---
@@ -48,51 +50,58 @@ d3.scale.threshold()
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $GOP1 | ![\#dc2700](https://placehold.it/15/dc2700/000000?text=+) `#dc2700` | rgb\(220,39,0\) |
-| $GOP2 | ![\#E64F29](https://placehold.it/15/E64F29/000000?text=+) `#E64F29` | rgb\(230,79,41\)\) |
-| $GOP3 | ![\#ed6d49](https://placehold.it/15/ed6d49/000000?text=+) `#ed6d49` | rgb\(237,109,73\) |
-| $GOP4 | ![\#f38869](https://placehold.it/15/f38869/000000?text=+) `#f38869` | rgb\(243,136,105\) |
-| $GOP5 | ![\#f6a289](https://placehold.it/15/f6a289/000000?text=+) `#f6a289` | rgb\(246,162,137\) |
-| $GOP6 | ![\#f7bcaa](https://placehold.it/15/f7bcaa/000000?text=+) `#f7bcaa` | rgb\(247,188,170\) |
-| $GOP7 | ![\#f5d6cc](https://placehold.it/15/f5d6cc/000000?text=+) `#f5d6cc` | rgb\(245,214,204\) |
+| $GOP1 | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
+| $GOP2 | ![\#ff6f50](https://placehold.it/15/ff6f50/000000?text=+) `#ff6f50` | rgb(255,111,80) |
+| $GOP3 | ![\#ff8567](https://placehold.it/15/ff8567/000000?text=+) `#ff8567` | rgb(255,133,103) |
+| $GOP4 | ![\#ff997e](https://placehold.it/15/ff997e/000000?text=+) `#ff997e` | rgb(255,153,126) |
+| $GOP5 | ![\#ffab94](https://placehold.it/15/ffab94/000000?text=+) `#ffab94` | rgb(255,171,148) |
+| $GOP6 | ![\#ffbca9](https://placehold.it/15/ffbca9/000000?text=+) `#ffbca9` | rgb(255,188,169) |
+| $GOP7 | ![\#ffcebf](https://placehold.it/15/ffcebf/000000?text=+) `#ffcebf` | rgb(255,206,191) |
+| $GOP8 | ![\#ffded4](https://placehold.it/15/ffded4/000000?text=+) `#ffded4` | rgb(255,222,212) |
+| $GOP9 | ![\#ffefe9](https://placehold.it/15/ffefe9/000000?text=+) `#ffefe9` | rgb(255,239,233) |
 | $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
 
 
 
 ```html
-'#dc2700','#e8512b','#f2724d','#fa8f6f','#ffab92','#ffc8b7','#ffe4db'
+'#fd5639','#ff6f50','#ff8567','#ff997e','#ffab94','#ffbca9','#ffcebf','#ffded4','#ffefe9','#ffffff'
 ```
 
 ```html
 d3.scale.threshold()
-    .range(['#dc2700','#e8512b','#f2724d','#fa8f6f','#ffab92','#ffc8b7','#ffe4db']);
+.range(['#fd5639','#ff6f50','#ff8567','#ff997e','#ffab94','#ffbca9','#ffcebf','#ffded4','#ffefe9','#ffffff']);
 ```
 
 ---
 
 ### Other / Teal
-[This teal is == Agenda 2020 teal ]
+
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $Teal | ![](https://placehold.it/15/2fb1a9/000000?text=+) `#2fb1a9` | rgb(47,177,169) |
-| $Teal2 | ![](https://placehold.it/15/5abdb5/000000?text=+) `#5abdb5` | rgb(90,189,181) |
-| $Teal3 | ![](https://placehold.it/15/79c8c1/000000?text=+) `#79c8c1` | rgb(121,200,193) |
-| $Teal4 | ![](https://placehold.it/15/96d2cd/000000?text=+) `#96d2cd` | rgb(150,210,205) |
-| $Teal5 | ![](https://placehold.it/15/b1ded9/000000?text=+) `#b1ded9` | rgb(177,222,217) |
-| $Teal6 | ![](https://placehold.it/15/cce9e6/000000?text=+) `#cce9e6` | rgb(204,233,230) |
-| $Teal7 | ![](https://placehold.it/15/e5f4f2/000000?text=+) `#e5f4f2` | rgb(229,244,242) |
+| $Teal | ![](https://placehold.it/15/6bd1bb/000000?text=+) `#6bd1bb` | rgb(107,209,187) |
+| $Teal2 | ![](https://placehold.it/15/7fd6c3/000000?text=+) `#7fd6c3` | rgb(127,214,195)) |
+| $Teal3 | ![](https://placehold.it/15/90dcca/000000?text=+) `#90dcca` | rgb(144,220,202) |
+| $Teal4 | ![](https://placehold.it/15/a1e1d1/000000?text=+) `#a1e1d1` | rgb(161,225,209)|
+| $Teal5 | ![](https://placehold.it/15/b2e6d9/000000?text=+) `#b2e6d9` | rgb(178,230,217)|
+| $Teal6 | ![](https://placehold.it/15/c2ebe0/000000?text=+) `#c2ebe0` | rgb(194,235,224) |
+| $Teal7 | ![](https://placehold.it/15/d1f0e8/000000?text=+) `#d1f0e8` | rgb(209,240,232) |
+| $Teal8 | ![](https://placehold.it/15/e1f5f0/000000?text=+) `#e1f5f0` | rgb(225,245,240) |
+| $Teal9 | ![](https://placehold.it/15/f0faf8/000000?text=+) `#f0faf8` | rgb(240,250,248) |
+
+
+
 | $NA |  ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb(230,230,230)|
 
 
 
 ```html
-'#2fb1a9','#5abdb5','#79c8c1','#96d2cd','#b1ded9','#cce9e6','#e5f4f2'
+'#6bd1bb','#7fd6c3','#90dcca','#a1e1d1','#b2e6d9','#c2ebe0','#d1f0e8','#e1f5f0','#f0faf8','#ffffff'
 ```  
 
 ```html
 d3.scale.threshold()
-.range(['#2fb1a9','#5abdb5','#79c8c1','#96d2cd','#b1ded9','#cce9e6','#e5f4f2','#ffffff']);
+.range(['#6bd1bb','#7fd6c3','#90dcca','#a1e1d1','#b2e6d9','#c2ebe0','#d1f0e8','#e1f5f0','#f0faf8','#ffffff']);
 
 ```
 
@@ -104,23 +113,26 @@ This gray is a nice option for bar charts, when the strong Dem and GOP colors ca
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $OtherGray | ![](https://placehold.it/15/939292/000000?text=+) `#939292` | rgb\(147,146,146\) |
-| $OtherGray2 | ![](https://placehold.it/15/a2a1a1/000000?text=+) `#`a2a1a1 | rgb\(162,161,161\) |
-| $OtherGray3 | ![](https://placehold.it/15/b0b0b0/000000?text=+) `#`b0b0b0 | rgb\(176,176,176\) |
-| $OtherGray4 | ![](https://placehold.it/15/c0c0c0/000000?text=+) `#`c0c0c0 | rgb\(192,192,192\) |
-| $OtherGray5 | ![](https://placehold.it/15/cfcfcf/000000?text=+) `#`cfcfcf | rgb\(207,207,207\) |
-| $OtherGray6 | ![](https://placehold.it/15/dfdede/000000?text=+) `#`dfdede | rgb\(223,222,222\) |
-| $OtherGray7 | ![](https://placehold.it/15/efeeee/000000?text=+) `#`efeeee | rgb\(236,236,236\) |
+| $OtherGray | ![](https://placehold.it/15/2f3b38/000000?text=+) `#2f3b38` | rgb\rgb(47,59,56) |
+| $OtherGray2 | ![](https://placehold.it/15/434f4c/000000?text=+) `#434f4c` | rgb\rgb(67,79,76) |
+| $OtherGray3 | ![](https://placehold.it/15/596360/000000?text=+) `#596360` | rgb\rgb(89,99,96) |
+| $OtherGray4 | ![](https://placehold.it/15/6e7674/000000?text=+) `#6e7674` | rgb(110,118,116) |
+| $OtherGray5 | ![](https://placehold.it/15/858c8a/000000?text=+) `#858c8a` | rgb(133,140,138) |
+| $OtherGray6 | ![](https://placehold.it/15/9ca2a0/000000?text=+) `#9ca2a0` | rgb(156,162,160) |
+| $OtherGray7 | ![](https://placehold.it/15/b4b8b7/000000?text=+) `#b4b8b7` | rgb(180,184,183) |
+| $OtherGray8 | ![](https://placehold.it/15/cccfcf/000000?text=+) `#cccfcf` | rgb(204,207,207) |
+| $OtherGray9 | ![](https://placehold.it/15/e5e7e7/000000?text=+) `#e5e7e7` | rgb(229,231,231) |
 | $GrayNA |  ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255)|
 
 
 ```html
-'#939292','#a2a1a1','#b0b0b0','#c0c0c0','#cfcfcf','#dfdede','#efeeee'
+'#2f3b38','#434f4c','#596360','#6e7674','#858c8a','#9ca2a0','#b4b8b7','#cccfcf','#e5e7e7','#ffffff'
+
 ```
 
 ```html
 d3.scale.threshold()
-    .range(['#939292','#a2a1a1','#b0b0b0','#c0c0c0','#cfcfcf','#dfdede','#efeeee']);
+    .range(['#2f3b38','#434f4c','#596360','#6e7674','#858c8a','#9ca2a0','#b4b8b7','#cccfcf','#e5e7e7','#ffffff']);
 ```
 ---
 

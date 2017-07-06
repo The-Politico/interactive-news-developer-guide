@@ -54,6 +54,35 @@ d3.scale.threshold()
 
 ---
 
+### Diverging Lichen-Sapphire . NOT DONE YET
+
+| Ramp | Alias | Hex | RGB |
+| --- | --- | --- |
+| $Moss-Sapphire-L1 | $Lichen |![\#959632](https://placehold.it/15/959632/000000?text=+) `#959632` | rgb(25,107,102) |
+| $Moss-Sapphire-L2 | $Olive | ![\#a8a74e](https://placehold.it/15/a8a74e/000000?text=+) `#a8a74e`| rgb(168,167,78) |
+| $Moss-Sapphire-L3 | $Olive2 |![\#bcb968](https://placehold.it/15/bcb968/000000?text=+) `#bcb968` | rgb(188,185,104) |
+| $Moss-Sapphire-L4 | $Willow |![\#cfcb83](https://placehold.it/15/cfcb83/000000?text=+) `#cfcb83` | rgb(207,203,131) |
+| $Moss-Sapphire-L5 | $Willow2 |![\#e3dd9e](https://placehold.it/15/e3dd9e/000000?text=+) `#e3dd9e` | rgb(227,221,158) |
+| $Moss-Sapphire-R5 | $Willow2 |![\#f6f0b9](https://placehold.it/15/f6f0b9/000000?text=+) `#f6f0b9` | rgb(210,211,196) |
+| $Moss-Sapphire-R4 | $Clay2 |![\#f6f0b9](https://placehold.it/15/f6f0b9/000000?text=+) `#f6f0b9` | rgb(246,240,185) |
+| $Moss-Sapphire-R3 | $Clay |![\#9E7A4C](https://placehold.it/15/9E7A4C/000000?text=+) `#9E7A4C` | rgb(158,122,76) |
+| $Moss-Sapphire-R2 | $Coffee |![\#784C11](https://placehold.it/15/784C11/000000?text=+) `#784C11` | rgb(120,76,17) |
+| $Moss-Sapphire-R1 | $Sapphire |![\#2166c3](https://placehold.it/15/2166c3/000000?text=+) `#2166c3` | rgb(33,102,195) |
+
+```
+'#959632','#a8a74e','#bcb968','#cfcb83','#e3dd9e','#f6f0b9','#d6d2bd','#b4b5c0','#909ac2','#667fc3','#2166c3'
+
+```
+
+```
+d3.scale.threshold()
+    .range(['#959632','#a8a74e','#bcb968','#cfcb83','#e3dd9e','#f6f0b9','#d6d2bd','#b4b5c0','#909ac2','#667fc3','#2166c3']);
+```
+
+
+
+---
+
 ### Diverging Teal-Dirt
 
 | Ramp | Alias | Hex | RGB |
@@ -79,6 +108,7 @@ d3.scale.threshold()
 ```
 
 
----
+
+
 
 

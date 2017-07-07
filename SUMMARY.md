@@ -18,9 +18,9 @@
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
       * [Categorical](tipsheets/colors/categorical.md)
-      * [Sequential](tipsheets/colors/sequential.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
+      * [Sequential](tipsheets/colors/sequential.md)
     * [Dataviz](tipsheets/design-guides/dataviz.md)
       * Annotations
       * Axes

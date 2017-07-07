@@ -16,7 +16,12 @@ We'll use slack to help us manage the project up to publish. The nice thing abou
 
 ### Copy editing
 
-* [ ] For large projects, flag the copy desk early. Let them know the nature of the project and 
+* [ ] For large projects, flag the copy desk early. Let them know the nature of the project
+
+**NOTE:** There are two copy desks, with distinct styles
+1. `TP-copydesk@politico.com` for Core stories
+2. `TP-proweb@politico.com` for Pro stories
+
 
 
 

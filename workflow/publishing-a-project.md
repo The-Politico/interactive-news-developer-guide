@@ -24,7 +24,7 @@ Make sure you've done all these things on your project before you publish.
 
 ### Copy editing
 
-- [ ] Ensure that your project has been copy-edited.
+- [ ] Ensure that your project has been copy-edited by the correct desk. For PRO stories `tp-proweb@politico.com`. For Core stories `tp-copyedit@politico.com`.
 
 ### Meta tags
 
@@ -53,6 +53,9 @@ Make sure you've done all these things on your project before you publish.
 ##### Homepage
 
 `tp-webeditor@politico`
+
+**If you are working with the PRO team**, please be sure to flag the following items to tp-proweb@politico.com
+
 * [ ] Provide an embed code for embeddables or request a story shell for interactives.
 * [ ] Send the live URL address and time story will be available to promote.
 * [ ] Suggest homepage art, which can be a gif or a static image.
@@ -60,6 +63,8 @@ Make sure you've done all these things on your project before you publish.
     * [ ] If time allows, offer a thumbnail to be used at smaller display sizes - this thumbnail should also be cut to 1160 X 629 (Yes, it will look huge, but it will run small on the site). This option should be more graphical.
     ie: ![](/assets/new_share.jpg)
 * [ ] Remind them to send an alert for the story at publish time.
+
+
 
 
 ##### Social

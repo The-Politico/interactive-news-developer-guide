@@ -73,20 +73,22 @@ d3.scale.threshold()
 | $TealDirt-L2 | $MediumTeal | ![\#218C86](https://placehold.it/15/218C86/000000?text=+) `#218C86`|  rgb(33,140,134) |
 | $TealDirt-L3 | $Teal |![\#e6863e](https://placehold.it/15/26B1AA/000000?text=+) `#26B1AA` | rgb(38,177,170) |
 | $TealDirt-L4 | $RobinEgg |![\#8CD1CE](https://placehold.it/15/8CD1CE/000000?text=+) `#8CD1CE` | rgb(140,209,206) |
-| $TealDirt-L5 | $Limestone |![\#BCDEDD](https://placehold.it/15/BCDEDD/000000?text=+) `#BCDEDD` | rgb(188,222,221) |
-| $TealDirt-R5 | $Sandstone |![\#D2D3C4](https://placehold.it/15/D2D3C4/000000?text=+) `#D2D3C4` | rgb(210,211,196) |
+| $TealDirt-L5 | $Aqua |![\#BCDEDD](https://placehold.it/15/BCDEDD/000000?text=+) `#BCDEDD` | rgb(188,222,221) |
+| $TealDirt-R5 | $Limestone |![\#E9F0EC](https://placehold.it/15/E9F0EC/000000?text=+) `#E9F0EC` | rgb(233,240,236) |
+| $TealDirt-Middle | $Sandstone |![\#D2D3C4](https://placehold.it/15/D2D3C4/000000?text=+) `#D2D3C4` | rgb(210,211,196) |
 | $TealDirt-R4 | $Clay2 |![\#BBA88F](https://placehold.it/15/BBA88F/000000?text=+) `#BBA88F` | rgb(187,168,143) |
 | $TealDirt-R3 | $Clay |![\#9E7A4C](https://placehold.it/15/9E7A4C/000000?text=+) `#9E7A4C` | rgb(158,122,76) |
 | $TealDirt-R2 | $Coffee |![\#784C11](https://placehold.it/15/784C11/000000?text=+) `#784C11` | rgb(120,76,17) |
 | $TealDirt-R1 | $Dirt |![\#5D3B0F](https://placehold.it/15/5D3B0F/000000?text=+) `#5D3B0F` | rgb(93,59,15) |
 
 ```
-'#196B66','#218C86','#26B1AA','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE'
+'#196B66','#218C86','#26B1AA','#8CD1CE','#BCDEDD','#E9F0EC','#D2D3C4','#BBA88F','#9E7A4C','#784C11', '#5D3B0F'
 ```
 
 ```
 d3.scale.threshold()
-    .range(['#196B66','#218C86','#26B1AA','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE','#8CD1CE']);
+    .range(['#196B66','#218C86','#26B1AA','#8CD1CE','#BCDEDD','#E9F0EC','#D2D3C4','#BBA88F','#9E7A4C','#784C11', '#5D3B0F'
+]);
 ```
 
 

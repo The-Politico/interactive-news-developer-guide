@@ -1,6 +1,6 @@
-##### \*THESE CODES HAVE NOT BEEN ADDED TO THE BASE CSS YET\* 
+##### \*THESE CODES HAVE NOT BEEN ADDED TO THE BASE CSS YET\*
 
-### Diverging Goldenrod-Magenta 
+### Diverging
 
 Diverging schemes allow the emphasis of a quantitative data display to be progressions outward from a critical midpoint of the data range. Deviations above and below the median death rate from a disease, for example, are well represented by a diverging color scheme. - [ColorBrewer](http://www.personal.psu.edu/cab38/ColorSch/SchHTMLs/CBColorDiv.html)
 

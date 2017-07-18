@@ -1,7 +1,7 @@
 
 
 ### The weekly email
-- [ ] Each Monday Lily will send out a **What's coming** email to the `tp-webproducers@politico.com` 
+- [ ] Each Monday Lily will send out a **What's coming** email to the `tp-webeditors@politico.com` 
 
 ### Start a slack channel \(duh!\)
 

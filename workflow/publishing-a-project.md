@@ -10,8 +10,9 @@ An Interactive News editor signs off on all projects before they are published o
 
 An editor will conduct a dedicated UX and design review with you, but editing interactive components should be an iterative process. Show your work early and often to an editor and the final edit will go much more smoothly.
 
-[https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit\#\#\#\#\#\#](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit######) Code reviews
+[https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit\#\#\#\#\#\#](https://www.gitbook.com/book/politico/politico-newsroom-developer-guide/edit) 
 
+##### Code reviews
 Code reviews are required for medium and long-turn projects and for any project touching durable infrastructure like datalab. The format these will take is fluid based on the project.
 
 ---
@@ -56,25 +57,35 @@ Email **webeditor@politico** \[this includes webeditors, web producers and socia
 
 _**Story info section**_
 
-* Run date and Time
-* Headline
+* A request a story shell
+* Run date and time
+* Headline, please note if it is not finalized
 * Dek, if applicable
 * The live url
-* Preview link
-* A note outlining if an alert should be sent. Not sure? Ask the editor.
-* Homepage editors will select lede art for the HP display, but you may supply an option if you'd like to. The aspect ratio is: **1160 x 629**
-* If you are working on a graphic, please attached 1-2 options for when the story moves out of the lede spot and has not text overlain. 
-  * These should be cut to **1160x629**, even through they will run small. 
+* Preview link (ngrok)
+* Please outline *if* alert should be sent. Not sure? Ask the editor.
+* Homepage editors will select lede art for the HP display. The aspect ratio of the image is: **1160 x 629**
+* If you are working on a graphic, please attach 1-2 options for when the story moves out of the lede spot and into the *b section*.
+  * These should be cut to **1160x629**, but will run at a width of ~200px. 
     * Images should have minimal text 
     * They should clearly suggest to the reader that the story has graphical elements. Ie:
       ![](/assets/small.jpg)  or 
       ![](/assets/testings.jpg)
+      
+---
+
+#### Sample email
+
+* Hello, we have an interactive page coming for **Monday at 5am**. It will need a story shell, and an alert. 
+
+---
 
 _**Social Medial section**_
 
-* Attach images, gifs, videos that social media can use. 
-  * Usually the graphic option from above is a good option for sosh.
-* Want to make a gif of the experience you've built? Consider downloading [licecap](https://www.cockos.com/licecap/). 
+* Include a section tiled **For Sosh**. 
+    * Attach images, gifs, videos that social media can use. 
+    * Want to make a gif of the experience you've built? Consider downloading [licecap](https://www.cockos.com/licecap/). 
+
 
 #### For Embeds
 

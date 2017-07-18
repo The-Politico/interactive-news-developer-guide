@@ -7,7 +7,7 @@
   * [Meeting](workflow/meeting.md)
   * [Starting a project](workflow/starting-a-project.md)
   * [Keeping a budget](workflow/keeping-a-budget.md)
-  * [Pre-Publish](sequential.md)
+  * [Pre-Publish](workflow/pre-pub.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
 * [WHOIS](whois.md)

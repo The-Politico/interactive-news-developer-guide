@@ -90,7 +90,7 @@ If the graphic is something you'd like to be included in other stories, include 
 
 ### _Sample Interactive email to webteam@politico.com_
 
-* Hello web team,  we have an interactive page going live for promotion **Monday Jan, 1 at 5am**. It will need a story shell. 
+* Hello web team,  we have an interactive page going live for promotion on **Monday Jan, 1 at 5am**. It will need a story shell. 
 
 **Headline**: TK  
 **Dek**: TK  
@@ -110,11 +110,9 @@ Please see attached social media assets.
 **For Producers**  
 Please include this graphic as a parenthetical in related stories
 
-Please contact interactivenews@politico.com with any questions/concerns. Thanks,
+Please contact `interactivenews@politico.com` with any questions/concerns. Thanks,
 
 **YourName **
-
-
 
 ---
 
@@ -130,7 +128,7 @@ There are **two ways** to get an embed into a story. You **do not need** a story
 
   * Send it along with this note:
 
-    * "Please include this embed code with your note to the web team. Ask them to embed it as an `enhancement` into the story. You may specify where you'd like it to go, if you have a placement in mind 
+    * "Please include this embed code with your note to the web team. Ask them to embed it as an `enhancement` into the story. You may specify where you'd like it to go, if you have a placement in mind.
 
 ###### 
 

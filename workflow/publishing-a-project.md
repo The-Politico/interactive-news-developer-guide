@@ -64,6 +64,7 @@ _**Story info section**_
 * The live url
 * Preview link (ngrok)
 * Please outline *if* alert should be sent. Not sure? Ask the editor.
+  * Include alert text, if you have it
 * Homepage editors will select lede art for the HP display. The aspect ratio of the image is: **1160 x 629**
 * If you are working on a graphic, please attach 1-2 options for when the story moves out of the lede spot and into the *b section*.
   * These should be cut to **1160x629**, but will run at a width of ~200px. 
@@ -74,9 +75,22 @@ _**Story info section**_
       
 ---
 
-#### Sample email
+#### *Sample email*
 
-* Hello, we have an interactive page coming for **Monday at 5am**. It will need a story shell, and an alert. 
+* Hello webteam, we have an interactive page for for **DAY of the week, Date, Time **. It will need a story shell.
+
+**Headline**: TK
+**Dek**: TK
+**Live url will be:** TK.com
+**Preview the story here:**  http://ngrok.politico.com.io/
+  - **Login:** *put the login here*
+  - **Pass:** *put the pass here*
+**B section thumbnails:** Two options attached
+
+
+**For Sosh**
+Please see attached social media assets.
+
 
 ---
 

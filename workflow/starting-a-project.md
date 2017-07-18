@@ -2,9 +2,8 @@
 
 Good ideas can come from anywhere. Our workflow process has two simple goals:
 
- 1. Keep all creative avenues open to you.
- 2. Help you make time management decisions in the open.
-
+1. Keep all creative avenues open to you.
+2. Help you make time management decisions in the open.
 
 ### Sources
 
@@ -18,15 +17,14 @@ That starts with an honest accounting of the time commitment we're making to eve
 
 The following are basic categories we should be able to identify at the outset. They are reflected in the budget and have different guidelines during publishing.
 
-| Level  | Time commitment  |
-|---|---|
-| Daily   | On deadline  |
-| Short-turn  | 2-3 days  |
-| Medium-turn  | A week  |
-| Long-turn  | Multiple weeks  |
+| Level | Time commitment |
+| --- | --- |
+| Daily | On deadline |
+| Short-turn | 2-3 days |
+| Medium-turn | A week |
+| Long-turn | Multiple weeks |
 
 Each sequential level of this scale requires more process transparency than the last. More on that as we go.
-
 
 ### Pre-flight approval
 
@@ -36,8 +34,20 @@ We trust you to identify smart **dailies** and **short-turn** projects. With tha
 
 **Long-turn** projects require sign-off from Lily, Jon and Paul. Often, you will be asked to write up the goals of these projects and a prospective timeline so we can can track progress.
 
-
-
 ### Build system
 
 For interactive pages or embeddables, use the latest version of our [interactives generator app](https://github.com/The-Politico/generator-politico-interactives). It is designed to be flexible enough for you to use whatever libraries you need while strictly enforcing the business rules we must have for publishing content.
+
+
+
+### For larger apps, please contact c**omms, business analytics, advertising**
+
+`tp-projects@politico.com`
+
+* [ ] Send a working headline and short summary of the project 
+* [ ] On bigger projects, check if a special ad map has been created for the project. Your first line of contact for ads is Walt Houseknecht [WHouseknecht@politico.com](mailto:WHouseknecht@politico.com).
+
+#### 
+
+
+

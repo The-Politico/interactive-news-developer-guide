@@ -39,5 +39,6 @@
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)
     * [Ask a web producer](tipsheets/cms-embeds/ask-a-web-producer.md)
     * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
+    * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
 * [CHANGELOG](CHANGELOG.md)
 

@@ -39,7 +39,7 @@ Make sure you've done all these things on your project before you publish.
 
 ## Github
 
-* [ ] Create a private repo for your project and push your latest code \(which you should do daily, tbh\).
+* [ ] # Create a private repo for your project and push your latest code \(which you should do daily, tbh\).
 * [ ] Prefix interactive and embed repo names with `interactive_` or `embed_`, respectively.
 * [ ] Talk with your editor about whether we will make this repo public after publishing.
 * [ ] If you're working on an existing project, push your code to a branch which will be merged into master after a code review with your editor.
@@ -52,11 +52,11 @@ Make sure you've done all these things on your project before you publish.
 
 All of our stories will move through the homepage. We want them to look their best. Here's how:
 
-#### For Interactives
+### For Interactives
 
-Email **`webteam@politico`** \[this includes webeditors, web producers and social\], include the following
+Email `webteam@politico` \[this includes webeditors, web producers and social\], include the following
 
-If you're working with the pro team, cc them on this email at **`tp-proweb@politico.com`**
+If you're working with the pro team, cc them on this email at `tp-proweb@politico.com`
 
 _**Story info section**_
 
@@ -114,15 +114,19 @@ Please contact interactivenews@politico.com with any questions/concerns. Thanks,
 
 **YourName **
 
+
+
 ---
 
-#### For Embeds
+### 
+
+### For Embeds
 
 There are **two ways** to get an embed into a story. You **do not need** a story shell for these.
 
 ###### **In most cases:**
 
-* Send your `iframe` embed code to the reporter and have them include it with their email to the web team. 
+* Send your `iframe` embed code to the reporter and have them include it with their email to the web team.
 
   * Send it along with this note:
 
@@ -165,8 +169,6 @@ Please contact interactivenews@politico.com with any questions/concerns. Thanks,
 ---
 
 ### 
-
-
 
 
 

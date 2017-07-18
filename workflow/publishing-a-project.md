@@ -85,6 +85,7 @@ _**Story info section**_
 **Preview the story here:**  http://ngrok.politico.com.io/
   - **Login:** *put the login here*
   - **Pass:** *put the pass here*
+  
 **B section thumbnails:** Two options attached
 
 

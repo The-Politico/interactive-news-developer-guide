@@ -5,7 +5,7 @@
 | Name | Hex | RGB |
 | --- | --- | --- |
 | $Dem or $Dem1 | ![\#2B6ABD](https://placehold.it/15/2B6ABD/000000?text=+) `#2B6ABD` | rgb\(43,106,189\) |
-| $GOP or $GOP1 | ![\#E53516](https://placehold.it/15/E53516/000000?text=+) `#E53516` | rgb\(229,53,22\) |
+| $GOP or $GOP1 | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb\(253,86,57\) |
 | $Teal or $Teal1 | ![\#6BD1BB](https://placehold.it/15/6BD1BB/000000?text=+) `#6BD1BB` | rgb\(107,209,187\) |
 | $OtherGray or $OtherGray1 | ![\#2f3b38](https://placehold.it/15/2f3b38/000000?text=+) `#2f3b38` | rgb\(47,59,56\) |
 | $NA | ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |

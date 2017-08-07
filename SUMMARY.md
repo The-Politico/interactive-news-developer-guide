@@ -20,7 +20,7 @@
   * [Design guides](tipsheets/design-guides.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
-      * [Categorical](tipsheets/colors/categorical.md)
+      * [Qualitative / Categorical](tipsheets/colors/categorical.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
       * [Sequential](tipsheets/colors/sequential.md)

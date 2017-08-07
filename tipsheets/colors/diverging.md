@@ -1,4 +1,4 @@
-##### [Categorical](/tipsheets/colors/categorical.md)\*THESE CODES HAVE NOT BEEN ADDED TO THE BASE CSS YET\*
+##### [Categorical](/tipsheets/colors/categorical.md)
 
 ### Diverging
 

@@ -8,16 +8,16 @@
 
 | Ramp | Alias | Hex | RGB |
 | --- | --- | --- | --- |
-| SangriaPeach-L1 | $Sangria | ![\#7A0001](https://placehold.it/15/7A0001/000000?text=+) `#7A0001` | rgb\(122,0,1\) |
-| SangriaPeach-L2 | $Tabasco | ![\#9B0001](https://placehold.it/15/af2311/000000?text=+) `#9B0001` | rgb\(155,0,1\) |
-| SangriaPeach-L3 | $Poppy | ![\#B72715](https://placehold.it/15/B72715/000000?text=+) `#B72715` | rgb\(183,39,21\) |
-| SangriaPeach-L4 | $Rust | ![\#D24327](https://placehold.it/15/D24327/000000?text=+) `#D24327` | rgb\(210,67,39\) |
-| SangriaPeach-L5 | $Sockeye | ![\#EF5D3A](https://placehold.it/15/EF5D3A/000000?text=+) `#EF5D3A` | rgb\(239,93,58\) |
+| $SangriaPeach-L1 | $Sangria | ![\#7A0001](https://placehold.it/15/7A0001/000000?text=+) `#7A0001` | rgb\(122,0,1\) |
+| $SangriaPeach-L2 | $Tabasco | ![\#9B0001](https://placehold.it/15/af2311/000000?text=+) `#9B0001` | rgb\(155,0,1\) |
+| $SangriaPeach-L3 | $Poppy | ![\#B72715](https://placehold.it/15/B72715/000000?text=+) `#B72715` | rgb\(183,39,21\) |
+| $SangriaPeach-L4 | $Rust | ![\#D24327](https://placehold.it/15/D24327/000000?text=+) `#D24327` | rgb\(210,67,39\) |
+| $SangriaPeach-L5 | $Sockeye | ![\#EF5D3A](https://placehold.it/15/EF5D3A/000000?text=+) `#EF5D3A` | rgb\(239,93,58\) |
 | SangriaPeach-R5 | $Coral | ![\#FF7D57](https://placehold.it/15/FF7D57/000000?text=+) `#FF7D57` | rgb\(255,125,87\) |
-| SangriaPeach-R4 | $DustySalmon | ![\#FFA182](https://placehold.it/15/FFA182/000000?text=+) `#FFA182` | rgb\(255,161,130\) |
-| SangriaPeach-R3 | $DustyPink | ![\#FFC3AC](https://placehold.it/15/FFC3AC/000000?text=+) `#FFC3AC` | rgb\(255,195,172\) |
-| SangriaPeach-R2 | $SpringPeach | ![\#FFE5D8](https://placehold.it/15/FFE5D8/000000?text=+) `#FFE5D8` | rgb\(255,229,216\) |
-| SangriaPeach-R1 | $Peach | ![\#FEF5F0](https://placehold.it/15/FEF5F0/000000?text=+) `#FEF5F0` | rgb\(254,245,240\) |
+| $SangriaPeach-R4 | $DustySalmon | ![\#FFA182](https://placehold.it/15/FFA182/000000?text=+) `#FFA182` | rgb\(255,161,130\) |
+| $SangriaPeach-R3 | $DustyPink | ![\#FFC3AC](https://placehold.it/15/FFC3AC/000000?text=+) `#FFC3AC` | rgb\(255,195,172\) |
+| $SangriaPeach-R2 | $SpringPeach | ![\#FFE5D8](https://placehold.it/15/FFE5D8/000000?text=+) `#FFE5D8` | rgb\(255,229,216\) |
+| $SangriaPeach-R1 | $Peach | ![\#FEF5F0](https://placehold.it/15/FEF5F0/000000?text=+) `#FEF5F0` | rgb\(254,245,240\) |
 
 ```
 '#7A0001','#9B0001','#B72715','#D24327','#EF5D3A','#FF7D57','#FFA182','#FFC3AC','#FFC3AC','#FFE5D8', '#FEF5F0'
@@ -63,7 +63,7 @@ d3.scale.threshold()    .range(['#46825a','#578e69','#699c79','#79a887','#8bb597
 | $YellowRed-L3 | $OrangeGold | ![\#fec166](https://placehold.it/15/fec166/000000?text=+) `#fec166` | rgb\(254,193,102\) |
 | $YellowRed-L4 | $Orange3 | ![\#fcaf5a](https://placehold.it/15/fcaf5a/000000?text=+) `#fcaf5a` | rgb\(252,175,90\) |
 | $YellowRed-L5 | $Orange2 | ![\#f99e4e](https://placehold.it/15/f99e4e/000000?text=+) `#f99e4e` | rgb\(249,158,78\) |
-| $YellowRed-R5 | $Orange | ![\#f68c43](https://placehold.it/15/f68c43/000000?text=+) `#f68c43` | rgb\(246,140,67\)\) |
+| $YellowRed-R5 | $Orange | ![\#f68c43](https://placehold.it/15/f68c43/000000?text=+) `#f68c43` | rgb\(246,140,67\) |
 | $YellowRed-R4 | $Apricot3 | ![\#f37937](https://placehold.it/15/f37937/000000?text=+) `#f37937` | rgb\(243,121,55\) |
 | $YellowRed-R3 | $Apricot2 | ![\#EF662C](https://placehold.it/15/EF662C/000000?text=+) `#EF662C` | rgb\(239,102,44\) |
 | $YellowRed-R2 | $Apricot | ![\#ea5021](https://placehold.it/15/ea5021/000000?text=+) `#ea5021` | rgb\(234,80,33\) |
@@ -80,7 +80,10 @@ d3.scale.threshold()
 
 ---
 
-| Dem Ramp | Alias | Hex | RGB |
+### Sequential Gold-Magenta
+
+
+| Ramp | Alias | Hex | RGB |
 | --- | --- | --- | --- |
 | $GoldMagenta-L1 | $Goldenrod3 | ![\#ffa602](https://placehold.it/15/ffa602/000000?text=+) `#ffa602` | rgb\(255,166,2\) |
 | $GoldMagenta-L2 | $Sunflower | ![\#f3962c](https://placehold.it/15/f3962c/000000?text=+) `#f3962c` | rgb\(243,150,44\) |

@@ -18,7 +18,6 @@ All images should be wrapped in a figure. All photos should run with a credit. I
 ```
 
 
-
 ### Full span image at all breakpoints
 
 ```html

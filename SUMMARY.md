@@ -15,6 +15,7 @@
   * [Handy CSS tricks](tipsheets/handy-css-tricks.md)
     * [Photo Groups](tipsheets/handy-css-tricks/photo-groups.md)
     * [Aligning text and content wells](tipsheets/handy-css-tricks/text-alignment.md)
+    * [Main site style refer to other related stories](tipsheets/main-site-style-refer-to-other-related-stories.md)
     * [Text styles](tipsheets/handy-css-tricks/text-styles.md)
     * [Sections](tipsheets/handy-css-tricks/sections.md)
   * [Design guides](tipsheets/design-guides.md)

@@ -24,7 +24,7 @@ Make sure you've done all these things on your project before you publish.
 
 ### Copy editing
 
-* [ ] Ensure that your project has been copy-edited by the correct desk. For Core stories `tp-copyedit@politico.com`. For **PRO stories** `tp-proweb@politico.com`. 
+* [ ] Ensure that your project has been copy-edited by the correct desk. For Core stories `tp-copydesk@politico.com`. For **PRO stories** `tp-proweb@politico.com`. 
 
 ### Meta tags
 

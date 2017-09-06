@@ -26,7 +26,7 @@
 | $GOPDem3 | ![\#ffaf98](https://placehold.it/15/ffaf98/000000?text=+) `#ffaf98` | rgb(255,175,152) |
 | $GOPDem2 | ![\#ff8568](https://placehold.it/15/ff8568/000000?text=+) `#ff8568` | rgb(255,133,104) |
 | $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
-| $NA (alt for white)| ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
+| $NA _ - an alt for the gray -_| ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
 
 
 ```html

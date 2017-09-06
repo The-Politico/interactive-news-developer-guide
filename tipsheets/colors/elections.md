@@ -13,11 +13,11 @@
 
 ---
 
-### GOP-DEM Ramp
+### GOP-DEM Ramp Null
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $Dem1 | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
+| $Dem | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
 | $DemGOP2 | ![\#6f8cce](https://placehold.it/15/6f8cce/000000?text=+) `#6f8cce` | rgb(111,140,206) |
 | $DemGOP3 | ![\#a1b1df](https://placehold.it/15/a1b1df/000000?text=+) `#a1b1df` | rgb(161,177,223) |
 | $DemGOP4 | ![\#d1d7ef](https://placehold.it/15/d1d7ef/000000?text=+) `#d1d7ef` | rgb(209,215,239) |
@@ -26,7 +26,13 @@
 | $GOPDem3 | ![\#ffaf98](https://placehold.it/15/ffaf98/000000?text=+) `#ffaf98` | rgb(255,175,152) |
 | $GOPDem2 | ![\#ff8568](https://placehold.it/15/ff8568/000000?text=+) `#ff8568` | rgb(255,133,104) |
 | $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
 | $NA _ - an alt for the gray -_| ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
+
+
+
 
 
 ```html
@@ -36,6 +42,33 @@
 ```html
 d3.scale.threshold()
 .range(['#2b6abd','#6f8cce','#a1b1df','#d1d7ef','#ffffff','#ffd7cb','#ffaf98','#ff8568','#fd5639']);
+```
+
+---
+
+### GOP-DEM Ramp Mixed
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
+| $Dem | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
+| $DemGOP2_mixed | ![\#6a69ab](https://placehold.it/15/6a69ab/000000?text=+) `#6a69ab` | rgb(106,105,171) |
+| $DemGOP3_mixed | ![\#8e6798](https://placehold.it/15/8e6798/000000?text=+) `#8e6798` | rgb(142,103,152) |
+| $DemGOP4_mixed | ![\#a96586](https://placehold.it/15/a96586/000000?text=+) `#a96586` | rgb(169,101,134) |
+| $GOPDem4_mixed | ![\#c26273](https://placehold.it/15/c26273/000000?text=+) `#c26273` | rgb(194,98,115) |
+| $GOPDem3_mixed | ![\#d75f61](https://placehold.it/15/d75f61/000000?text=+) `#d75f61` | rgb(215,95,97) |
+| $GOPDem2_mixed | ![\#ea5b4d](https://placehold.it/15/ea5b4d/000000?text=+) `#ea5b4d` | rgb(234,91,77) |
+| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
+
+
+
+```html
+'#2b6abd','#6a69ab','#8e6798','#a96586','#c26273','#d75f61','#ea5b4d','#fd5639'
+
+```
+
+```html
+d3.scale.threshold()
+.range(['#2b6abd','#6a69ab','#8e6798','#a96586','#c26273','#d75f61','#ea5b4d','#fd5639']);
 ```
 
 ---

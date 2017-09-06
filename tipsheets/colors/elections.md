@@ -9,7 +9,7 @@
 | $Teal or $Teal1 | ![\#6BD1BB](https://placehold.it/15/6BD1BB/000000?text=+) `#6BD1BB` | rgb\(107,209,187\) |
 | $OtherGray or $OtherGray1 | ![\#2f3b38](https://placehold.it/15/2f3b38/000000?text=+) `#2f3b38` | rgb\(47,59,56\) |
 | $NA | ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
-| $GrayNA _ - for use with dark theme_ | ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb\(255,255,255\) |
+| $White _ - for use with dark theme_ | ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb\(255,255,255\) |
 
 ---
 

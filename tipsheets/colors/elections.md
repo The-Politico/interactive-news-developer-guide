@@ -13,6 +13,31 @@
 
 ---
 
+### GOP-DEM Ramp
+
+| Dem Ramp | Hex | RGB |
+| --- | --- | --- |
+| $Dem1 | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
+| $DemGOP2 | ![\#6f8cce](https://placehold.it/15/6f8cce/000000?text=+) `#6f8cce` | rgb(111,140,206) |
+| $DemGOP3 | ![\#a1b1df](https://placehold.it/15/a1b1df/000000?text=+) `#a1b1df` | rgb(161,177,223) |
+| $DemGOP4 | ![\#d1d7ef](https://placehold.it/15/d1d7ef/000000?text=+) `#d1d7ef` | rgb(209,215,239) |
+| $White | ![\#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255) |
+| $GOPDem4 | ![\#ffd7cb](https://placehold.it/15/ffd7cb/000000?text=+) `#ffd7cb` | rgb(255,215,203) |
+| $GOPDem3 | ![\#ffaf98](https://placehold.it/15/ffaf98/000000?text=+) `#ffaf98` | rgb(255,175,152) |
+| $GOPDem2 | ![\#ff8568](https://placehold.it/15/ff8568/000000?text=+) `#ff8568` | rgb(255,133,104) |
+| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
+
+```html
+'#2b6abd','#6f8cce','#a1b1df','#d1d7ef','#ffffff','#ffd7cb','#ffaf98','#ff8568','#fd5639'
+```
+
+```html
+d3.scale.threshold()
+.range(['#2b6abd','#6f8cce','#a1b1df','#d1d7ef','#ffffff','#ffd7cb','#ffaf98','#ff8568','#fd5639']);
+```
+
+---
+
 ### Demp Ramp
 
 | Dem Ramp | Hex | RGB |

@@ -12,7 +12,22 @@ Most of the qualitative schemes rely on differences in hue with only subtle ligh
 
 ### Qualitative
 
-**7 color scheme** - you may use any # of these colors for your qualitative map
+**7 color Qualitative scheme** - you may use any # of these colors for bar and line charts
+
+
+| Color  | Hex | RGB |
+| --- | --- | --- | --- |
+| $Qualitative7-Teal | ![\#0D3C73](https://placehold.it/15/0D3C73/000000?text=+) `#0D3C73` | rgb(13,60,115) |
+| $Qualitative7-DarkBlue | ![\#329CAC](https://placehold.it/15/329CAC/000000?text=+) `#329CAC` | rgb(50,156,172) |
+| $QualitativeBar-Aqua | ![\#47BEF8](https://placehold.it/15/47BEF8/000000?text=+) `#47BEF8` | rgb(50,156,172) |
+| $QualitativeBar-Orange | ![\#F95100](https://placehold.it/15/F95100/000000?text=+) `#F95100` | rgb(249,81,0) |
+| $QualitativeBar-Gold | ![\#F7A12D](https://placehold.it/15/F7A12D/000000?text=+) `#F7A12D` | rgb(247,161,45) |
+| $QualitativeBar-Dirt | ![\#AB9F8F](https://placehold.it/15/AB9F8F/000000?text=+) `#AB9F8F` | rgb(171,159,143) |
+
+
+---
+
+**7 color map scheme** - you may use any # of these colors for your qualitative map
 
 | Color  | Hex | RGB |
 | --- | --- | --- | --- |
@@ -23,21 +38,6 @@ Most of the qualitative schemes rely on differences in hue with only subtle ligh
 | $Qualitative7-Camel |  ![\#DFA486](https://placehold.it/15/DFA486/000000?text=+) `#DFA486` | rgb(223,164,134)|
 | $Qualitative7-Red | ![\#BD3232](https://placehold.it/15/BD3232/000000?text=+) `#BD3232` | rgb(189,50,50)|
 | $Qualitative7-Yellow |  ![\#EBEB35](https://placehold.it/15/EBEB35/000000?text=+) `#EBEB35` | rgb(235,235,53)|
-
----
-
-
-
-**Alt 5 color scheme** - you may use any # of these colors for your qualitative map
-
-
-| Color | Hex | RGB |
-| --- | --- | --- | --- |
-| $Qualitative5-Gray | ![\#3D284D](https://placehold.it/15/3D284D/000000?text=+) `#3D284D` | rgb(61,40,77) |
-| $Qualitative5-Green |  ![\#538288](https://placehold.it/15/538288/000000?text=+) `#538288` | rgb(83,130,136) |
-| $Qualitative5-Red | ![\#E88471](https://placehold.it/15/E88471/000000?text=+) `#E88471` | rgb(107,174,128) |
-| $Qualitative5-Orange |  ![\#EEB479](https://placehold.it/15/EEB479/000000?text=+) `#EFB474` | rgb(238,180,121)|
-| $Qualitative5-Yellow |  ![\#EFE571](https://placehold.it/15/EFE571/000000?text=+) `#EFE571` | rgb(238,228,121))|
 
 ---
 

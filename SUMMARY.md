@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Policies](policies.md)
-* [Infrastructure](infrastructure.md)
+* [For web producers](for-web-producers.md)
+  * [Contacts / Errors on the site](for-web-producers/contacts.md)
 * [Workflow](workflow.md)
   * [Meeting](workflow/meeting.md)
   * [Starting a project](workflow/starting-a-project.md)
@@ -10,6 +10,8 @@
   * [Pre-Publish](workflow/pre-pub.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
+* [Policies](policies.md)
+* [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)
 * [Tipsheets](tipsheets.md)
   * [Handy CSS tricks](tipsheets/handy-css-tricks.md)

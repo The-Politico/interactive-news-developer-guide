@@ -13,8 +13,7 @@ It is hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-de
 * [**Infrastructure**](/infrastructure.md) - Where we build
 * [**WHOIS**](whois.md) - Critical contacts for working in the newsroom
 * [**Tipsheets**](/tipsheets.md) - Useful things
-
-
+* [**For Web Producers**](/for-web-producers/contacts.md) - What to do in case of an error in an interactive
 
 ### Version
 
@@ -23,3 +22,4 @@ It is hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-de
 ### Developing these docs
 
 Make what changes you want, update the version number and the [CHANGELOG](/changelog.md).
+

@@ -79,7 +79,11 @@ d3.scale.threshold()
 
 ---
 
-### Sequential Gold-Magenta
+### Sequential Gold-Magenta 
+
+'#810082','#963384','#a95385','#bc6f85','#ce8d85','#dea984','#efc582','#ffe37e'
+
+fix this lily
 
 
 | Ramp | Alias | Hex | RGB |
@@ -92,8 +96,7 @@ d3.scale.threshold()
 | $GoldMagenta-R5 | $LightMagenta | ![\#bf5561](https://placehold.it/15/bf5561/000000?text=+) `#bf5561` | rgb\(191,85,97\) |
 | $GoldMagenta-R4 | $BurntMagenta | ![\#b1446a](https://placehold.it/15/b1446a/000000?text=+) `#b1446a` | rgb\(177,68,106\) |
 | $GoldMagenta-R3 | $Magenta3 | ![\#A23472](https://placehold.it/15/A23472/000000?text=+) `#A23472` | rgb\(162,52,114\) |
-| $GoldMagenta-R2 | $Magenta2 | ![\#92207a](https://placehold.it/15/92207a/000000?text=+) `#92207a` | rgb\(162,52,114\) |
-| $GoldMagenta-R1 | $Magenta | ![\#810082](https://placehold.it/15/810082/000000?text=+) `#810082` | rgb\(146,32,122\) |
+
 
 ```html
 '#ffa602','#f3962c','#e6863e','#d9764c','#cc6657','#bf5561','#b1446a','#a23472','#92207a','#810082'

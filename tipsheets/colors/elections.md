@@ -98,23 +98,27 @@ function palette(min, max) {
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $GOP1 | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb\(253,86,57\) |
-| $GOP2 | ![\#ff6f50](https://placehold.it/15/ff6f50/000000?text=+) `#ff6f50` | rgb\(255,111,80\) |
-| $GOP3 | ![\#ff8567](https://placehold.it/15/ff8567/000000?text=+) `#ff8567` | rgb\(255,133,103\) |
-| $GOP4 | ![\#ff997e](https://placehold.it/15/ff997e/000000?text=+) `#ff997e` | rgb\(255,153,126\) |
-| $GOP5 | ![\#ffab94](https://placehold.it/15/ffab94/000000?text=+) `#ffab94` | rgb\(255,171,148\) |
-| $GOP6 | ![\#ffbca9](https://placehold.it/15/ffbca9/000000?text=+) `#ffbca9` | rgb\(255,188,169\) |
-| $GOP7 | ![\#ffcebf](https://placehold.it/15/ffcebf/000000?text=+) `#ffcebf` | rgb\(255,206,191\) |
-| $GOP8 | ![\#ffded4](https://placehold.it/15/ffded4/000000?text=+) `#ffded4` | rgb\(255,222,212\) |
-| $GOP9 | ![\#ffefe9](https://placehold.it/15/ffefe9/000000?text=+) `#ffefe9` | rgb\(255,239,233\) |
+| $GOP2 | ![\#ff7152](https://placehold.it/15/ff7152/000000?text=+) `#ff7152` | rgb(255,113,82) |
+| $GOP3 | ![\#ff886c](https://placehold.it/15/ff886c/000000?text=+) `#ff886c` | rgb(255,136,108) |
+| $GOP4 | ![\#ff9e85](https://placehold.it/15/ff9e85/000000?text=+) `#ff9e85` | rgb(255,158,133) |
+| $GOP5 | ![\#ffb29d](https://placehold.it/15/ffb29d/000000?text=+) `#ffb29d` | rgb(255,178,157) |
+| $GOP6 | ![\#ffc6b5](https://placehold.it/15/ffc6b5/000000?text=+) `#ffc6b5` | rgb(255,198,181) |
+| $GOP7 | ![\#ffd8cc](https://placehold.it/15/ffd8cc/000000?text=+) `#ffd8cc` | rgb(255,216,204) |
+| $GOP8 | ![\#ffeae4](https://placehold.it/15/ffeae4/000000?text=+) `#ffeae4` | rgb(255,234,228) |
 | $NA | ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb\(230,230,230\) |
 
 ```html
-'#fd5639','#ff6f50','#ff8567','#ff997e','#ffab94','#ffbca9','#ffcebf','#ffded4','#ffefe9','#ffffff'
+'#fd5639','#ff7152','#ff886c','#ff9e85','#ffb29d','#ffc6b5','#ffd8cc','#ffeae4'
+
 ```
 
 ```html
-d3.scale.threshold()
-.range(['#fd5639','#ff6f50','#ff8567','#ff997e','#ffab94','#ffbca9','#ffcebf','#ffded4','#ffefe9','#ffffff']);
+function palette(min, max) {
+    var d = (max-min)/8;
+    return d3.scale.threshold()
+        .range(['#fd5639','#ff7152','#ff886c','#ff9e85','#ffb29d','#ffc6b5','#ffd8cc','#ffeae4'])
+        .domain([min+1*d,min+2*d,min+3*d,min+4*d,min+5*d,min+6*d,min+7*d,min+8*d]);
+}
 ```
 
 ---
@@ -124,23 +128,23 @@ d3.scale.threshold()
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Teal | ![](https://placehold.it/15/6bd1bb/000000?text=+) `#6bd1bb` | rgb\(107,209,187\) |
-| $Teal2 | ![](https://placehold.it/15/7fd6c3/000000?text=+) `#7fd6c3` | rgb\(127,214,195\)\) |
-| $Teal3 | ![](https://placehold.it/15/90dcca/000000?text=+) `#90dcca` | rgb\(144,220,202\) |
-| $Teal4 | ![](https://placehold.it/15/a1e1d1/000000?text=+) `#a1e1d1` | rgb\(161,225,209\) |
-| $Teal5 | ![](https://placehold.it/15/b2e6d9/000000?text=+) `#b2e6d9` | rgb\(178,230,217\) |
-| $Teal6 | ![](https://placehold.it/15/c2ebe0/000000?text=+) `#c2ebe0` | rgb\(194,235,224\) |
-| $Teal7 | ![](https://placehold.it/15/d1f0e8/000000?text=+) `#d1f0e8` | rgb\(209,240,232\) |
-| $Teal8 | ![](https://placehold.it/15/e1f5f0/000000?text=+) `#e1f5f0` | rgb\(225,245,240\) |
-| $Teal9 | ![](https://placehold.it/15/f0faf8/000000?text=+) `#f0faf8` | rgb\(240,250,248\) |
+| $Teal2 | ![](https://placehold.it/15/81d7c4/000000?text=+) `#81d7c4` | rgb(129,215,196) |
+| $Teal3 | ![](https://placehold.it/15/96ddcc/000000?text=+) `#96ddcc` | rgb(150,221,204) |
+| $Teal4 | ![](https://placehold.it/15/a9e3d5/000000?text=+) `#a9e3d5` | rgb(169,227,213) |
+| $Teal5 | ![](https://placehold.it/15/bae9dd/000000?text=+) `#bae9dd` | rgb(186,233,221) |
+| $Teal6 | ![](https://placehold.it/15/ccefe6/000000?text=+) `#ccefe6` | rgb(204,239,230) |
+| $Teal7 | ![](https://placehold.it/15/dff4ef/000000?text=+) `#dff4ef` | rgb(223,244,239) |
+| $Teal8 | ![](https://placehold.it/15/f0faf8/000000?text=+) `#f0faf8` | rgb(240,250,248) |
 | $NA | ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb\(230,230,230\) |
 
 ```html
-'#6bd1bb','#7fd6c3','#90dcca','#a1e1d1','#b2e6d9','#c2ebe0','#d1f0e8','#e1f5f0','#f0faf8','#ffffff'
+'#6bd1bb','#81d7c4','#96ddcc','#a9e3d5','#bae9dd','#ccefe6','#dff4ef','#f0faf8'
+
 ```
 
 ```html
 d3.scale.threshold()
-.range(['#6bd1bb','#7fd6c3','#90dcca','#a1e1d1','#b2e6d9','#c2ebe0','#d1f0e8','#e1f5f0','#f0faf8','#ffffff']);
+    .range(['#6bd1bb','#81d7c4','#96ddcc','#a9e3d5','#bae9dd','#ccefe6','#dff4ef','#f0faf8']);
 ```
 
 ---
@@ -152,23 +156,24 @@ This gray is a nice option for bar charts, when the strong Dem and GOP colors ca
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $OtherGray | ![](https://placehold.it/15/2f3b38/000000?text=+) `#2f3b38` | rgb\rgb\(47,59,56\) |
-| $OtherGray2 | ![](https://placehold.it/15/434f4c/000000?text=+) `#434f4c` | rgb\rgb\(67,79,76\) |
-| $OtherGray3 | ![](https://placehold.it/15/596360/000000?text=+) `#596360` | rgb\rgb\(89,99,96\) |
-| $OtherGray4 | ![](https://placehold.it/15/6e7674/000000?text=+) `#6e7674` | rgb\(110,118,116\) |
-| $OtherGray5 | ![](https://placehold.it/15/858c8a/000000?text=+) `#858c8a` | rgb\(133,140,138\) |
-| $OtherGray6 | ![](https://placehold.it/15/9ca2a0/000000?text=+) `#9ca2a0` | rgb\(156,162,160\) |
-| $OtherGray7 | ![](https://placehold.it/15/b4b8b7/000000?text=+) `#b4b8b7` | rgb\(180,184,183\) |
-| $OtherGray8 | ![](https://placehold.it/15/cccfcf/000000?text=+) `#cccfcf` | rgb\(204,207,207\) |
-| $OtherGray9 | ![](https://placehold.it/15/e5e7e7/000000?text=+) `#e5e7e7` | rgb\(229,231,231\) |
+| $OtherGray2 | ![](https://placehold.it/15/46514e/000000?text=+) `#46514e` | rgb(70,81,78) |
+| $OtherGray3 | ![](https://placehold.it/15/5e6865/000000?text=+) `#5e6865` | rgb(94,104,101) |
+| $OtherGray4 | ![](https://placehold.it/15/77807d/000000?text=+) `#77807d` | rgb(119,128,125) |
+| $OtherGray5 | ![](https://placehold.it/15/929997/000000?text=+) `#929997` | rgb(146,153,151) |
+| $OtherGray6 | ![](https://placehold.it/15/adb2b1/000000?text=+) `#adb2b1` | rgb(173,178,177) |
+| $OtherGray7 | ![](https://placehold.it/15/c9cccc/000000?text=+) `#c9cccc` | rgb(201,204,204) |
+| $OtherGray8 | ![](https://placehold.it/15/e5e7e7/000000?text=+) `#e5e7e7` | rgb(229,231,231) |
 | $WhiteNA | ![\#fff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb\(255,255,255\) |
 
 ```html
-'#2f3b38','#434f4c','#596360','#6e7674','#858c8a','#9ca2a0','#b4b8b7','#cccfcf','#e5e7e7','#ffffff'
+'#2f3b38','#46514e','#5e6865','#77807d','#929997','#adb2b1','#c9cccc','#e5e7e7'
+
 ```
 
 ```html
 d3.scale.threshold()
-    .range(['#2f3b38','#434f4c','#596360','#6e7674','#858c8a','#9ca2a0','#b4b8b7','#cccfcf','#e5e7e7','#ffffff']);
+    .range(['#2f3b38','#46514e','#5e6865','#77807d','#929997','#adb2b1','#c9cccc','#e5e7e7']);
+
 ```
 
 ---

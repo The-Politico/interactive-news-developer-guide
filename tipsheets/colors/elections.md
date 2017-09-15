@@ -1,4 +1,4 @@
-##### \*THESE CODES HAVE NOT BEEN ADDED TO THE BASE CSS YET\* 
+##### \*THESE CODES HAVE NOT BEEN ADDED TO THE BASE CSS YET\*
 
 ##### Election
 
@@ -18,22 +18,18 @@
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Dem | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
-| $DemGOP2 | ![\#6f8cce](https://placehold.it/15/6f8cce/000000?text=+) `#6f8cce` | rgb(111,140,206) |
-| $DemGOP3 | ![\#a1b1df](https://placehold.it/15/a1b1df/000000?text=+) `#a1b1df` | rgb(161,177,223) |
-| $DemGOP4 | ![\#d1d7ef](https://placehold.it/15/d1d7ef/000000?text=+) `#d1d7ef` | rgb(209,215,239) |
-| $White | ![\#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb(255,255,255) |
-| $GOPDem4 | ![\#ffd7cb](https://placehold.it/15/ffd7cb/000000?text=+) `#ffd7cb` | rgb(255,215,203) |
-| $GOPDem3 | ![\#ffaf98](https://placehold.it/15/ffaf98/000000?text=+) `#ffaf98` | rgb(255,175,152) |
-| $GOPDem2 | ![\#ff8568](https://placehold.it/15/ff8568/000000?text=+) `#ff8568` | rgb(255,133,104) |
-| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
+| $DemGOP2 | ![\#6f8cce](https://placehold.it/15/6f8cce/000000?text=+) `#6f8cce` | rgb\(111,140,206\) |
+| $DemGOP3 | ![\#a1b1df](https://placehold.it/15/a1b1df/000000?text=+) `#a1b1df` | rgb\(161,177,223\) |
+| $DemGOP4 | ![\#d1d7ef](https://placehold.it/15/d1d7ef/000000?text=+) `#d1d7ef` | rgb\(209,215,239\) |
+| $White | ![\#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` | rgb\(255,255,255\) |
+| $GOPDem4 | ![\#ffd7cb](https://placehold.it/15/ffd7cb/000000?text=+) `#ffd7cb` | rgb\(255,215,203\) |
+| $GOPDem3 | ![\#ffaf98](https://placehold.it/15/ffaf98/000000?text=+) `#ffaf98` | rgb\(255,175,152\) |
+| $GOPDem2 | ![\#ff8568](https://placehold.it/15/ff8568/000000?text=+) `#ff8568` | rgb\(255,133,104\) |
+| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb\(253,86,57\) |
 
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
-| $NA _ - an alt for the gray -_| ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
-
-
-
-
+| $NA _ - an alt for the gray -_ | ![\#e2e2e2](https://placehold.it/15/e2e2e2/000000?text=+) `#e2e2e2` | rgb\(226,226,226\) |
 
 ```html
 '#2b6abd','#6f8cce','#a1b1df','#d1d7ef','#ffffff','#ffd7cb','#ffaf98','#ff8568','#fd5639'
@@ -51,19 +47,16 @@ d3.scale.threshold()
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Dem | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
-| $DemGOP2_mixed | ![\#6a69ab](https://placehold.it/15/6a69ab/000000?text=+) `#6a69ab` | rgb(106,105,171) |
-| $DemGOP3_mixed | ![\#8e6798](https://placehold.it/15/8e6798/000000?text=+) `#8e6798` | rgb(142,103,152) |
-| $DemGOP4_mixed | ![\#a96586](https://placehold.it/15/a96586/000000?text=+) `#a96586` | rgb(169,101,134) |
-| $GOPDem4_mixed | ![\#c26273](https://placehold.it/15/c26273/000000?text=+) `#c26273` | rgb(194,98,115) |
-| $GOPDem3_mixed | ![\#d75f61](https://placehold.it/15/d75f61/000000?text=+) `#d75f61` | rgb(215,95,97) |
-| $GOPDem2_mixed | ![\#ea5b4d](https://placehold.it/15/ea5b4d/000000?text=+) `#ea5b4d` | rgb(234,91,77) |
-| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb(253,86,57) |
-
-
+| $DemGOP2\_mixed | ![\#6a69ab](https://placehold.it/15/6a69ab/000000?text=+) `#6a69ab` | rgb\(106,105,171\) |
+| $DemGOP3\_mixed | ![\#8e6798](https://placehold.it/15/8e6798/000000?text=+) `#8e6798` | rgb\(142,103,152\) |
+| $DemGOP4\_mixed | ![\#a96586](https://placehold.it/15/a96586/000000?text=+) `#a96586` | rgb\(169,101,134\) |
+| $GOPDem4\_mixed | ![\#c26273](https://placehold.it/15/c26273/000000?text=+) `#c26273` | rgb\(194,98,115\) |
+| $GOPDem3\_mixed | ![\#d75f61](https://placehold.it/15/d75f61/000000?text=+) `#d75f61` | rgb\(215,95,97\) |
+| $GOPDem2\_mixed | ![\#ea5b4d](https://placehold.it/15/ea5b4d/000000?text=+) `#ea5b4d` | rgb\(234,91,77\) |
+| $GOP | ![\#fd5639](https://placehold.it/15/fd5639/000000?text=+) `#fd5639` | rgb\(253,86,57\) |
 
 ```html
 '#2b6abd','#6a69ab','#8e6798','#a96586','#c26273','#d75f61','#ea5b4d','#fd5639'
-
 ```
 
 ```html
@@ -78,26 +71,27 @@ d3.scale.threshold()
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Dem1 | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
-| $Dem2 | ![\#4e79c4](https://placehold.it/15/4e79c4/000000?text=+) `#4e79c4` | rgb\(78,121,196\) |
-| $Dem3 | ![\#6988CC](https://placehold.it/15/6988CC/000000?text=+) `#6988CC` | rgb\(105,136,204\) |
-| $Dem4 | ![\#8198d4](https://placehold.it/15/8198d4/000000?text=+) `#8198d4` | rgb\(129,152,212\) |
-| $Dem5 | ![\#96a8db](https://placehold.it/15/96a8db/000000?text=+) `#96a8db` | rgb\(150,168,219\) |
-| $Dem6 | ![\#acbae2](https://placehold.it/15/acbae2/000000?text=+) `#acbae2` | rgb\(172,186,226\) |
-| $Dem7 | ![\#c1caea](https://placehold.it/15/c1caea/000000?text=+) `#c1caea` | rgb\(193,202,234\) |
-| $Dem8 | ![\#d6dbf1](https://placehold.it/15/d6dbf1/000000?text=+) `#d6dbf1` | rgb\(214,219,241\) |
-| $Dem9 | ![\#ebedf8](https://placehold.it/15/ebedf8/000000?text=+) `#ebedf8` | rgb\(235,237,248\) |
+| $Dem2 | ![\#517bc5](https://placehold.it/15/517bc5/000000?text=+) `#517bc5` | rgb\(78,121,196\) |
+| $Dem3 | ![\#6e8bce](https://placehold.it/15/6e8bce/000000?text=+) `#6e8bce` | rgb\(105,136,204\) |
+| $Dem4 | ![\#889ed6](https://placehold.it/15/889ed6/000000?text=+) `#889ed6` | rgb\(129,152,212\) |
+| $Dem5 | ![\#a0b0de](https://placehold.it/15/a0b0de/000000?text=+) `#a0b0de` | rgb\(150,168,219\) |
+| $Dem6 | ![\#b7c1e6](https://placehold.it/15/b7c1e6/000000?text=+) `#b7c1e6` | rgb\(172,186,226\) |
+| $Dem7 | ![\#ced4ee](https://placehold.it/15/ced4ee/000000?text=+) `#ced4ee` | rgb\(193,202,234\) |
+| $Dem8 | ![\#e5e8f6](https://placehold.it/15/e5e8f6/000000?text=+) `#e5e8f6` | rgb\(214,219,241\) |
 | $NA | ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb\(230,230,230\) |
 
 ```html
-'#2b6abd','#4e79c4','#6988cc','#8198d4','#96a8db','#acbae2','#c1caea','#d6dbf1','#ebedf8','#ffffff'
+'#2b6abd','#517bc5','#6e8bce','#889ed6','#a0b0de','#b7c1e6','#ced4ee','#e5e8f6'
 ```
 
 ```html
-d3.scale.threshold()
-.range(['#2b6abd','#4e79c4','#6988cc','#8198d4','#96a8db','#acbae2','#c1caea','#d6dbf1','#ebedf8','#ffffff']);
+function palette(min, max) {
+    var d = (max-min)/8;
+    return d3.scale.threshold()
+        .range(['#2b6abd','#517bc5','#6e8bce','#889ed6','#a0b0de','#b7c1e6','#ced4ee','#e5e8f6'])
+        .domain([min+1*d,min+2*d,min+3*d,min+4*d,min+5*d,min+6*d,min+7*d,min+8*d]);
+}
 ```
-
----
 
 ### GOP Ramp
 

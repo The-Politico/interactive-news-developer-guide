@@ -79,7 +79,7 @@ d3.scale.threshold()
 
 ---
 
-### Sequential Gold-Magenta 
+### Sequential Gold-Magenta // needs update
 
 '#810082','#963384','#a95385','#bc6f85','#ce8d85','#dea984','#efc582','#ffe37e'
 

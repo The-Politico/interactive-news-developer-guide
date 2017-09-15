@@ -71,13 +71,13 @@ d3.scale.threshold()
 | Dem Ramp | Hex | RGB |
 | --- | --- | --- |
 | $Dem1 | ![\#2b6abd](https://placehold.it/15/2b6abd/000000?text=+) `#2b6abd` | rgb\(43,106,189\) |
-| $Dem2 | ![\#517bc5](https://placehold.it/15/517bc5/000000?text=+) `#517bc5` | rgb\(78,121,196\) |
-| $Dem3 | ![\#6e8bce](https://placehold.it/15/6e8bce/000000?text=+) `#6e8bce` | rgb\(105,136,204\) |
-| $Dem4 | ![\#889ed6](https://placehold.it/15/889ed6/000000?text=+) `#889ed6` | rgb\(129,152,212\) |
-| $Dem5 | ![\#a0b0de](https://placehold.it/15/a0b0de/000000?text=+) `#a0b0de` | rgb\(150,168,219\) |
-| $Dem6 | ![\#b7c1e6](https://placehold.it/15/b7c1e6/000000?text=+) `#b7c1e6` | rgb\(172,186,226\) |
-| $Dem7 | ![\#ced4ee](https://placehold.it/15/ced4ee/000000?text=+) `#ced4ee` | rgb\(193,202,234\) |
-| $Dem8 | ![\#e5e8f6](https://placehold.it/15/e5e8f6/000000?text=+) `#e5e8f6` | rgb\(214,219,241\) |
+| $Dem2 | ![\#517bc5](https://placehold.it/15/517bc5/000000?text=+) `#517bc5` | rgb(81,123,197) |
+| $Dem3 | ![\#6e8bce](https://placehold.it/15/6e8bce/000000?text=+) `#6e8bce` | rgb(110,139,206) |
+| $Dem4 | ![\#889ed6](https://placehold.it/15/889ed6/000000?text=+) `#889ed6` | rgb(136,158,214) |
+| $Dem5 | ![\#a0b0de](https://placehold.it/15/a0b0de/000000?text=+) `#a0b0de` | rgb(160,176,222) |
+| $Dem6 | ![\#b7c1e6](https://placehold.it/15/b7c1e6/000000?text=+) `#b7c1e6` | rgb(183,193,230) |
+| $Dem7 | ![\#ced4ee](https://placehold.it/15/ced4ee/000000?text=+) `#ced4ee` | rgb(206,212,238) |
+| $Dem8 | ![\#e5e8f6](https://placehold.it/15/e5e8f6/000000?text=+) `#e5e8f6` | rgb(229,232,246) |
 | $NA | ![\#E6E6E6](https://placehold.it/15/E6E6E6/000000?text=+) `#E6E6E6` | rgb\(230,230,230\) |
 
 ```html

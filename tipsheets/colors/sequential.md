@@ -15,7 +15,7 @@
 | $SangriaPeach-L4 | $Sockeye | ![\#e37e61](https://placehold.it/15/e37e61/000000?text=+) `#e37e61` | rgb(227,126,97) |
 | SangriaPeach-R3 | $Coral | ![\#f59e82](https://placehold.it/15/f59e82/000000?text=+) `#f59e82` | rgb(245,158,130) |
 | $SangriaPeach-R2 | $DustySalmon | ![\#ffc1aa](https://placehold.it/15/ffc1aa/000000?text=+) `#ffc1aa` | rgb(255,193,170) |
-| $SangriaPeach-R1 | $DustyPink | ![\#ffe5d8](https://placehold.it/15/ffe5d8/000000?text=+) `#ffe5d8` | rgb(255,229,216) |
+| $SangriaPeach-R1 | $Peach | ![\#ffe5d8](https://placehold.it/15/ffe5d8/000000?text=+) `#ffe5d8` | rgb(255,229,216) |
 
 
 ```
@@ -34,23 +34,22 @@ d3.scale.threshold()
 
 | Ramp | Alias | Hex | RGB |
 | --- | --- | --- | --- |
-| $MoneyFoam-L1 | $Money | ![\#9b0001](https://placehold.it/15/46825a/000000?text=+) `#46825a` | rgb\(70,130,90\) |
-| $MoneyFoam-L2 | $Bills | ![\#578e69](https://placehold.it/15/578e69/000000?text=+) `#578e69` | rgb\(87,142,105\) |
-| $MoneyFoam-L3 | $SpringLeaves | ![\#699c79](https://placehold.it/15/699c79/000000?text=+) `#699c79` | rgb\(105,156,121\) |
-| $MoneyFoam-L4 | $NewMoss | ![\#79a887](https://placehold.it/15/79a887/000000?text=+) `#79a887` | rgb\(118,165,132\) |
-| $MoneyFoam-L5 | $BayLeaf | ![\#8bb597](https://placehold.it/15/8bb597/000000?text=+) `#8bb597` | rgb\(139,181,151\) |
-| $MoneyFoam-R5 | $Summer | ![\#9cc2a7](https://placehold.it/15/9cc2a7/000000?text=+) `#9cc2a7` | rgb\(156,194,167\) |
-| $MoneyFoam-R4 | $Oregano | ![\#aecfb8](https://placehold.it/15/aecfb8/000000?text=+) `#aecfb8` | rgb\(174,207,184\) |
-| $MoneyFoam-R3 | $Thyme | ![\#c0dcc9](https://placehold.it/15/c0dcc9/000000?text=+) `#c0dcc9` | rgb\(192,220,201\) |
-| $MoneyFoam-R2 | $DustySeafoam | ![\#d2e9da](https://placehold.it/15/d2e9da/000000?text=+) `#d2e9da` | rgb\(210,233,218\) |
+| $MoneyFoam-L1 | $Money | ![\#46825a](https://placehold.it/15/46825a/000000?text=+) `#46825a` | rgb\(70,130,90\) |
+| $MoneyFoam-L2 | $Bills | ![\#5d926d](https://placehold.it/15/5d926d/000000?text=+) `#5d926d` | rgb(93,146,109) |
+| $MoneyFoam-L3 | $SpringLeaves | ![\#73a281](https://placehold.it/15/73a281/000000?text=+) `#73a281` | rgb(115,162,129) |
+| $MoneyFoam-L4 | $NewMoss | ![\#88b395](https://placehold.it/15/88b395/000000?text=+) `#88b395` | rgb(136,179,149) |
+| $MoneyFoam-L5 | $BayLeaf | ![\#9fc4aa](https://placehold.it/15/9fc4aa/000000?text=+) `#9fc4aa` | rgb(159,196,170) |
+| $MoneyFoam-R5 | $Summer | ![\#b6d4bf](https://placehold.it/15/b6d4bf/000000?text=+) `#b6d4bf` | rgb(182,212,191) |
+| $MoneyFoam-R4 | $RobinEgg | ![\#cce6d5](https://placehold.it/15/cce6d5/000000?text=+) `#cce6d5` | rgb(204,230,213) |
 | $MoneyFoam-R1 | $Seafoam | ![\#e4f7eb](https://placehold.it/15/e4f7eb/000000?text=+) `#e4f7eb` | rgb\(228,247,235\) |
 
 ```
-'#46825a','#578e69','#699c79','#79a887','#8bb597','#9cc2a7','#aecfb8','#c0dcc9','#d2e9da','#e4f7eb'
+'#46825a','#5d926d','#73a281','#88b395','#9fc4aa','#b6d4bf','#cce6d5','#e4f7eb'
 ```
 
 ```
-d3.scale.threshold()    .range(['#46825a','#578e69','#699c79','#79a887','#8bb597','#9cc2a7','#aecfb8','#c0dcc9','#d2e9da','#e4f7eb']);
+d3.scale.threshold()
+    .range(['#46825a','#5d926d','#73a281','#88b395','#9fc4aa','#b6d4bf','#cce6d5','#e4f7eb']);
 ```
 
 ---

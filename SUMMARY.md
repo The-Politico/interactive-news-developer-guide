@@ -23,11 +23,11 @@
   * [Design guides](tipsheets/design-guides.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
+      * [Base Colors](tipsheets/colors/base-colors.md)
       * [Qualitative / Categorical](tipsheets/colors/categorical.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
       * [Sequential](tipsheets/colors/sequential.md)
-      * [Base Colors](tipsheets/colors/base-colors.md)
     * [Dataviz](tipsheets/design-guides/dataviz.md)
       * Annotations
       * Axes

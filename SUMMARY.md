@@ -27,6 +27,7 @@
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
       * [Sequential](tipsheets/colors/sequential.md)
+      * [Base Colors](tipsheets/colors/base-colors.md)
     * [Dataviz](tipsheets/design-guides/dataviz.md)
       * Annotations
       * Axes

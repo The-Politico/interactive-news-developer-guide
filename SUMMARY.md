@@ -10,6 +10,7 @@
   * [Pre-Publish](workflow/pre-pub.md)
   * [Publishing a project](workflow/publishing-a-project.md)
   * [Reviewing a project](workflow/reviewing-a-project.md)
+  * Updating the Morning Consult Poll Page
 * [Policies](policies.md)
 * [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)

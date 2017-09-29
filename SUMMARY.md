@@ -21,6 +21,7 @@
     * [Main site style refer to other related stories](tipsheets/main-site-style-refer-to-other-related-stories.md)
     * [Text styles](tipsheets/handy-css-tricks/text-styles.md)
     * [Sections](tipsheets/handy-css-tricks/sections.md)
+  * [AI2HTML](how-to-use-ai2html-in-an-interactiveembed.md)
   * [Design guides](tipsheets/design-guides.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)

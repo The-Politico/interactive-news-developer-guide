@@ -22,6 +22,7 @@
     * [Text styles](tipsheets/handy-css-tricks/text-styles.md)
     * [Sections](tipsheets/handy-css-tricks/sections.md)
   * [AI2HTML](how-to-use-ai2html-in-an-interactiveembed.md)
+  * [Useful QGIS and Illustrator Hacks](useful-qgis-and-illustrator-hacks.md)
   * [Design guides](tipsheets/design-guides.md)
     * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
@@ -50,5 +51,4 @@
     * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
     * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
 * [CHANGELOG](CHANGELOG.md)
-* [Useful QGIS and Illustrator Hacks](useful-qgis-and-illustrator-hacks.md)
 

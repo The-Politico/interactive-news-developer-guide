@@ -50,4 +50,5 @@
     * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
     * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
 * [CHANGELOG](CHANGELOG.md)
+* [Useful QGIS and Illustrator Hacks](useful-qgis-and-illustrator-hacks.md)
 

@@ -10,17 +10,17 @@ It is hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-de
 
 * [**Policies**](/policies.md) - What you need to know
 * [**Workflow**](/workflow.md) - General guidelines for how we work
-    - [Meetings](/workflow/meetings.md)
-    - [Starting a project](/workflow/starting-a-project.md)
-    - [Keeping a budget](/workflow/keeping-a-budget.md)
-    - [Pre-Publish](/workflow/pre-pub)
-    - [Publishing a project](/workflow/publishing-a-project.md)
-    - [Reviewing a Project](/workflow/reviewing-a-project.md)
-    - [Updating the Morning Consult Page](/workflow/updating-the-morning-consult-page.md)
-    - Ai to HTML
+  * [Meetings](/workflow/meetings.md)
+  * [Starting a project](/workflow/starting-a-project.md)
+  * [Keeping a budget](/workflow/keeping-a-budget.md)
+  * [Pre-Publish](/workflow/pre-pub)
+  * [Publishing a project](/workflow/publishing-a-project.md)
+  * [Reviewing a Project](/workflow/reviewing-a-project.md)
+  * [Updating the Morning Consult Page](/workflow/updating-the-morning-consult-page.md)
 * [**Infrastructure**](/infrastructure.md) - Where we build
 * [**WHOIS**](whois.md) - Critical contacts for working in the newsroom
 * [**Tipsheets**](/tipsheets.md) - Useful things
+  * [AI2HTML](/how-to-use-ai2html-in-an-interactiveembed.md)
 * [**For Web Producers**](/for-web-producers/contacts.md) - What to do in case of an error in an interactive
 
 ### Version

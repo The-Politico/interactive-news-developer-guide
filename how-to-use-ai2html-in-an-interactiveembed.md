@@ -1,11 +1,11 @@
 # **How to use AI2HTML in the politico-interactive-generator:**
 
-Repo w/ artboards and key elements: [https://github.com/The-Politico/tool\_ai2html](https://github.com/The-Politico/tool_ai2html)
+Repo w/ artboards and key elements outlined below: [https://github.com/The-Politico/tool\_ai2html](https://github.com/The-Politico/tool_ai2html)
 
 ### Steps:
 
 1. When creating a new interactive, in your `templates` directory, create a folder called `ai`
-2. Place `ai2html-resizer-html` \([https://github.com/The-Politico/tool\_ai2html/blob/master/ai2html-resizer.html](https://github.com/The-Politico/tool_ai2html/blob/master/ai2html-resizer.html)\) into your `ai` directory.
+2. Place `ai2html-resizer-html`  into your `ai` directory.
 3. Add `{% include "ai2html-resizer.html" %}` at the bottom of your `_base.html` file.![](/assets/Screen Shot 2017-09-29 at 4.17.34 PM.png)
 
 ### Exporting artboards:

@@ -21,6 +21,7 @@ It is hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-de
 * [**WHOIS**](whois.md) - Critical contacts for working in the newsroom
 * [**Tipsheets**](/tipsheets.md) - Useful things
   * [AI2HTML](/how-to-use-ai2html-in-an-interactiveembed.md)
+  * [Useful QGIS and Illustrator Hacks](/useful-qgis-and-illustrator-hacks.md)
 * [**For Web Producers**](/for-web-producers/contacts.md) - What to do in case of an error in an interactive
 
 ### Version

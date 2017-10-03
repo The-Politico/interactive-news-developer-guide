@@ -5,7 +5,7 @@ Repo w/ artboards and key elements outlined below: [https://github.com/The-Polit
 ### Steps:
 
 1. When creating a new interactive, in your `templates` directory, create a folder called `ai`
-2. Place `ai2html-resizer-html`  into your `ai` directory.
+2. Place [`ai2html-resizer-html`](https://github.com/The-Politico/tool_ai2html/blob/master/ai2html-resizer.html)  into your `ai` directory.
 3. Include `"ai2html-resizer.html"` as a partial at the bottom of your `_base.html` file.![](/assets/Screen Shot 2017-09-29 at 4.17.34 PM.png)
 
 ### Exporting artboards:

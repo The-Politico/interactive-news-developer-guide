@@ -44,13 +44,14 @@
         * Line charts
         * Bar and column charts
         * Unit chart
-    * [CSS Includes](tipsheets/design-guides/css-includes.md)
-      * [Cards](tipsheets/design-guides/css-includes/cards.md)
   * [ArchieML](tipsheets/archieml.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)
     * [Ask a web producer](tipsheets/cms-embeds/ask-a-web-producer.md)
     * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
     * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
+  * [CSS Includes](tipsheets/design-guides/css-includes.md)
+    * [Cards](tipsheets/design-guides/css-includes/cards.md)
+    * [Keys](tipsheets/design-guides/css-includes/keys.md)
 * [CHANGELOG](CHANGELOG.md)
 

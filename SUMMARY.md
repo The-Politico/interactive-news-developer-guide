@@ -21,7 +21,7 @@
     * [Keys](tipsheets/design-guides/css-includes/keys.md)
     * [Refer aka Parenthetical](tipsheets/main-site-style-refer-to-other-related-stories.md)
     * [Photo Groups](tipsheets/handy-css-tricks/photo-groups.md)
-    * [Text styles](tipsheets/handy-css-tricks/text-styles.md)
+    * [Text styles + Highlight](tipsheets/handy-css-tricks/text-styles.md)
     * [Sections](tipsheets/handy-css-tricks/sections.md)
   * [AI2HTML](how-to-use-ai2html-in-an-interactiveembed.md)
   * [Useful QGIS and Illustrator Hacks](useful-qgis-and-illustrator-hacks.md)

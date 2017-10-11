@@ -44,6 +44,8 @@
         * Line charts
         * Bar and column charts
         * Unit chart
+    * [CSS Includes](tipsheets/design-guides/css-includes.md)
+      * [Cards](tipsheets/design-guides/css-includes/cards.md)
   * [ArchieML](tipsheets/archieml.md)
   * [CMS embeds](tipsheets/cms-embeds.md)
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)

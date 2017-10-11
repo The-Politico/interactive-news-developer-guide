@@ -1,25 +1,24 @@
 ### Text alignment
 
 ```css
-.center-align{
+.text-align-center{
   text-align: center;
 }
 
-.left-align{
+.text-align-center{
   text-align: left;
 }
 
-.right-align{
+.text-align-center{
   text-align: right;
 }
 ```
-
 
 ### Aligning content to the main well
 
 ```css
 .content-fit{
-  max-width: 600px;
+  max-width: 550px;
   @include margin-auto;
 }
 
@@ -28,9 +27,16 @@
   @include margin-auto;
 }
 
+.extra-large{
+  max-width: 1200px;
+  @include margin-auto;
+}
+
 .full-width{
   width: 100%;
   @include margin-auto;
 }
 ```
+
+
 

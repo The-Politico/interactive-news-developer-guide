@@ -1,5 +1,11 @@
 # Cards
 
+Cards are a great way to group data or call out key points. 
+
+Some early prototypes here: [Is Obamacare dead yet?](http://www.politico.com/interactives/2017/senate-obamacare-repeal-vote-results-count/) , [How past income tax rate cuts on the wealthy affected the economy](https://www.politico.com/interactives/2017/gop-tax-rate-cut-wealthy/) and  [Reconciliation Explained](http://www.politico.com/interactives/2017/what-is-reconciliation/)
+
+
+
 ---
 
 Default card background renders gray and mirrors `.sans.small` style
@@ -30,8 +36,6 @@ Default card background renders gray and mirrors `.sans.small` style
 
 ![](/assets/card-border-bottom.png)
 
-
-
 **Serif header and body type**
 
 ```html
@@ -44,8 +48,6 @@ Default card background renders gray and mirrors `.sans.small` style
 ```
 
 ![](/assets/serif-card.png)
-
-
 
 **Color-coded cards**  
 The border-bottom and H2 is set to default to $gop red. You can override this in the css, but writing appending a class like .dem, in this example.

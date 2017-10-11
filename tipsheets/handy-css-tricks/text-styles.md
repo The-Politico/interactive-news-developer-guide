@@ -1,4 +1,4 @@
-### Text styles + Highlighter
+### Text transformations + highlight style
 
 Sans, serif, bold, uppercase, and even .small styles for paragraph text. Let's do it.
 
@@ -21,6 +21,10 @@ Sans, serif, bold, uppercase, and even .small styles for paragraph text. Let's d
 font-weight: 500;
 }
 
+.italic{
+text-style: italic;
+}
+
 .uppercase{
   text-transform: uppercase;
 }
@@ -32,19 +36,15 @@ font-weight: 500;
 }
 ```
 
-
 **Highlight for em-PHA-sis**
 
-Our style is to **include punctuation**, commas or periods etc. inside the span class. 
+Our style is to **include punctuation**, commas or periods etc. inside the span class.
+
 ```html
 of his generals; <span class="highlight">preservation and command</span> of the army
 ```
 
-
 ![](/assets/highlighter.png)
-
-
-
 
 **Small Paragraph text option**
 

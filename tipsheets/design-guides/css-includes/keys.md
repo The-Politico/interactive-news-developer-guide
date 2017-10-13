@@ -10,7 +10,7 @@ Color swatches are set by the class placed on the `span`. You'll need to write a
 
 ![](/assets/key-duo.png)
 
-**The html**
+### **The html**
 
 ```html
   <div class="key clearfix">
@@ -20,7 +20,7 @@ Color swatches are set by the class placed on the `span`. You'll need to write a
   </div>
 ```
 
-**Css example:**
+### **Css example:**
 
 ```css
 span{
@@ -48,6 +48,7 @@ span{
 
 
 
-**What it looks like in action**  
-![](/assets/key-left.png)
+### **What it looks like in action** ![](/assets/key-left.png)
+
+
 

@@ -4,6 +4,8 @@ Here are some quick style options for lists
 
 ---
 
+### Some variations
+
 Here is a list with `small`, `sans`, `no-indent` and `border` class applied to the `ul` level
 
 ![](/assets/list-border.png)

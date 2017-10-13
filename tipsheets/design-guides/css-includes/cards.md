@@ -1,10 +1,8 @@
 # Cards
 
-Cards are a great way to group data or call out key points. 
+Cards are a great way to group data or call out key points.
 
 Some early prototypes here: [Is Obamacare dead yet?](http://www.politico.com/interactives/2017/senate-obamacare-repeal-vote-results-count/) , [How past income tax rate cuts on the wealthy affected the economy](https://www.politico.com/interactives/2017/gop-tax-rate-cut-wealthy/) and  [Reconciliation Explained](http://www.politico.com/interactives/2017/what-is-reconciliation/)
-
-
 
 ---
 
@@ -20,7 +18,7 @@ Default card background renders gray and mirrors `.sans.small` style
 
 ![](/assets/default-card.png)
 
-## But! We have other styles available too!
+### But! We have other styles available too!
 
 **Border Bottom**
 
@@ -36,10 +34,11 @@ Default card background renders gray and mirrors `.sans.small` style
 
 ![](/assets/card-border-bottom.png)
 
-**Serif header and body type**
+### 
+
+### **Serif header and body type**
 
 ```html
-<div class="card serif">
         <h2>Card Title</h2>
         <p>Look up! A serif style is appended to the card</p>
 
@@ -49,11 +48,15 @@ Default card background renders gray and mirrors `.sans.small` style
 
 ![](/assets/serif-card.png)
 
-**Color-coded cards**  
+
+
+
+
+### **Color-coded cards**
+
 The border-bottom and H2 is set to default to $gop red. You can override this in the css, but writing appending a class like .dem, in this example.
 
 ```html
-<div class="card color-coded dem">
         <h2>Card Title</h2>
         <h6>Subtitle if needed</h6>
         <p>A variation of the ordinary lorem ipsum text has been used.</p>

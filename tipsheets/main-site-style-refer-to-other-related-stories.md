@@ -4,7 +4,7 @@ Need to toss to another story? Here's a Politico.com style refer you can use in 
 
 ### Within the flow of a story
 
-###  
+### 
 
 ![](/assets/parethetical.png)
 
@@ -25,12 +25,11 @@ Need to toss to another story? Here's a Politico.com style refer you can use in 
 </div>
 ```
 
-
+### 
 
 ### **Stacked**
 
-**So you want to stack a few of them** at the bottom of a story. Here's how.  
-
+**So you want to stack a few of them** at the bottom of a story. Here's how.
 
 * adds the read more h4, also an `<hr>` between refer items
 

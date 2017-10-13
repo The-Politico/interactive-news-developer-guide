@@ -17,7 +17,7 @@
 ### Aligning content to the main well
 
 ```css
-.content-smaller{
+.content-small{
   max-width: 400px;
   @include margin-auto;
 }

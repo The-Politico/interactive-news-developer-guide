@@ -1,8 +1,10 @@
-# Parenthetical
+# Refers - stand along and stacked
 
-Need to toss to another story? Here's a Politico.com style refer you can use in your story.
+Need to toss to another story? Here's a Politico.com style refer you can use in your story. _\[Pro tip: the web producers call this a parenthetical\]_
 
----
+### Within the flow of a story
+
+###  
 
 ![](/assets/parethetical.png)
 
@@ -23,8 +25,12 @@ Need to toss to another story? Here's a Politico.com style refer you can use in 
 </div>
 ```
 
-So you want to stack a few of them at the bottom of a story.   
-We got you
+
+
+### **Stacked**
+
+**So you want to stack a few of them** at the bottom of a story. Here's how.  
+
 
 * adds the read more h4, also an `<hr>` between refer items
 

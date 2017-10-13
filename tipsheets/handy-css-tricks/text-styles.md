@@ -36,7 +36,9 @@ text-style: italic;
 }
 ```
 
-**Highlight for em-PHA-sis**
+
+
+### **Highlight for em-PHA-sis**
 
 Our style is to **include punctuation**, commas or periods etc. inside the span class.
 
@@ -46,7 +48,9 @@ of his generals; <span class="highlight">preservation and command</span> of the 
 
 ![](/assets/highlighter.png)
 
-**Small Paragraph text option**
+### 
+
+### **Small Paragraph text option - serif + sans**
 
 Our cards default to this, but you may want to use it in other places. Here's how.
 

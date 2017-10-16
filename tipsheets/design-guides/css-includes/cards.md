@@ -8,6 +8,8 @@ Some early prototypes here: [Is Obamacare dead yet?](http://www.politico.com/int
 
 Default card background renders gray and mirrors `.sans.small` style
 
+Want to grab three cards already formatted in a row and section? Scroll down to the bottom of this page 🎁 
+
 ```html
 <div class="card">
         <h2>Card Title</h2>
@@ -23,6 +25,7 @@ Default card background renders gray and mirrors `.sans.small` style
 **Border Bottom**
 
 ```html
+<div class="card">
         <h2 class="border-bottom">Card Title</h2>
         <h6>Subtitle if needed</h6>
         <p>You can see the border-bottom style on the h2 here. Does what you would expect</p>
@@ -39,6 +42,7 @@ Default card background renders gray and mirrors `.sans.small` style
 ### **Serif header and body type**
 
 ```html
+<div class="card serif">
         <h2>Card Title</h2>
         <p>Look up! A serif style is appended to the card</p>
 
@@ -57,16 +61,32 @@ Default card background renders gray and mirrors `.sans.small` style
 The border-bottom and H2 is set to default to $gop red. You can override this in the css, but writing appending a class like .dem, in this example.
 
 ```html
+<section>
+  <div class="row">
+    <div class="col-sm-4">
+    
+      <div class="card color-coded dem">
         <h2>Card Title</h2>
-        <h6>Subtitle if needed</h6>
-        <p>A variation of the ordinary lorem ipsum text has been used.</p>
-</div>
+        <p>A variation of the <span class="highlight">ordinary lorem</span> ipsum <span class="highlight">advertisements</span> for Letraset transfer sheets.</p>
+      </div>
+    </div>
+    
+    <div class="col-sm-4">
+      <div class="card color-coded gop">
+        <h2>Card Title</h2>
+        <p>You can see the border-bottom style on the h2 here. Does what you would expect</p>
+      </div>
+    </div>
 
-<div class="card color-coded">
+    <div class="col-sm-4">
+      <div class="card color-coded teal">
         <h2>Card Title</h2>
-        <h6>Subtitle if needed</h6>
-        <p>By advertisements for Letraset transfer sheets or earlier.</p>
-</div>
+        <p>Look up! Appended to the card</p>
+      </div>
+    </div>
+    
+  </row>
+</section>
 ```
 
 ![](/assets/color-coded-cards.png)

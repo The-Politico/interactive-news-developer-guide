@@ -2,6 +2,8 @@
 
 ##### Election
 
+
+
 | Name | Hex | RGB |
 | --- | --- | --- |
 | $Dem or $Dem1 | ![\#2B6ABD](https://placehold.it/15/2B6ABD/000000?text=+) `#2B6ABD` | rgb\(43,106,189\) |
@@ -150,6 +152,10 @@ d3.scale.threshold()
 ---
 
 ### Other / Gray
+
+update this with #454F4D
+
+
 
 This gray is a nice option for bar charts, when the strong Dem and GOP colors can feel too technicolor along side the teal.
 

@@ -154,6 +154,7 @@ d3.scale.threshold()
 ### Other / Gray
 
 update this with #454F4D (a less intense gray)
+http://gka.github.io/palettes/#colors=white,#454F4D|steps=8|bez=1|coL=1
 
 
 This gray is a nice option for bar charts, when the strong Dem and GOP colors can feel too technicolor along side the teal.

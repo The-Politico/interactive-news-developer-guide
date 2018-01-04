@@ -148,4 +148,8 @@ In several parts of your review, we use a 10-point scale to quantitatively evalu
 
 
 
+##### Epilogue
 
+Once we've completed your review, we may share your answers with the rest of the team's, *in summary*, with our boss, Paul. Other than that, your answers will be kept secret.
+
+We'll revisit them to orient your work and reevaluate your goals after 6 months.

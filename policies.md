@@ -95,6 +95,58 @@ When you notice an error in a published piece, do these things **in this order**
 - Every correction will prompt a sit-down meeting with the team. The focus of that meeting is never to associate blame but to find out how best to stop similar errors from happening again.
 
 
+### Semi-annual review
+
+We can't understate the importance of regularly evaluating our goals as a team and systematically addressing any challenges to our progress.
+
+Your editors will have a sit-down review with you twice each year. The goals of that review are to review major milestones, check up on a few conditions we think are fundamental to the team's success and to set and evaluate three goals that should orient your work over the next 6 months.
+
+In preparation for our meeting, we'll both prepare a few things. Here are the major parts:
+
+
+##### Major projects and milestones
+
+In many ways, marking concrete progress and accomplishments is the most important part of your review. Every 6 months, your editors will write up the major projects you've worked on and major milestones we've seen in your development.
+
+##### Weakest/Strongest
+
+Each review, both you and your editors will write down what each thinks was the strongest and the weakest part of your work over the last 6 months.
+
+These are your outliers, a strength that deserves special praise and a weakness that needs extra attention.
+
+These can be soft or hard skills, but we want them to be things you have a major amount of control over. This isn't the place to point out how other people's work hinders or supports your own.
+
+##### Three goals
+
+Each review, we'll identify three goals to work towards over the next 6 months.
+
+To measure progress, we'll ask you to score where you think you are on completing that goal on a 10-point scale. At the next review, we'll re-score your goals separately and discuss what progress we both think you've made.
+
+##### Standing survey
+
+As part of your review, we'll ask you to re-evaluate each of these statements on a 10-point scale from completely false to completely true. Each statement we consider a fundamental condition that must be true for our team to be successful.
+
+- I have a good work/life balance.
+- I get the direction and support I need from my editors.
+- My ideas are listened to and fairly evaluated on their merits within the team.
+- I have a strong, constructive relationship with the rest of the newsroom.
+- I understand and agree with the long-term goals of the team.
+- The types of projects I am working on are well-balanced for my skills.
+- I understand my role on the team and how it will develop.
+- I am learning new skills from my teammates.
+- The team is good at sharpening each other's ideas and coming up with new ideas together.
+- Team meetings are productive and well run.
+- Projects are managed well.
+- I have a strong, constructive relationship with the rest of the newsroom.
+- I have the right amount of exposure to other newsroom managers.
+- I understand the larger direction POLITICO is taking as a business.
+
+
+##### A note on scales
+
+In several parts of your review, we use a 10-point scale to quantitatively evaluate a goal or a condition. The point of using that scale isn't to nitpick small differences but to give you the space you need to honestly evaluate incremental progress across multiple reviews.
+
+
 
 
 

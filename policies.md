@@ -99,7 +99,7 @@ When you notice an error in a published piece, do these things **in this order**
 
 We can't understate the importance of regularly evaluating our goals as a team and systematically addressing any challenges to our progress.
 
-Your editors will have a sit-down review with you twice each year. The goals of that review are to review major milestones, check up on a few conditions we think are fundamental to the team's success and to set and evaluate three goals that should orient your work over the next 6 months.
+Your editors will have a sit-down review with you twice each year. The goal of each review is to review major milestones, check up on a few conditions we think are fundamental to the team's success and to set and evaluate three goals that should orient your work over the next 6 months.
 
 In preparation for our meeting, we'll both prepare a few things. Here are the major parts:
 
@@ -149,6 +149,6 @@ In several parts of your review, we use a 10-point scale to quantitatively evalu
 
 ##### Epilogue
 
-Once we've completed your review, we may share your answers with the rest of the team's, *in summary*, with our boss, Paul. Other than that, your answers will be kept secret.
+Once we've completed your review, we may share your collective answers, *in summary*, with our boss, Paul. Other than that, your answers will be kept in confidence.
 
 We'll revisit them to orient your work and reevaluate your goals after 6 months.

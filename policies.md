@@ -137,7 +137,6 @@ As part of your review, we'll ask you to re-evaluate each of these statements on
 - The team is good at sharpening each other's ideas and coming up with new ideas together.
 - Team meetings are productive and well run.
 - Projects are managed well.
-- I have a strong, constructive relationship with the rest of the newsroom.
 - I have the right amount of exposure to other newsroom managers.
 - I understand the larger direction POLITICO is taking as a business.
 

@@ -30,17 +30,17 @@
     * [Place en embed yourself](tipsheets/cms-embeds/plugging-your-embed-into-the-cms.md)
     * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
   * [Design guides](tipsheets/design-guides.md)
-    * [Fonts](tipsheets/design-guides/fonts.md)
     * [Colors](tipsheets/colors.md)
       * [Base Colors](tipsheets/colors/base-colors.md)
       * [Qualitative / Categorical](tipsheets/colors/categorical.md)
       * [Diverging](tipsheets/colors/diverging.md)
       * [Elections](tipsheets/colors/elections.md)
       * [Sequential](tipsheets/colors/sequential.md)
+    * [Fonts](tipsheets/design-guides/fonts.md)
     * [Dataviz](tipsheets/design-guides/dataviz.md)
-      * Annotations
-      * Axes
-      * Chatter
+      * [Annotations](tipsheets/design-guides/dataviz/annotations.md)
+      * [Axes](tipsheets/design-guides/dataviz/axes.md)
+      * [Chatter](tipsheets/design-guides/dataviz/chatter.md)
       * Font styles
       * Legends and keys
       * Tooltips

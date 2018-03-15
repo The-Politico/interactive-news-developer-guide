@@ -68,14 +68,16 @@ _**Story info section**_
 * Preview link \(ngrok\)
 * Please outline _if_ alert should be sent. Not sure? Ask the editor.
   * Include alert text, if you have it
-* Homepage editors will select lede art for the HP display. The aspect ratio of the image is: **1160 x 629**
+* Homepage editors will select lede art for the HP display. The aspect ratio of the image is **3x2** or **1160 x 773**
 * If you are working on a graphic, please attach 1-2 options for when the story moves out of the lede spot and into the _b section_.
-  * These should be cut to **1160x629**, but will run at a width of ~200px. 
+  * These should be cut to **1160 x 773**, but will run at a width of ~200px. 
     * Images should have minimal text 
     * They should clearly suggest to the reader that the story has graphical elements. Ie:
-      ![](/assets/small.jpg)  or 
-      ![](/assets/testings.jpg)
-
+    ![](/assets/static.politico.gif)
+    ![](/assets/static.politico-1.png)
+    
+    
+    
 _**Social Medial section**_
 
 * Include a section tiled **For Sosh**. 

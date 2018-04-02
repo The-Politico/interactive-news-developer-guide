@@ -22,5 +22,5 @@ Pro stories will need a *story stub* created. Requests for that should be sent t
 
 - A story stub is a truncated version of the story (usually the nut graph + two paragraphs)that runs in the PRO CMS and pushes back to the our more robust build. It also allows the PRO team to push our stories to reader’s emails. 
 
--
+More on this workflow **here**.
 

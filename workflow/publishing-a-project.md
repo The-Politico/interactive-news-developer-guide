@@ -60,7 +60,7 @@ If you're working with the pro team, cc them on this email at `tp-proweb@politic
 
 _**Story info section**_
 
-* A request a story shell
+* A request for a story shell
 * Run date and time
 * Headline, please note if it is not finalized
 * Dek, if applicable
@@ -68,9 +68,9 @@ _**Story info section**_
 * Preview link \(ngrok\)
 * Please outline _if_ alert should be sent. Not sure? Ask the editor.
   * Include alert text, if you have it
-* Homepage editors will select lede art for the HP display. The aspect ratio of the image is **3x2** or **1160 x 773**
+* Homepage editors will select lede art for the HP display. The aspect ratio of the image is **16x9** or **1160x629**
 * If you are working on a graphic, please attach 1-2 options for when the story moves out of the lede spot and into the _b section_.
-  * These should be cut to **1160 x 773**, but will run at a width of ~200px. 
+  * These should be cut to **1160x629**, but will run at a width of ~200px. 
     * Images should have minimal text 
     * They should clearly suggest to the reader that the story has graphical elements. Ie:
     ![](/assets/static.politico.gif)
@@ -97,7 +97,7 @@ If the graphic is something you'd like to be included in other stories, include 
 **Headline**: TK  
 **Dek**: TK  
 **Live url will be:** TK.com  
-**Preview the story here:**  [http://ngrok.politico.com.io/](http://ngrok.politico.com.io/)
+**Preview the story here:**  [aws bc](http://ngrok.politico.com.io/)
 
 * **Login:** _\*\*put the login here_
 * **Pass:** _\*\*put the password here_

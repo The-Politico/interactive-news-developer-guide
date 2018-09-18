@@ -1,8 +1,8 @@
-### Text transformations + highlight style
+# Text styles + Highlight
+
+## Text transformations + highlight style
 
 Sans, serif, bold, uppercase, and even .small styles for paragraph text. Let's do it.
-
----
 
 ```css
 .sans{
@@ -36,30 +36,26 @@ text-style: italic;
 }
 ```
 
-
-
-### **Highlight for em-PHA-sis**
+## **Highlight for em-PHA-sis**
 
 Our style is to **include punctuation**, commas or periods etc. inside the span class.
 
-```html
+```markup
 of his generals; <span class="highlight">preservation and command</span> of the army
 ```
 
-![](/assets/highlighter.png)
+![](../../.gitbook/assets/highlighter.png)
 
-### 
-
-### **Small Paragraph text option - serif + sans**
+## **Small Paragraph text option - serif + sans**
 
 Our cards default to this, but you may want to use it in other places. Here's how.
 
-```html
+```markup
 <p class="small">This is what small paragraph text looks like.</p>
 <p class="small sans">This is what small sans paragraph text looks like</p>
 ```
 
 **In action**
 
-![](/assets/smally.png)
+![](../../.gitbook/assets/smally.png)
 

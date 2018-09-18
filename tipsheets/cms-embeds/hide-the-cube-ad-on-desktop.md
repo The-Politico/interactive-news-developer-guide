@@ -1,10 +1,10 @@
-## That cube ad is cutting into my graphic
+# Hide the cube ad on desktop
 
-###### Use this code sparingly, be creative in your layout -- ideally we would not have to deploy this code.
+## Use this code sparingly, be creative in your layout -- ideally we would not have to deploy this code.
 
-Sometimes, on desktop the cube ad gets in the way on desktop, chopping up your graphic. Here's how to hide the first cube ad on **DESKTOP ONLY. **
+Sometimes, on desktop the cube ad gets in the way on desktop, chopping up your graphic. Here's how to hide the first cube ad on **DESKTOP ONLY.** 
 
-```html
+```markup
 .story-interrupt.pos-alpha.predetermined {
 
 display: none;
@@ -21,6 +21,4 @@ display: inline;
 
 }
 ```
-
-
 

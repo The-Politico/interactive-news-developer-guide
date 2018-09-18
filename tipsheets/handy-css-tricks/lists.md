@@ -2,19 +2,17 @@
 
 Here are some quick style options for lists
 
----
-
-### Some variations
+## Some variations
 
 Here is a list with `small`, `sans`, `no-indent` and `border` class applied to the `ul` level
 
-![](/assets/list-border.png)
+![](../../.gitbook/assets/list-border.png)
 
 this one has no `border` applied
 
-![](/assets/list-no-border.png)
+![](../../.gitbook/assets/list-no-border.png)
 
-```html
+```markup
 <section class="small sans content-fit">
 <h3 class="text-align-left">Links to css hacks</h3>
 <ul class="no-bullets no-indent border">
@@ -55,6 +53,4 @@ ul.no-bullets{
   }
 }
 ```
-
-
 

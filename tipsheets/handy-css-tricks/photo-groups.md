@@ -1,26 +1,23 @@
-# PHOTOS
+# Photo Groups
 
-Where to access photos: AP [Website](http://www.apimages.com/)  \|   Getty [Website](http://www.gettyimages.com/)
+Where to access photos: AP [Website](http://www.apimages.com/) \| Getty [Website](http://www.gettyimages.com/)
 
----
+## Images
 
-### Images
 All images should be wrapped in a figure. All photos should run with a credit. If the photographer is anonymous you may credit only the photo service ie: Getty Images or AP Photo
 
-```html
+```markup
 <figure>
     <img src="https://static.politico.com/dims4/default/00bb1f8/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe6%2F99%2Fcd6aa5bc43dcb92588f25d90f16d%2Fgoldsmith-photogallery-13.jpg" />
     <figcaption class="figcaption">
         Caption text here. <figcredit> | John Shinkle/POLITICO </figcredit>
     </figcaption>
 </figure>
-
 ```
 
+## Full span image at all breakpoints
 
-### Full span image at all breakpoints
-
-```html
+```markup
 </article>
 <!-- You must close the article to go full span, and then reopen it. -->
 <figure>
@@ -34,9 +31,9 @@ All images should be wrapped in a figure. All photos should run with a credit. I
 <article class="container">
 ```
 
-### No gutters on the phone
+## No gutters on the phone
 
-```html
+```markup
 <figure class="no-gutters-phone">
     <img src="https://static.politico.com/dims4/default/00bb1f8/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe6%2F99%2Fcd6aa5bc43dcb92588f25d90f16d%2Fgoldsmith-photogallery-13.jpg" />
     <figcaption class="figcaption">
@@ -46,9 +43,9 @@ All images should be wrapped in a figure. All photos should run with a credit. I
 </figure>
 ```
 
-### Diptych
+## Diptych
 
-```html
+```markup
 <div class="diptych">
     <figure>
         <img src="https://static.politico.com/dims4/default/00bb1f8/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe6%2F99%2Fcd6aa5bc43dcb92588f25d90f16d%2Fgoldsmith-photogallery-13.jpg" />
@@ -69,9 +66,9 @@ All images should be wrapped in a figure. All photos should run with a credit. I
 </div>
 ```
 
-### Triptych
+## Triptych
 
-```html
+```markup
 <div class="triptych">
       <figure>
         <img src="https://static.politico.com/dims4/default/00bb1f8/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe6%2F99%2Fcd6aa5bc43dcb92588f25d90f16d%2Fgoldsmith-photogallery-13.jpg" />
@@ -100,6 +97,4 @@ All images should be wrapped in a figure. All photos should run with a credit. I
 <div class="clear"></div>
 </div>
 ```
-
-
 

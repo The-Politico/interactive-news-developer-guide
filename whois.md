@@ -3,15 +3,12 @@
 Important contacts.
 
 | Dev | Email |
-|-----|-------|
-| Jeremy C.F. Lin    | jlin@politico.com      |
-| Tyler Fisher    | tfisher@politico.com       |
-|Sarah Frostenson     | sfrostenson@politico.com      |
-| Jon McClure    | jmcclure@politico.com      |
-| Lily Mihalik | lmihalik@politico.com      |
-
-
----
+| :--- | :--- |
+| Jeremy C.F. Lin | jlin@politico.com |
+| Tyler Fisher | tfisher@politico.com |
+| Sarah Frostenson | sfrostenson@politico.com |
+| Jon McClure | jmcclure@politico.com |
+| Lily Mihalik | lmihalik@politico.com |
 
 ### Interactive News team editors
 
@@ -25,7 +22,7 @@ Important contacts.
 
 ### Web Editors, Core
 
-Reach the entire team at tp-webteam@politico.com \| Producers only:  tp-webproducer@politico.com
+Reach the entire team at tp-webteam@politico.com \| Producers only: tp-webproducer@politico.com
 
 * David Cohen, Web Editor
 * Dianna Dabruzzo, Web Editor
@@ -58,7 +55,6 @@ Reach the entire team at tp-copyeditors@politico.com
   * Permissions and service provisioning
 * Michael Roberts, Chief Architect
 
-
 ### Front-end tech and design
 
 * Chris Buddie, Director of User Experience
@@ -68,5 +64,4 @@ Reach the entire team at tp-copyeditors@politico.com
 
 * Jennifer Plesniak, Help Desk Manager
   * Distribution email addresses, hardware peripherals, software licenses
-
 

@@ -1,4 +1,6 @@
-### Text alignment
+# Aligning text and content wells
+
+## Text alignment
 
 ```css
 .text-align-center{
@@ -14,7 +16,7 @@
 }
 ```
 
-### Aligning content to the main well
+## Aligning content to the main well
 
 ```css
 .content-small{
@@ -42,6 +44,4 @@ width: 100%;
 @include margin-auto;
 }
 ```
-
-
 

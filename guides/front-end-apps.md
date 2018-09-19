@@ -18,9 +18,7 @@ And on the backend, usually...
 
 #### How we got here
 
-We've been building apps at scale in React/Redux for over 3 years. React introduced a more sustainable component architecture to our front-end work and Redux paired with redux-orm created a data model we were comfortable relying on.
-
-Most of our backend code is written in Python and in large part we chose React/Redux because it makes our front-end code feel _more Pythonic_. React components are composable in a way we're used to working with Python's object-oriented model. Redux creates a data control layer that smacks of Django's ORM and redux-orm is just to drive the point all the way home.
+We've been building apps at scale in React/Redux for over 3 years. Most of our backend code is written in Python and in large part we chose React/Redux because it makes our front-end code feel _more Pythonic_. React components are composable in a way we're used to working with Python's object-oriented model. Redux creates a data control layer that smacks of Django's ORM and redux-orm drives that point all the way home.
 
 You may have other opinions. That's great! We've just got deadlines...
 
@@ -54,7 +52,7 @@ A `theme/` directory should contain universal style rules for your app including
 
 #### Content
 
-Any text content should be loaded from a top-level directory. We do this so any content that needs copy-editing is more easily accessible. This includes meta data.
+Any text content should be loaded from a top-level directory. We do this so any content that needs copy-editing is more easily accessible. That includes meta data.
 
 ## Components
 
@@ -163,7 +161,7 @@ components/
 
 #### Separate layout components
 
-Layout components are either containers that simply pass through `props.children` or they compose components in a specific configuration. Generally, they **should not** __create any new props for their children, merely pass through props from a parent component.
+Layout components are containers that either simply pass through `props.children` or they compose components in a specific configuration. Generally, they **should not** __create any new props for their children, merely pass through props from a parent component.
 
 ```text
 components/

@@ -78,7 +78,7 @@ Thereafter, we encourage organizing components by **feature/domain**. The goal i
 
 #### Split components only when they stop doing One Thing™
 
-Divisions for divisions sake can cause unnecessary bloat in a project. We want as shallow component directories as possible, but we also want components that are easy to read through. The latter is the more important, by far.
+Divisions for divisions' sake can cause unnecessary bloat in a project. We want as shallow component directories as possible, but we also want components that are easy to read through. The latter is the more important, by far.
 
 In general, split components that take on too much logic. For example, a component that both maintains a complex state and renders a complex UI representing that data could likely be split into two much more readable components, a "container" managing the state and a "component" responsible for rendering markup.
 
@@ -141,7 +141,7 @@ import Component from '../componentModule';
 import something from '../componentModule/something';
 import somethingElse from '../componentModule/somethingElse';
 // WIRED!
-import Component {something, somethingElse} from '../componentModule';
+import Component, {something, somethingElse} from '../componentModule';
 ```
 
 #### Hoist common components

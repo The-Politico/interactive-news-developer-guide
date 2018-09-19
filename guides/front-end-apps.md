@@ -1,5 +1,5 @@
 ---
-description: Style guide for front-end application architecture
+description: Style guide for front-end application fashion at POLITICO
 ---
 
 # JS apps
@@ -50,7 +50,7 @@ We prefer app state, e.g., Redux actions, reducers and stores, be kept separatel
 
 #### Styles
 
-A `theme/` directory should contain universal style rules for your app including colors, fonts, mixins, etc. We prefer styles that apply to markup be colocated with the components they style and loaded as [CSS modules](https://github.com/css-modules/css-modules).
+A `theme/` directory should contain universal style rules for your app including colors, fonts, mixins, etc. We prefer SCSS be colocated with the components they style and loaded as [CSS modules](https://github.com/css-modules/css-modules).
 
 #### Content
 
@@ -60,7 +60,7 @@ Any text content should be loaded from a top-level directory. We do this so any 
 
 #### Hierarchy
 
-We use a combination of hierarchy by **type/function** and **feature/domain**.
+We use a combination of hierarchy by **type/function** and **feature/domain.** [\(On the difference.\)](https://marmelab.com/blog/2015/12/17/react-directory-structure.html)
 
 At the top level, we nest strictly by **type** under any routes or views, respectively.
 
@@ -74,7 +74,19 @@ components/
     
 ```
 
-Thereafter, we encourage organizing components by **feature/domain**. The goal is to keep directories as shallow as possible below views but also to **collocate** related files so no one directory gets too large or unwieldy. Use your discretion.
+\(We consider routes and views as the highest divisions in single-page architecture. They're components that change the _root_ of an app -- often not including page furniture like a header or footer. The difference between the two is that a route updates the window location in the URL and can be navigated back to directly. A view doesn't and can't.\)
+
+Thereafter, we encourage organizing components by **feature/domain**. The goal is to keep directories as shallow as possible but also to **collocate** related files so no one directory gets too large or unwieldy.
+
+#### Split components only when they stop doing One Thing™
+
+Divisions for divisions sake can cause unnecessary bloat in a project. We want as shallow component directories as possible, but we also want components that are easy to read through. The latter is the more important, by far.
+
+In general, split components that take on too much logic. For example, a component that both maintains a complex state and renders a complex UI representing that data could likely be split into two much more readable components, a "container" managing the state and a "component" responsible for rendering markup.
+
+We prefer components with props over complicated if/then patterns. If you're nesting ternaries in your component's render function, it's a good clue you should be decomposing that component.
+
+Again, the golden rule is to write code to be read. **Elegance is less important than legibility is more important than conventions.**
 
 #### No useless folders
 
@@ -121,6 +133,17 @@ const Stack = (props) => {
   );
 }
 
+```
+
+[It's a good idea](https://jaysoo.ca/2016/02/28/organizing-redux-application/#rule-2-create-strict-module-boundaries) that all peer modules _only_ import directly from a module's index.js.
+
+```javascript
+// Tired
+import Component from '../componentModule';
+import something from '../componentModule/something';
+import somethingElse from '../componentModule/somethingElse';
+// WIRED!
+import Component {something, somethingElse} from '../componentModule';
 ```
 
 #### Hoist common components
@@ -239,9 +262,7 @@ Don't define component styles here.
 
 #### On using CSS modules for component styles
 
-CSS module spec makes sure styles are prefixed and scoped just to the component they apply to.
-
-
+CSS module spec makes sure styles are prefixed and scoped just to the component they apply to. As a side effect, the spec makes deep inheritance hard. For example, it's difficult to define a condition style on a component that's based on a parent's class names. That's actually a feature. Pass props to components so you can define any classes they need in the component itself. It helps make your styles more explicit and easier to read.
 
 ## Content
 
@@ -259,7 +280,7 @@ const Intro () => (
 );
 ```
 
-Use the [raw-loader](https://github.com/webpack-contrib/raw-loader) to load strings from txt files for small textual.
+Use the [raw-loader](https://github.com/webpack-contrib/raw-loader) to load strings from txt files for small text.
 
 ```javascript
 import Description from 'Content/meta/decsription.txt';

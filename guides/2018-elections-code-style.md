@@ -28,7 +28,7 @@ Continues to be `politico-civic-*`.
 
 ### Linting
 
-Is required. Use ESLint in the editor of your choice.
+Is required. Use [ESLint](https://eslint.org/) in the editor of your choice for JavaScript. Use [Black](https://black.readthedocs.io/en/stable/) for Python.
 
 ### READMEs
 

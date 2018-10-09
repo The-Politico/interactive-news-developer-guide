@@ -40,3 +40,5 @@ For **dataviz modules**, be sure to always update the README with the public API
 
 Will happen in [CodeTree](https://codetree.com/projects/jwX2/), based on issues in GitHub.
 
+Because issues are the primary way of tracking development in CodeTree, every repo should have at least one issue that is **"Push to production."**
+

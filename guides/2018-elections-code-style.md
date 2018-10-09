@@ -6,7 +6,7 @@ description: Essential conventions for keeping your coworkers sane.
 
 ### Repository naming conventions
 
-For front-end projects, generally, the convention uses the namespace \`elections-2018\`.
+Generally, back-end projects use existing naming conventions. Front-end projects use the namespace `elections-2018`.
 
 #### Lambda front-ends
 

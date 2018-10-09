@@ -13,6 +13,7 @@
   * [Reviewing a project](workflow/reviewing-a-project.md)
 * [Guides](guides/README.md)
   * [JS apps](guides/front-end-apps.md)
+  * [2018 elections code style](guides/2018-elections-code-style.md)
 * [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)
 * [Tipsheets](tipsheets/README.md)

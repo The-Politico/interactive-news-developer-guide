@@ -173,7 +173,40 @@ components/
     map/
 ```
 
-##  Stores
+#### Styling components
+
+We use the CSS Module spec to scope styles to the components they belong to, but we also use SCSS conventions to allow us to leverage complex class inheritance.
+
+Our convention is to scope CSS Module styles to the component and then define all descendent styles as global definitions within that scope.
+
+Generally, components should define their styles in a `styles.scss` file that is scoped to a `.component` class.
+
+```css
+.component :global{
+  color: red;
+  /* A child component */
+  .blue{
+    color:blue;
+  }
+}
+```
+
+Components will then import those styles and attach the component class to the outermost wrapper element. 
+
+```javascript
+import styles from './styles.scss';
+
+const Component = () => (
+  <div className={styles.component}>
+    <p>This text will be red.</p>
+    <p className='blue'>This text will be blue!<p>
+  </div>
+);
+```
+
+The CSS module spec makes cross-component inheritance hard. For example, it's almost impossible to define a conditional style on any component that's based on its parent component's class names. **That's actually a feature!** Pass props to components so you can define any classes they need in the component itself. It helps make your styles more explicit and easier to read.
+
+## Stores
 
 Our structure for stores is [ducks](https://github.com/erikras/ducks-modular-redux)-ish in that we don't split Redux folders by type. Group them instead by branch of the app state, with one notable exception for redux-orm models.
 
@@ -257,10 +290,6 @@ If you can, [connect](https://redux.js.org/basics/usagewithreact#implementing-co
 Define universal styles here, including fonts and default typography rules, color variables and classes, etc.
 
 Don't define component styles here.
-
-#### On using CSS modules for component styles
-
-CSS module spec makes sure styles are prefixed and scoped just to the component they apply to. As a side effect, the spec makes deep inheritance hard. For example, it's difficult to define a condition style on a component that's based on a parent's class names. That's actually a feature. Pass props to components so you can define any classes they need in the component itself. It helps make your styles more explicit and easier to read.
 
 ## Content
 

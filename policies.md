@@ -41,6 +41,16 @@ In addition, we'd like to add a few extra guidelines specific to this team's wor
 * Be willing to criticize your code dispassionately, but passionately defend the goals of your project.
 * Critically evaluate the process as much as the product. Anything we do once, we'll do again.
 
+## Publishing outside politico.com
+
+One of best parts of working on this team is that we can proudly represent our work to our peers. We encourage you to take advantage of that opportunity to write about what you do, both the technical and philosophical aspects of your work, in trade journals, magazines and on social media. It makes us more thoughtful about what we do, opens up communications channels that help us learn from others and increases our profile in the community.
+
+It's equally important that we acknowledge our professional reputation is intertwined with the company that employs us when we post our thoughts online.
+
+In order to head-off conflicts and \(oftentimes worse\) surprises, **you must send your editors the full text of any posts that will be published in a trade magazine or site or that will be published with your job title**. If you have an editor working with you at the trade publication, you should send your POLITICO editors both your draft before first review and the last edited draft before publishing. Your editors will share those drafts with others in the company and may ask you to make changes. In most cases, our edits will simply be designed to help sharpen your thoughts, but we may also have to intercede to deconflict them with the public representation of the team or the company. In an extreme case, we may have to ask you not to publish the piece.
+
+This policy only applies to publication in trade magazines or sites. For posts on social media, seek out POLITICO's official social media policy for guidance. For any other questions seek out HR. As always, any POLITICO policy supersedes this one. Make sure you know what applies to your case.
+
 ## Corrections
 
 It happens. When it does, we want to act fast and surely. Haphazardly correcting mistakes may lead to more and hampers our ability to learn from them.

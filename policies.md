@@ -24,7 +24,7 @@ Sometimes you need to work outside the office, and that's OK. Remote work is ine
 
 If you need to work from home due to a personal errand, like overseeing apartment maintenance or collecting a package, you can. You'll be expected to be available by Slack and, it goes without saying, actually working. Please limit your time away to a partial day like a morning or an afternoon. You must clear off-site time with an editor before the day you intend to take it.
 
-While we want to be in the newsroom on a daily basis, the usual newsroom buzz can also be distracting if you're charging down a complicated project. Taking a "tunnel day" is a way to unplug and concentrate on a specific project deadline. To take a tunnel day, you must set clear goals with an editor and check-in with progress at least once during your day. These are very rare privileges, indeed, but equally useful sometimes to get a project over the line.
+While we want to be in the newsroom on a daily basis, the usual newsroom buzz can also be distracting if you're charging down a complicated project. Taking a "tunnel day" is a way to unplug and concentrate on a specific project deadline. To take a tunnel day, you must set clear goals with an editor and check-in with progress at least once during your day. This is a rarer privilege but useful sometimes to get a project over the line.
 
 ## Time off approval
 

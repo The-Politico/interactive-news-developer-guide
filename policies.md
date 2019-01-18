@@ -1,6 +1,8 @@
-# Policies
+---
+description: Enumerated policies of Interactive News
+---
 
-These are the essential, enumerated policies of our team.
+# Policies
 
 ## Working hours
 

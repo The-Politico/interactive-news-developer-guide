@@ -1,5 +1,7 @@
 # Useful QGIS and Illustrator Hacks
 
+B_y Jeremy C. F. Lin_
+
 ## Useful QGIS Hacks
 
 ![](../.gitbook/assets/screen-shot-2017-10-03-at-11.47.29-am.png)

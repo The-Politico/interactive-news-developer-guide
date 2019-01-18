@@ -1,6 +1,8 @@
-# Infrastructure
+---
+description: Brief guide to Interactive News infrastructure
+---
 
-Brief guide to our infrastructure.
+# Infrastructure
 
 ## Static page publishing
 

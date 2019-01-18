@@ -1,5 +1,9 @@
 # AI2HTML
 
+_By Jeremy C. F. Lin_
+
+
+
 Repo w/ artboards and key elements outlined below: [https://github.com/The-Politico/tool\_ai2html](https://github.com/The-Politico/tool_ai2html)
 
 ## Steps:

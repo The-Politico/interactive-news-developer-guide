@@ -2,7 +2,7 @@
 description: Essential conventions for keeping your coworkers sane.
 ---
 
-# 2018 elections code style
+# 2018 elections apps style
 
 ### Repository naming conventions
 

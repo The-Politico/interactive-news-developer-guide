@@ -4,7 +4,7 @@ description: Important contacts you should know
 
 # WHOIS
 
-### Interactives news
+### Interactive news
 
 | Dev | Email | Title |
 | :--- | :--- | :--- |

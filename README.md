@@ -10,13 +10,13 @@ Hosted by GitBook [here](https://politico.gitbooks.io/politico-newsroom-develope
 
 ### Contents
 
+* 🚨 [**BREAK GLASS**](break-glass.md) ****🚨 - For producers and editors, what do if an interactive page or tools breaks
 * [**Policies**](policies.md) - What you need to know
 * [**Workflow**](workflow/) - General guidelines for how we work
 * \*\*\*\*[**Guides**](guides/) - POLITICO interactive web and code fashions
 * [**Infrastructure**](infrastructure.md) - Where we build
 * [**WHOIS**](whois.md) - Critical contacts for working in the newsroom
 * [**Tipsheets**](tipsheets/) - Useful tips and tricks
-* 🚨 [**BREAK GLASS**](break-glass.md) ****🚨 - For producers and editors, what do if an interactive page or tools breaks
 
 ### Version
 

@@ -8,23 +8,26 @@ description: Important contacts you should know
 
 | Dev | Email | Title |
 | :--- | :--- | :--- |
-| Andrew Briz | abriz@politico.com | News apps developer |
-| Beatrice Jin | bjin@politico.com | Graphics reporter |
-| Jon McClure | jmcclure@politico.com | Interactive news editor |
-| Lily Mihalik | lmihalik@politico.com | Editor for news design |
+| Andrew Briz | abriz | News apps developer |
+| Beatrice Jin | bjin | Graphics reporter |
+| Jon McClure | jmcclure | Interactive news editor |
+| Lily Mihalik | lmihalik | Editor for news design |
 
+### Web Team 
 
+Reach the entire team at with this list  tp-webteam
 
-### Web Editors, Core
+* Alexandra Manzano, Director of Strategy and News Operations
 
-Reach the entire team at tp-webteam@politico.com \| Producers only: tp-webproducer@politico.com
+### Engagement
 
-* David Cohen, Web Editor
-* David Kihara, Web Editor
+Reach the entire team at with this list  tp-engagement
+
+* Annie Yu, Director of Engagement
 
 ### Copy editors
 
-Reach the entire team at tp-copyeditors@politico.com
+Reach the entire team at tp-copyeditors
 
 * Sushant Sagar, Copy editor
 * Andy Goodwin, Copy editor
@@ -36,11 +39,6 @@ Reach the entire team at tp-copyeditors@politico.com
 ### Advertising tech
 
 * Walt Houseknecht, Director of Advertising Operations
-
-### Social team
-
-* Ali Manzano, Editorial Director for Strategy and Operations 
-* Annie Yu, Director of Engagement
 
 ### AWS
 
@@ -55,6 +53,10 @@ Reach the entire team at tp-copyeditors@politico.com
 
 ### Helpdesk
 
+Reach the entire team at with this list  tp-helpdesk
+
 * Jennifer Plesniak, Help Desk Manager
   * Distribution email addresses, hardware peripherals, software licenses
+
+
 

@@ -1,5 +1,5 @@
 ---
-description: Style guide for front-end application fashion at POLITICO
+description: Style guide for front-end application fashion at POLITICO.
 ---
 
 # JS apps

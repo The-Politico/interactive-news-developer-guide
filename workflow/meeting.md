@@ -1,3 +1,7 @@
+---
+description: 'How, when and why we meet'
+---
+
 # Meeting
 
 Meetings are important. They're also susceptible to abuse or becoming stale.

@@ -2,8 +2,8 @@
 
 Good ideas can come from anywhere. Our workflow process has two simple goals:
 
-1. Keep all creative avenues open to you.
-2. Help you make time management decisions in the open.
+1. Keep all creative avenues open to you
+2. Help you make time management decisions in the open
 
 ## Sources
 

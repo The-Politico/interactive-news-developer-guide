@@ -8,7 +8,7 @@ description: In-depth documentation
 
 The definitive guide to POLITICO interactive web fashions
 
-### [JS app style guide](front-end-apps.md)
+### [JS apps style guide](front-end-apps.md)
 
 A structuralist's guide to front-end application architecture at POLITICO
 

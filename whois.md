@@ -13,7 +13,7 @@ description: Important contacts you should know
 | Jon McClure | jmcclure | Interactive News Editor |
 | Lily Mihalik | lmihalik | Editor for News Design |
 
-## Contacts: Slack 
+## Contacts: Start with slack, emails are listed below 
 
 ### Digital Team  [\#homepage](https://politicobn.slack.com/messages/C9GCE9QR0)
 

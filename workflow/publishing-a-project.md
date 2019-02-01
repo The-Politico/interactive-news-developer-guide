@@ -42,6 +42,22 @@ Make sure you've done all these things on your project before you publish.
 * [ ] Talk with your editor about whether we will make this repo public after publishing.
 * [ ] If you're working on an existing project, push your code to a branch which will be merged into master after a code review with your editor.
 
+### **Make a story shell in the cms**
+
+Here’s how to create a shell for Interactives:
+
+* go to the cms
+* Create “Shell article”
+* Put the URL of the interactive in the URL field
+* Put the headline in the Headline field
+* Put the Dek \(if there is one\) in the Dek and Tease fields
+* Attach a photo/gif/illustration \(the interactives team may provide this\)
+* Add the reporters who are listed on the interactive to the Byline
+* Give in the Flag “Interactives”
+* Give it a Category
+* Use all applicable tags for the shell, like you would any other article. Included in the tags should be **“Interactives,”** which will keep all of those graphic stories on a separate tag page and create an icon for the homepage when the interactive is displayed.
+* Publish. 
+
 ### Notify
 
 #### →  Homepage
@@ -56,17 +72,17 @@ If you're working with the pro team, cc them on this email at `tp-proweb@politic
 
 _**Story info section**_
 
-* A request for a story shell
+* Send them a link and the ID of your story shell.
 * Run date and time
 * Headline, please note if it is not finalized
 * Dek, if applicable
 * The live url
-* Preview link \(ngrok\)
+* Preview url, if not live
 * Please outline _if_ alert should be sent. Not sure? Ask the editor.
   * Include alert text, if you have it
-* Homepage editors will select lede art for the HP display. The aspect ratio of the image is **16x9** or **1160x629**
+* Homepage editors will select lede art for the HP display. The aspect ratio of the image is **16x9** or **1160x773**
 * If you are working on a graphic, please attach 1-2 options for when the story moves out of the lede spot and into the _b section_.
-  * These should be cut to **1160x629**, but will run at a width of ~200px. 
+  * These should be cut to **1160x773**, but will run at a width of ~200px. 
     * Images should have minimal text 
     * They should clearly suggest to the reader that the story has graphical elements. Ie:
 

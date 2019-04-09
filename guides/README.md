@@ -12,3 +12,6 @@ The definitive guide to POLITICO interactive web fashions
 
 A structuralist's guide to front-end application architecture at POLITICO
 
+### [The POLITICO Interactives Build Suite](pibs/README.md)
+
+A guide to creating off-platform interactive pages in 2019.

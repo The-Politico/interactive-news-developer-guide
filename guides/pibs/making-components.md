@@ -77,4 +77,4 @@ Then use it in the JSX for your `Page` component like this:
 <Greeting />
 ```
 
-For more on the POLITICO component module style, check out [those docs](../front-end-apps).
+For more on the POLITICO component module style, check out [those docs](../front-end-apps.md).

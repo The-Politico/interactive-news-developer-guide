@@ -30,5 +30,7 @@ These are values used for UTag. They should mostly be left as is unless you know
 ### `published` & `updated`
 These values will be set automatically when you publish (or update) your interactive. You can manually set this to an ISO string in Zulu time which looks like this: `2019-04-09T19:43:35.259Z`. They can also each be set to `null` to not be displayed.
 
+If you need help converting to an ISO string, you can use [this demo](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString). Type your string in line one (take note of the timezone you're using), and click `Run >`. You should see your ISO string as the second output in the console.
+
 ### `authors`
 `authors` should be an array of objects with two keys: `link` and `name`. This array will be used for UTag data and will also be rendered with their links in your page's header.

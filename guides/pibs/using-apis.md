@@ -9,13 +9,19 @@ The first thing to do is register your data source. This will differ slightly de
 
 Before registering, create a new Google Doc in [this folder](https://drive.google.com/drive/folders/1LwuTm5ueV-gvIma0Up5opkbUqK0WTbmV). You should also create a folder for your project and place any docs in there. The docs will automatically be shared with the whole team.
 
+If you're unable to save the doc in our shared folder, make sure to share it with the team's service account the same way you would share a doc with any other Google user (you can read more about [Google Service Accounts here](https://cloud.google.com/iam/docs/understanding-service-accounts)):
+
+```
+politico-interactives@politico-interactives-228617.iam.gserviceaccount.com
+```
+
 To register the Google Doc, run the following:
 
 ```
 $ yarn api new
 ```
 
-It'll first ask you for a name. You can name it anything you'd like, but you should probably refrain from using spaces to make importing it into your JavaScript easier.
+It’ll first ask you for a name. Name it, but refrain from using spaces in the name to make importing it into your JavaScript easier.
 
 Next, choose `Archie Doc` or `Google Sheet` as the type.
 

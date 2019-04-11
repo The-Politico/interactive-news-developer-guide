@@ -9,7 +9,7 @@ Hit enter to see the code appear. **Don't click anywhere**. Just begin typing `M
 ```javascript
 import React from 'react';
 
-const MyName = (props) => (
+const MyName = props => (
   <div />
 );
 
@@ -37,6 +37,42 @@ Then you can use it in the JSX for your `Page` component like this:
 ```javascript
 <MyName name="Andrew" />
 ```
+
+After all that, you should have two files that look like this:
+```JavaScript
+/* src/components/index/MyName.jsx */
+import React from 'react';
+
+const MyName = props => (
+  <p>Hello! My name is {props.name}.</p>
+);
+
+export default MyName;
+```
+```javascript
+/* src/components/index/page.js */
+
+// ... other imports
+
+import MyName from './MyName';
+
+class Page extends React.Component {
+  render() {
+    return (
+      // ...other elements
+
+      <MyName name="Andrew" />
+
+      // ...other elements
+    );
+  }
+}
+
+export default Page;
+
+export { Helmet } from 'react-helmet';
+```
+
 
 If you save this, you should see a paragraph on your page that reads:
 ```

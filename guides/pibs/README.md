@@ -11,16 +11,16 @@ Rather than explain what each one does individually, this guide will focus using
 
 Let's get started!
 
-- [Getting Set Up](getting-set-up.md)
-- [Starting An Interactive Page](starting-an-interactive.md)
-- [Working Within Your Interactive Project](working-within-pib.md)
-- [Using Components](using-components.md)
-- [Making Components](making-components.md)
-- [Getting Data Into Your Interactive](using-apis.md)
-- [Publishing An Interactive](publishing-an-interactive.md)
-- [Publishing To GitHub](publishing-to-github.md)
+* [Getting Set Up](getting-set-up.md)
+* [Starting An Interactive Page](starting-an-interactive.md)
+* [Working Within Your Interactive Project](working-within-pib.md)
+* [Using Components](using-components.md)
+* [Making Components](making-components.md)
+* [Getting Data Into Your Interactive](using-apis.md)
+* [Publishing An Interactive](publishing-an-interactive.md)
+* [Publishing To GitHub](publishing-to-github.md)
 
 Quick References:
-- [Using Aliases](aliases.md)
-- [Working With Metadata](working-with-meta.md)
-- [More Templates](templates.md)
+* [Using Aliases](aliases.md)
+* [Working With Metadata](working-with-meta.md)
+* [More Templates](templates.md)

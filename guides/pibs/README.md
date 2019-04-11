@@ -7,7 +7,7 @@ The POLITICO Interactives Build Suite (PIBS) is a collection of libraries that p
 - [`@politico/interactive-code-snippets`](https://github.com/The-Politico/politico-interactive-code-snippets)
 - [`@politico/eslint-config-interactives`](https://github.com/The-Politico/eslint-config-interactives)
 
-Rather than explain what each one does individually, this guide will focus using them in tandem with each other. (For a more detailed explanation on how to use each, check out their respective docs.)
+Rather than explain what each one does individually, this guide will focus using them in tandem. (For a more detailed explanation on how to use each, check out their respective docs.)
 
 Let's get started!
 

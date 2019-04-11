@@ -16,7 +16,7 @@ const MyName = props => (
 export default MyName;
 ```
 
-Then replace the `<div />` with the following:
+Then, replace the `<div />` with the following:
 
 ```html
 <p>Hello! My name is {props.name}.</p>
@@ -32,7 +32,7 @@ First it must be imported with:
 import MyName from './MyName';
 ```
 
-Then you can use it in the JSX for your `Page` component like this:
+Then, you can use it in the JSX for your `Page` component like this:
 
 ```javascript
 <MyName name="Andrew" />
@@ -81,7 +81,7 @@ Hello! My name is Andrew.
 
 ## Making Component Modules
 
-Many times custom components have their own components inside them. They may also have separate style files used to style them. In either case, you should make not just a component but a **component module.**
+Often custom components have their own components inside them. They may also have separate style files used to style them. In either case, you should make not just a component but a **component module.**
 
 POLITICO component modules are directories that look like this:
 ```
@@ -112,5 +112,76 @@ Then use it in the JSX for your `Page` component like this:
 ```javascript
 <Greeting />
 ```
+
+After all this, your files should look like this:
+```JavaScript
+/* src/components/index/Greeting/MyName.jsx */
+import React from 'react';
+
+const MyName = props => (
+  <p>Hello! My name is {props.name}.</p>
+);
+
+export default MyName;
+```
+
+```JavaScript
+/* src/components/index/Greeting/index.js */
+import React from 'react';
+import classnames from 'classnames';
+
+import MyName from './MyName'
+
+import { styles } from './styles.scss';
+
+class Greeting extends React.Component {
+  constructor (props) {
+    super(props);
+  }
+
+
+  render () {
+    return (
+      <div className={classnames('Greeting', styles)}>
+        <MyName name="Andrew" />
+      </div>
+    );
+  }
+}
+
+export default Greeting;
+```
+
+```css
+/* src/components/index/Greeting/styles.scss */
+.styles :global {
+
+}
+```
+
+```JavaScript
+/* src/components/index/page.js */
+
+// ... other imports
+
+import Greeting from './Greeting';
+
+class Page extends React.Component {
+  render() {
+    return (
+      // ...other elements
+
+      <Greeting />
+
+      // ...other elements
+    );
+  }
+}
+
+export default Page;
+
+export { Helmet } from 'react-helmet';
+```
+
 
 For more on the POLITICO component module style, check out [those docs](../front-end-apps.md).

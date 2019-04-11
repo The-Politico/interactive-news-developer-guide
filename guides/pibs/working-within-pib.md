@@ -1,12 +1,12 @@
 # Working Within Your Interactive Project
 
-PIB relies on strict naming conventions to keep you organized. These naming conventions apply to all PIB-powered projects. The most important file that uses these conventions here:  `src/components/index/page.js`
+PIB relies on strict naming conventions to keep you organized. The most important file that uses these conventions here:  `src/components/index/page.js`
 
 This file will contain the React code that makes up your page. You should see some basic React code in there now. Go ahead and add some to see your preview page change.
 
 ## Non-React Client Code
 
-You should also see a file in `src/components/index/client.js`. This file can contain JavaScript code that will run after your `Page` is component is done mounting. You don't need to worry about waiting for page loads in your code.
+You should also see a file in `src/components/index/client.js`. This file can contain JavaScript code that will run after your `Page` is component is done [mounting](https://stackoverflow.com/questions/31556450/what-is-mounting-in-react-js). You may be used to writing `DOMContentLoaded` listeners or using `$.ready()` to wait for the page to load. You don't have to worry about for the code in this file. It will only run after your page is done loading.
 
 You can use this file to initialize D3 graphics, add event listeners, or run any other JavaScript.
 

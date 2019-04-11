@@ -1,6 +1,8 @@
-# Getting Set Up
+---
+description: Before you can start using PIBS, you'll need to make sure a few things are set up on your computer first.
+---
 
-Before you can start using PIBS, you'll need to make sure a few things are set up on your computer first.
+# Getting Set Up
 
 ## Before You Start
 

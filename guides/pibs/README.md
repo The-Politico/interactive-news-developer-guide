@@ -1,13 +1,14 @@
 # The POLITICO Interactives Build Suite
 
-The POLITICO Interactives Build Suite (PIBS) is a collection of libraries that power the creation of our off-platform web pages in 2019. These libraries include:
-- [`@politico/interactive-bin`](https://github.com/The-Politico/politico-interactive-bin) (pib)
-- [`@politico/interactive-templates`](https://github.com/The-Politico/politico-interactive-templates) (pit)
-- `@politico/interactive-style` (coming soon...)
-- [`@politico/interactive-code-snippets`](https://github.com/The-Politico/politico-interactive-code-snippets)
-- [`@politico/eslint-config-interactives`](https://github.com/The-Politico/eslint-config-interactives)
+The POLITICO Interactives Build Suite \(PIBS\) is a collection of libraries that power the creation of our off-platform web pages in 2019. These libraries include:
 
-Rather than explain what each one does individually, this guide will focus using them in tandem. (For a more detailed explanation on how to use each, check out their respective docs.)
+* [`@politico/interactive-bin`](https://github.com/The-Politico/politico-interactive-bin) \(pib\)
+* [`@politico/interactive-templates`](https://github.com/The-Politico/politico-interactive-templates) \(pit\)
+* `@politico/interactive-style` \(coming soon...\)
+* [`@politico/interactive-code-snippets`](https://github.com/The-Politico/politico-interactive-code-snippets)
+* [`@politico/eslint-config-interactives`](https://github.com/The-Politico/eslint-config-interactives)
+
+Rather than explain what each one does individually, this guide will focus using them in tandem. \(For a more detailed explanation on how to use each, check out their respective docs.\)
 
 Let's get started!
 
@@ -21,6 +22,8 @@ Let's get started!
 * [Publishing To GitHub](publishing-to-github.md)
 
 Quick References:
+
 * [Using Aliases](aliases.md)
 * [Working With Metadata](working-with-meta.md)
 * [More Templates](templates.md)
+

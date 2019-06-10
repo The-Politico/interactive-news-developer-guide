@@ -2,9 +2,9 @@
 
 You can create custom components to organize and maintain your code as well as share those components easily with the rest of the team.
 
-Start by making a new file in `src/components/index` called `MyName.jsx` (generally component files should be capitalized). Then begin typing `comp-func`. If you have your snippets set up (see [Getting Set Up](getting-set-up.md)) you should see a snippet appear.
+Start by making a new file in `src/components/index` called `MyName.jsx` \(generally component files should be capitalized\). Then begin typing `comp-func`. If you have your snippets set up \(see [Getting Set Up](getting-set-up.md)\) you should see a snippet appear.
 
-Hit enter to see the code appear. **Don't click anywhere**. Just begin typing `MyName` (generally the name of the component should match the name of the file). This should appear in two places in the file, which should now look like this:
+Hit enter to see the code appear. **Don't click anywhere**. Just begin typing `MyName` \(generally the name of the component should match the name of the file\). This should appear in two places in the file, which should now look like this:
 
 ```javascript
 import React from 'react';
@@ -18,11 +18,11 @@ export default MyName;
 
 Then, replace the `<div />` with the following:
 
-```html
+```markup
 <p>Hello! My name is {props.name}.</p>
 ```
 
-The code `{props.name}` will display the `name` that is passed to the component once it's used (for more on React props check [the official docs](https://reactjs.org/docs/components-and-props.html)).
+The code `{props.name}` will display the `name` that is passed to the component once it's used \(for more on React props check [the official docs](https://reactjs.org/docs/components-and-props.html)\).
 
 Now that it's created, you can use it in your `src/components/index/page.js` file.
 
@@ -39,7 +39,8 @@ Then, you can use it in the JSX for your `Page` component like this:
 ```
 
 After all that, you should have two files that look like this:
-```JavaScript
+
+```javascript
 /* src/components/index/MyName.jsx */
 import React from 'react';
 
@@ -49,6 +50,7 @@ const MyName = props => (
 
 export default MyName;
 ```
+
 ```javascript
 /* src/components/index/page.js */
 
@@ -73,9 +75,9 @@ export default Page;
 export { Helmet } from 'react-helmet';
 ```
 
-
 If you save this, you should see a paragraph on your page that reads:
-```
+
+```text
 Hello! My name is Andrew.
 ```
 
@@ -84,7 +86,8 @@ Hello! My name is Andrew.
 Often custom components have their own components inside them. They may also have separate style files used to style them. In either case, you should make not just a component but a **component module.**
 
 POLITICO component modules are directories that look like this:
-```
+
+```text
 ComponentName
   ├── index.js
   ├── styles.scss
@@ -114,7 +117,8 @@ Then use it in the JSX for your `Page` component like this:
 ```
 
 After all this, your files should look like this:
-```JavaScript
+
+```javascript
 /* src/components/index/Greeting/MyName.jsx */
 import React from 'react';
 
@@ -125,7 +129,7 @@ const MyName = props => (
 export default MyName;
 ```
 
-```JavaScript
+```javascript
 /* src/components/index/Greeting/index.js */
 import React from 'react';
 import classnames from 'classnames';
@@ -159,7 +163,7 @@ export default Greeting;
 }
 ```
 
-```JavaScript
+```javascript
 /* src/components/index/page.js */
 
 // ... other imports
@@ -183,5 +187,5 @@ export default Page;
 export { Helmet } from 'react-helmet';
 ```
 
-
 For more on the POLITICO component module style, check out [those docs](../front-end-apps.md).
+

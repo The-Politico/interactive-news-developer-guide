@@ -1,6 +1,6 @@
 # Working Within Your Interactive Project
 
-PIB relies on strict naming conventions to keep you organized. The most important file that uses these conventions here:  `src/components/index/page.js`
+PIB relies on strict naming conventions to keep you organized. The most important file that uses these conventions here: `src/components/index/page.js`
 
 This file will contain the React code that makes up your page. You should see some basic React code in there now. Go ahead and add some to see your preview page change.
 
@@ -16,4 +16,5 @@ The `page.js` file located within `src/components/index` will appear at the root
 
 For example, if you make the file `src/components/about/page.js`, then its content will appear on `https://politico.com/<YOUR_PUBLISH_PATH>/about/`.
 
-**Making new `page.js` files will require you to restart your development server in order to see them.**
+**Making new** `page.js` **files will require you to restart your development server in order to see them.**
+

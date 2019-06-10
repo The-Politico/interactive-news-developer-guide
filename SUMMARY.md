@@ -28,6 +28,7 @@
 * [Infrastructure](infrastructure.md)
 * [WHOIS](whois.md)
 * [Tipsheets](tipsheets/README.md)
+  * [Onboarding](tipsheets/onboarding.md)
   * [Welcome to the CMS](tipsheets/cms-embeds/README.md)
     * [Logging in to the CMS](tipsheets/cms-embeds/getting-set-up-in-the-cms.md)
     * [Ask a web producer](tipsheets/cms-embeds/ask-a-web-producer.md)
@@ -35,3 +36,4 @@
     * [Hide the cube ad on desktop](tipsheets/cms-embeds/hide-the-cube-ad-on-desktop.md)
   * [AI2HTML](tipsheets/how-to-use-ai2html-in-an-interactiveembed.md)
   * [Useful QGIS and Illustrator Hacks](tipsheets/useful-qgis-and-illustrator-hacks.md)
+

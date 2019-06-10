@@ -1,5 +1,7 @@
 ---
-description: Before you can start using PIBS, you'll need to make sure a few things are set up on your computer first.
+description: >-
+  Before you can start using PIBS, you'll need to make sure a few things are set
+  up on your computer first.
 ---
 
 # Getting Set Up
@@ -8,8 +10,8 @@ description: Before you can start using PIBS, you'll need to make sure a few thi
 
 Even before starting the setup process, you'll need the following information:
 
-| Name       | Description           | Key  |
-| ------------- | ------------- | ----- |
+| Name | Description | Key |
+| :--- | :--- | :--- |
 | AWS Access Key | One of two keys needed to authenticate into AWS. | `AWS_ACCESS_KEY_ID` |
 | AWS Secret Access Key | One of two keys needed to authenticate into AWS. | `AWS_SECRET_ACCESS_KEY` |
 | AWS CloudFront Distribution | The ID needed to pass invalidations to CloudFront. | `AWS_CLOUDFRONT_DISTRIBUTION` |
@@ -19,15 +21,15 @@ These four keys should be in the credentials package you received when you first
 
 You'll also need this information too, but it's not sensitive so we can publish it on the web:
 
-| Name       | Description           | Key  | Value |
-| ------------- | ------------- | ----- | ---- |
-| Bucket Name (default)| The default bucket used if no environment is specified (we default to staging to be safe). | `DEFAULT AWS_BUCKET_NAME` | `staging.interactives.com`
-| Base URL (default) | The URL to that default bucket. | `DEFAULT AWS_BASE_URL` | `https://s3.amazonaws.com/staging.interactives.politico.com`
-| Bucket Name (staging)| The name of our staging bucket. | `STAGING AWS_BUCKET_NAME` | `staging.interactives.com`
-| Base URL (staging) | The URL to the staging bucket. | `STAGING AWS_BASE_URL` | `https://s3.amazonaws.com/staging.interactives.politico.com`
-| Bucket Name (production)| The name of our production bucket. | `PRODUCTION AWS_BUCKET_NAME` | `interactives.politico.com`
-| Base URL (production) | The URL to the production bucket. | `PRODUCTION AWS_BASE_URL` | `https://politico.com/`
-| Google Client Email | The email account name of our team's Google service account | `GAPI_CLIENT_EMAIL` | `politico-interactives@politico-interactives-228617.iam.gserviceaccount.com`
+| Name | Description | Key | Value |
+| :--- | :--- | :--- | :--- |
+| Bucket Name \(default\) | The default bucket used if no environment is specified \(we default to staging to be safe\). | `DEFAULT AWS_BUCKET_NAME` | `staging.interactives.com` |
+| Base URL \(default\) | The URL to that default bucket. | `DEFAULT AWS_BASE_URL` | `https://s3.amazonaws.com/staging.interactives.politico.com` |
+| Bucket Name \(staging\) | The name of our staging bucket. | `STAGING AWS_BUCKET_NAME` | `staging.interactives.com` |
+| Base URL \(staging\) | The URL to the staging bucket. | `STAGING AWS_BASE_URL` | `https://s3.amazonaws.com/staging.interactives.politico.com` |
+| Bucket Name \(production\) | The name of our production bucket. | `PRODUCTION AWS_BUCKET_NAME` | `interactives.politico.com` |
+| Base URL \(production\) | The URL to the production bucket. | `PRODUCTION AWS_BASE_URL` | `https://politico.com/` |
+| Google Client Email | The email account name of our team's Google service account | `GAPI_CLIENT_EMAIL` | `politico-interactives@politico-interactives-228617.iam.gserviceaccount.com` |
 
 ## Setting Up PIB
 
@@ -37,13 +39,13 @@ Make sure you have Node installed on your computer by typing `node --version` in
 
 Then, install PIB by typing the following into a terminal window:
 
-```
+```text
 $ npm install -g @politico/interactive-bin
 ```
 
 Then run:
 
-```
+```text
 $ pib setup
 ```
 
@@ -55,13 +57,13 @@ Unlike PIB, PIT is focussed on one thing: making it easy for you to find the tem
 
 Install PIT by typing the following into a terminal window:
 
-```
+```text
 $ npm install -g @politico/interactive-templates
 ```
 
 Once it's installed you can register new templates. We'll start with a basic one that'll be used throughout this guide:
 
-```
+```text
 $ pit register https://github.com/The-Politico/template_pib-interactive
 ```
 
@@ -84,3 +86,4 @@ Snippets in Atom are a powerful way to save yourself on repeated code. As a team
 All Google Docs for interactive projects go in [this folder](https://drive.google.com/drive/folders/1LwuTm5ueV-gvIma0Up5opkbUqK0WTbmV). Make sure you have full read/write access to it. If you need access, contact Andrew Briz.
 
 We'll cover making new new docs later in this guide.
+

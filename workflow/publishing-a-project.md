@@ -1,5 +1,48 @@
 # Publishing a project
 
+### 🛑 Red lines 🛑
+
+Before we talk about how you should publish a project, you need to know when you _shouldn't_ publish one.
+
+These guidelines are here to **stop you** from publishing a page that hasn't passed the minimum conditions for safety on our desk. Any project failing them should not be published or promoted.
+
+These guidelines help check your worst impulses under stress, but also **protect you** from pressures around the newsroom. If you're under pressure from a more senior editor, direct that editor to these rules and loop in the Interactive News editor immediately.
+
+These are our red lines:
+
+* All code must be on GitHub before it's on politico.com.
+* All pages must pass an edit on the Interactive News desk, no matter who \(or how senior\) other editors are.
+* Untested code is broken code. Every page must pass functionality and design tests across our minimum testing devices before it's promoted.
+* The copy desk reads all Interactive News pages. Only in extreme cases should they back-edit our work. \(Chats are the only exception to this rule.\)
+
+_**Are you an editor who's been directed to these guidelines???**_
+
+👋 Welcome. We know you're on deadline, so we'll make this brief.
+
+All Interactive pages are a mix of both the content and the technical format it takes. When you write a story in the CMS, those technical details are taken care of ahead of time. In an Interactive, they are custom and must be edited by a qualified editor just like copy. Part of committing to an interactive page is committing to that extra overhead. We work fast, but making sure our code works for all our readers protects POLITICO's brand.
+
+Interactive News will not publish any page if we are not sure we can stand behind the code. We'll work as quickly as we can to get your page up. Thank you for your patience.
+
+### Minimum testing devices
+
+Test your code against these devices, **even on deadline**.
+
+**Desktop**
+
+* Latest version of Chrome
+* Latest version of Firefox
+
+👉 Test all pages at several breakpoints. Start with Bootstrap defaults: 1200, 992 & 768 pixels wide.
+
+**Mobile**
+
+* iPhone 
+* Android
+
+👉 Remember your newsroom, especially your editors, do not represent your readers: **A majority of Americans prefer Android phones.** Test your code where your readers are.
+
+
+
 Some simple guidelines for what to do before you hit the big red button.
 
 #### Editing process

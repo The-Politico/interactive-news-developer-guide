@@ -6,9 +6,9 @@ Before we talk about how you should publish a project, you need to know when you
 
 These guidelines are here to **stop you** from publishing a page that hasn't passed the minimum conditions for safety on our desk. Any project failing them should not be published or promoted.
 
-These guidelines help check your worst impulses under stress, but also **protect you** from pressures around the newsroom. If you're under pressure from a more senior editor, direct that editor to these rules and loop in the Interactive News editor immediately.
+These guidelines help check you on deadline, but they also **protect you** from pressures around the newsroom. If you're under pressure from a more senior editor, direct that editor to these rules and loop in the Interactive News editor immediately.
 
-These are our red lines:
+**These are our red lines:**
 
 * All code must be on GitHub before it's on politico.com.
 * All pages must pass an edit on the Interactive News desk, no matter who \(or how senior\) other editors are.
